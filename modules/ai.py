@@ -1,19 +1,28 @@
 
 def multi_agent_discussion(question, data):
-    lines = [f"### Multi-Agent Discussion\n\n**Question:** {question}\n"]
+    cards = [f"## Multi-Agent Boardroom\n\n**Question:** {question}\n"]
     for _, r in data["agent_views"].iterrows():
-        lines.append(f"#### {r.agent}\n**Perspective:** {r.perspective}\n\n{r.current_view}")
-    lines.append("""
-### Integrated Recommendation
+        cards.append(f"""
+<div class="agent-card">
+<h4>{r.agent}</h4>
+<p><b>Perspective:</b> {r.perspective}</p>
+<p>{r.current_view}</p>
+</div>
+""")
+    cards.append("""
+## Integrated Recommendation
+
+<span class="green-badge">Consensus</span>
 
 Approve a **90-day pilot** with:
+
 - clear business owner;
 - budget cap;
 - weekly executive review;
 - data governance checklist;
 - measurable KPI for adoption and ROI.
 """)
-    return "\n\n".join(lines)
+    return "\n".join(cards)
 
 def generate_meeting_pack(meeting_type, data):
     b = data["meetings"][data["meetings"]["meeting_type"] == meeting_type]
@@ -22,45 +31,39 @@ def generate_meeting_pack(meeting_type, data):
     open_count = len(open_actions)
 
     return f"""
-## {meeting_type} Pack
+# {meeting_type} Board Pack
 
 <span class="blue-badge">Open actions: {open_count}</span> <span class="red-badge">Overdue: {overdue}</span>
 
-### 1. Agenda
+## Executive Summary
 
-1. Review CEO Morning Brief.
-2. Review open and overdue action items.
-3. Review top people risk and transformation risks.
-4. Confirm decisions required.
-5. Assign owners and due dates.
+The meeting should focus on high-priority people risks, delayed transformation actions, and decisions that require executive alignment.
 
-### 2. Decision Paper
+## Critical Issues
 
-**Purpose:** align the executive team on urgent people, process, and transformation decisions.
+| Issue | Why it matters | Suggested action |
+|---|---|---|
+| People Risk | High attrition and key-person dependency can disrupt execution. | Review retention actions and successor readiness. |
+| Process Bottlenecks | Repeated approvals slow down delivery. | Approve simplified authority matrix. |
+| Transformation Delay | Delayed initiatives reduce strategy execution score. | Escalate overdue owners and reset milestones. |
 
-**Key decisions required**
-- Approve priority actions for the next 7 days.
-- Escalate overdue items to accountable owners.
-- Confirm governance rhythm for next review.
-- Decide whether any initiative needs reprioritization.
+## Decisions Required
 
-### 3. Risk Review
+1. Approve priority actions for the next 7 days.
+2. Escalate overdue items to accountable owners.
+3. Confirm governance rhythm for next review.
+4. Decide whether any initiative needs reprioritization.
 
-- People Risk: check high attrition/high dependency roles.
-- Process Risk: check bottlenecks and repeated approvals.
-- Transformation Risk: check delayed or at-risk initiatives.
-- Governance Risk: check unclear ownership or missing SLA.
+## Minutes Template
 
-### 4. Minutes Template
-
-| Item | Decision | Owner | Due date | Status |
+| Item | Decision | Owner | Due date | RAG |
 |---|---|---|---|---|
 | KPI / People Risk |  |  |  |  |
 | Transformation |  |  |  |  |
 | Process / Policy |  |  |  |  |
 | Follow-up |  |  |  |  |
 
-### 5. Suggested Follow-up
+## Suggested Follow-up
 
 - Update action tracker within 24 hours.
 - Send CEO brief after the meeting.
@@ -69,20 +72,20 @@ def generate_meeting_pack(meeting_type, data):
 
 def document_review(doc):
     return f"""
-## Document Review: {doc.get('title')}
+# Document Review: {doc.get('title')}
 
 <span class="blue-badge">{doc.get('doc_type')}</span> <span class="green-badge">Owner: {doc.get('owner')}</span>
 
-### Current Version
+## Current Version
 **Version:** {doc.get('version')}
 
-### Detected Risk
+## Detected Risk
 {doc.get('risk')}
 
-### Recommendation
+## Recommendation
 {doc.get('recommendation')}
 
-### Suggested Next Action
+## Suggested Next Action
 1. Assign an accountable owner.
 2. Update the document.
 3. Validate with Legal / Finance / HRD.
@@ -94,63 +97,64 @@ def scenario_summary(scenario, data):
     emp = data["employees"]
     if "M&A" in scenario:
         return f"""
-## M&A Integration Scenario
+# M&A Integration Scenario
 
 **Estimated integration population:** {round(len(emp)*0.3)} employees.
 
-### Key Risks
+## Key Risks
 - Culture clash.
 - Leadership overlap.
 - Duplicated roles.
 - Data migration.
 - Policy inconsistency.
 
-### Recommendation
+## Recommendation
 Run a **100-day integration office**, culture due diligence, leadership selection, and harmonized governance model.
 """
     if "Cắt giảm" in scenario:
         impact = round(len(emp)*0.15)
         return f"""
-## Workforce Reduction Scenario
+# Workforce Reduction Scenario
 
 **Impacted employees:** {impact}  
 **Estimated saving:** ${impact*18000:,.0f}/year
 
-### Risks
+## Risks
 - High performer loss.
 - Culture damage.
 - Knowledge leakage.
 - Lower trust in leadership.
 
-### Recommendation
+## Recommendation
 Prioritize redeployment, natural attrition, process automation, and role redesign before layoff.
 """
     if "Phòng AI" in scenario:
         return """
-## AI Office Scenario
+# AI Office Scenario
 
-### Core Team
+## Core Team
 - AI Product Owner
 - Data Analyst
 - OD Analyst
 - Automation Engineer
 
-### Expected ROI
+## Expected ROI
 - Reduce reporting time by 30–50%.
 - Improve decision quality.
 - Build organization memory.
 - Standardize executive reporting.
 
-### Governance Required
+## Governance Required
 - Data privacy.
 - Model risk control.
 - Adoption management.
 - Clear owner and budget cap.
 """
     return """
-## Scenario Summary
+# Scenario Summary
 
 Assess impact across:
+
 - headcount;
 - cost;
 - capability;

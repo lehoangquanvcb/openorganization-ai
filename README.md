@@ -1,17 +1,21 @@
-# OpenOrganization AI v7 - Enterprise UI Edition
+# OpenOrganization AI v8 - Graph Pack
 
-This version fixes the Executive Meeting AI newline issue and upgrades the UI for executive demo.
+V8 upgrades the visual experience of V7.1.
 
-## What changed from v6
+## What changed from v7.1
 
-- Fixed `\n` display issue in Executive Meeting AI.
-- Improved sidebar labels with icons.
-- Added executive metric cards.
-- Added ChatGPT-style Copilot UI.
-- Improved Executive Meeting Pack layout.
-- Improved Process Mining view.
-- Added better Document Intelligence formatting.
-- Added Enterprise UI styling.
+- Replaced grid-like node scatter with a real Plotly relationship network graph.
+- Added relationship edge rendering for Organization Digital Brain.
+- Added Process Flow visualization with bottleneck highlight.
+- Improved Multi-Agent Boardroom into agent cards.
+- Improved Executive Meeting AI into Board Pack format.
+- Improved Decision Center and Document Intelligence layout.
+
+## Files changed
+
+- `app.py`
+- `modules/ai.py`
+- `README.md`
 
 ## Run locally
 
@@ -19,14 +23,3 @@ This version fixes the Executive Meeting AI newline issue and upgrades the UI fo
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Main files changed
-
-- `app.py`
-- `modules/ai.py`
-- `README.md`
-
-
-## v7.1 Fix
-
-- Fixed TypeError in Organization Digital Brain by converting graph node labels to strings before rendering.
