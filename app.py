@@ -95,17 +95,25 @@ elif module == "🧠 Organization Digital Brain":
     with c2: card("Edges", g["edges"], "Relationships")
     with c3: card("Skill Links", g["employee_skill_links"], "Employee-skill")
     with c4: card("Meeting Links", g["meeting_links"], "Actions & owners")
-    edges = g["sample_edges"]
+    edges = g["sample_edges"].copy()
     st.markdown("### Relationship Graph View")
-    nodes = sorted(set(edges["from"]).union(set(edges["to"])))
-    node_df = pd.DataFrame({"node": nodes})
-    node_df["x"] = [i % 12 for i in range(len(node_df))]
-    node_df["y"] = [i // 12 for i in range(len(node_df))]
-    fig = px.scatter(node_df, x="x", y="y", text="node", title="Sample Organization Knowledge Graph")
-    fig.update_traces(textposition="top center", marker=dict(size=14))
-    fig.update_layout(height=620, showlegend=False, xaxis_visible=False, yaxis_visible=False)
-    st.plotly_chart(fig, use_container_width=True)
-    st.dataframe(edges, use_container_width=True)
+
+    # Robust conversion: convert all node labels to string before building graph nodes.
+    if not edges.empty and {"from", "to"}.issubset(edges.columns):
+        edges["from_label"] = edges["from"].astype(str)
+        edges["to_label"] = edges["to"].astype(str)
+        nodes = sorted(pd.concat([edges["from_label"], edges["to_label"]], ignore_index=True).dropna().astype(str).unique().tolist())
+        node_df = pd.DataFrame({"node": nodes})
+        node_df["x"] = [i % 12 for i in range(len(node_df))]
+        node_df["y"] = [i // 12 for i in range(len(node_df))]
+        fig = px.scatter(node_df, x="x", y="y", text="node", title="Sample Organization Knowledge Graph")
+        fig.update_traces(textposition="top center", marker=dict(size=14))
+        fig.update_layout(height=620, showlegend=False, xaxis_visible=False, yaxis_visible=False)
+        st.plotly_chart(fig, use_container_width=True)
+        st.dataframe(edges[["from", "relationship", "to"]].head(120), use_container_width=True)
+    else:
+        st.warning("No relationship data available for graph view.")
+        st.dataframe(edges, use_container_width=True)
 
 elif module == "💬 Chat with Organization":
     st.title("Chat with Organization")

@@ -25,3 +25,8 @@ streamlit run app.py
 - `app.py`
 - `modules/ai.py`
 - `README.md`
+
+
+## v7.1 Fix
+
+- Fixed TypeError in Organization Digital Brain by converting graph node labels to strings before rendering.
