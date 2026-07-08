@@ -1,17 +1,27 @@
-# OpenOrganization AI v6
+# OpenOrganization AI v7 - Enterprise UI Edition
 
-OpenOrganization AI v6 nâng cấp OpenHRD thành **AI Operating System for Organization Development & Enterprise Execution**.
+This version fixes the Executive Meeting AI newline issue and upgrades the UI for executive demo.
 
-## Điểm mới so với v5
-- Organization Digital Brain: liên kết employee, KPI, skill, project, meeting, document.
-- Multi-Agent Boardroom: CEO/HRD/COO/CFO/Legal/Transformation agents.
-- Executive Meeting AI: agenda, decision paper, minutes, action items.
-- Process Mining: phát hiện bottleneck trong Recruitment, Onboarding, Training, Performance Review, Promotion, Policy/Budget Approval.
-- Document Intelligence: rà soát policy, JD, SOP và khuyến nghị sửa.
-- Dataset 1.000 nhân sự, process log, meeting log, documents và agent views.
+## What changed from v6
 
-## Chạy local
+- Fixed `\n` display issue in Executive Meeting AI.
+- Improved sidebar labels with icons.
+- Added executive metric cards.
+- Added ChatGPT-style Copilot UI.
+- Improved Executive Meeting Pack layout.
+- Improved Process Mining view.
+- Added better Document Intelligence formatting.
+- Added Enterprise UI styling.
+
+## Run locally
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Main files changed
+
+- `app.py`
+- `modules/ai.py`
+- `README.md`
