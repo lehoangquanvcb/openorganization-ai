@@ -1,0 +1,1409 @@
+quarter,department,survey_item,score,target
+2025Q1,Procurement,Trust in Leadership,58.8,85
+2025Q1,Procurement,Learning Culture,75.2,85
+2025Q1,Procurement,Collaboration,75.3,85
+2025Q1,Procurement,Empowerment,83.5,85
+2025Q1,Procurement,Purpose Alignment,80.7,85
+2025Q1,Procurement,Wellbeing,77.2,85
+2025Q1,Procurement,Innovation,77.1,85
+2025Q1,Procurement,Psychological Safety,86.2,85
+2025Q1,Marketing,Trust in Leadership,85.1,85
+2025Q1,Marketing,Learning Culture,77.8,85
+2025Q1,Marketing,Collaboration,77.9,85
+2025Q1,Marketing,Empowerment,81.9,85
+2025Q1,Marketing,Purpose Alignment,78.3,85
+2025Q1,Marketing,Wellbeing,68.5,85
+2025Q1,Marketing,Innovation,69.4,85
+2025Q1,Marketing,Psychological Safety,83.4,85
+2025Q1,Transformation Office,Trust in Leadership,76.2,85
+2025Q1,Transformation Office,Learning Culture,80.0,85
+2025Q1,Transformation Office,Collaboration,67.5,85
+2025Q1,Transformation Office,Empowerment,79.5,85
+2025Q1,Transformation Office,Purpose Alignment,68.6,85
+2025Q1,Transformation Office,Wellbeing,73.9,85
+2025Q1,Transformation Office,Innovation,81.3,85
+2025Q1,Transformation Office,Psychological Safety,74.2,85
+2025Q1,Production,Trust in Leadership,72.1,85
+2025Q1,Production,Learning Culture,67.5,85
+2025Q1,Production,Collaboration,80.9,85
+2025Q1,Production,Empowerment,72.3,85
+2025Q1,Production,Purpose Alignment,67.5,85
+2025Q1,Production,Wellbeing,75.7,85
+2025Q1,Production,Innovation,76.5,85
+2025Q1,Production,Psychological Safety,81.1,85
+2025Q1,IT,Trust in Leadership,76.4,85
+2025Q1,IT,Learning Culture,69.0,85
+2025Q1,IT,Collaboration,63.6,85
+2025Q1,IT,Empowerment,70.5,85
+2025Q1,IT,Purpose Alignment,74.9,85
+2025Q1,IT,Wellbeing,81.7,85
+2025Q1,IT,Innovation,73.1,85
+2025Q1,IT,Psychological Safety,73.5,85
+2025Q1,Sales,Trust in Leadership,62.1,85
+2025Q1,Sales,Learning Culture,70.7,85
+2025Q1,Sales,Collaboration,65.0,85
+2025Q1,Sales,Empowerment,66.3,85
+2025Q1,Sales,Purpose Alignment,75.7,85
+2025Q1,Sales,Wellbeing,65.2,85
+2025Q1,Sales,Innovation,71.0,85
+2025Q1,Sales,Psychological Safety,81.8,85
+2025Q1,Data & AI,Trust in Leadership,73.4,85
+2025Q1,Data & AI,Learning Culture,75.9,85
+2025Q1,Data & AI,Collaboration,81.7,85
+2025Q1,Data & AI,Empowerment,59.5,85
+2025Q1,Data & AI,Purpose Alignment,74.7,85
+2025Q1,Data & AI,Wellbeing,65.9,85
+2025Q1,Data & AI,Innovation,78.5,85
+2025Q1,Data & AI,Psychological Safety,68.1,85
+2025Q1,Sustainability,Trust in Leadership,74.0,85
+2025Q1,Sustainability,Learning Culture,69.4,85
+2025Q1,Sustainability,Collaboration,69.0,85
+2025Q1,Sustainability,Empowerment,62.0,85
+2025Q1,Sustainability,Purpose Alignment,78.4,85
+2025Q1,Sustainability,Wellbeing,77.6,85
+2025Q1,Sustainability,Innovation,81.7,85
+2025Q1,Sustainability,Psychological Safety,70.4,85
+2025Q1,Maintenance,Trust in Leadership,80.1,85
+2025Q1,Maintenance,Learning Culture,74.7,85
+2025Q1,Maintenance,Collaboration,74.9,85
+2025Q1,Maintenance,Empowerment,72.4,85
+2025Q1,Maintenance,Purpose Alignment,80.1,85
+2025Q1,Maintenance,Wellbeing,82.5,85
+2025Q1,Maintenance,Innovation,86.3,85
+2025Q1,Maintenance,Psychological Safety,81.0,85
+2025Q1,Finance,Trust in Leadership,80.6,85
+2025Q1,Finance,Learning Culture,74.0,85
+2025Q1,Finance,Collaboration,65.7,85
+2025Q1,Finance,Empowerment,84.7,85
+2025Q1,Finance,Purpose Alignment,72.2,85
+2025Q1,Finance,Wellbeing,75.8,85
+2025Q1,Finance,Innovation,79.9,85
+2025Q1,Finance,Psychological Safety,75.2,85
+2025Q1,EHS,Trust in Leadership,81.7,85
+2025Q1,EHS,Learning Culture,76.6,85
+2025Q1,EHS,Collaboration,85.6,85
+2025Q1,EHS,Empowerment,71.7,85
+2025Q1,EHS,Purpose Alignment,73.0,85
+2025Q1,EHS,Wellbeing,76.1,85
+2025Q1,EHS,Innovation,73.2,85
+2025Q1,EHS,Psychological Safety,78.7,85
+2025Q1,Customer Success,Trust in Leadership,82.6,85
+2025Q1,Customer Success,Learning Culture,87.0,85
+2025Q1,Customer Success,Collaboration,76.6,85
+2025Q1,Customer Success,Empowerment,73.9,85
+2025Q1,Customer Success,Purpose Alignment,64.2,85
+2025Q1,Customer Success,Wellbeing,69.4,85
+2025Q1,Customer Success,Innovation,81.5,85
+2025Q1,Customer Success,Psychological Safety,76.7,85
+2025Q1,CEO Office,Trust in Leadership,73.1,85
+2025Q1,CEO Office,Learning Culture,76.3,85
+2025Q1,CEO Office,Collaboration,70.8,85
+2025Q1,CEO Office,Empowerment,77.7,85
+2025Q1,CEO Office,Purpose Alignment,79.2,85
+2025Q1,CEO Office,Wellbeing,76.9,85
+2025Q1,CEO Office,Innovation,74.6,85
+2025Q1,CEO Office,Psychological Safety,76.3,85
+2025Q1,Supply Chain,Trust in Leadership,72.4,85
+2025Q1,Supply Chain,Learning Culture,88.7,85
+2025Q1,Supply Chain,Collaboration,80.7,85
+2025Q1,Supply Chain,Empowerment,75.4,85
+2025Q1,Supply Chain,Purpose Alignment,76.3,85
+2025Q1,Supply Chain,Wellbeing,66.2,85
+2025Q1,Supply Chain,Innovation,66.1,85
+2025Q1,Supply Chain,Psychological Safety,70.6,85
+2025Q1,Quality,Trust in Leadership,68.0,85
+2025Q1,Quality,Learning Culture,76.1,85
+2025Q1,Quality,Collaboration,71.4,85
+2025Q1,Quality,Empowerment,86.8,85
+2025Q1,Quality,Purpose Alignment,79.5,85
+2025Q1,Quality,Wellbeing,75.2,85
+2025Q1,Quality,Innovation,78.6,85
+2025Q1,Quality,Psychological Safety,69.0,85
+2025Q1,Automation,Trust in Leadership,73.5,85
+2025Q1,Automation,Learning Culture,75.5,85
+2025Q1,Automation,Collaboration,82.0,85
+2025Q1,Automation,Empowerment,80.9,85
+2025Q1,Automation,Purpose Alignment,83.7,85
+2025Q1,Automation,Wellbeing,78.1,85
+2025Q1,Automation,Innovation,79.8,85
+2025Q1,Automation,Psychological Safety,78.5,85
+2025Q1,HR,Trust in Leadership,73.4,85
+2025Q1,HR,Learning Culture,73.0,85
+2025Q1,HR,Collaboration,69.3,85
+2025Q1,HR,Empowerment,72.4,85
+2025Q1,HR,Purpose Alignment,80.0,85
+2025Q1,HR,Wellbeing,80.7,85
+2025Q1,HR,Innovation,78.6,85
+2025Q1,HR,Psychological Safety,71.3,85
+2025Q1,Strategy,Trust in Leadership,80.3,85
+2025Q1,Strategy,Learning Culture,75.4,85
+2025Q1,Strategy,Collaboration,74.0,85
+2025Q1,Strategy,Empowerment,73.2,85
+2025Q1,Strategy,Purpose Alignment,78.3,85
+2025Q1,Strategy,Wellbeing,69.3,85
+2025Q1,Strategy,Innovation,77.2,85
+2025Q1,Strategy,Psychological Safety,76.6,85
+2025Q1,Research,Trust in Leadership,79.8,85
+2025Q1,Research,Learning Culture,78.9,85
+2025Q1,Research,Collaboration,67.8,85
+2025Q1,Research,Empowerment,75.3,85
+2025Q1,Research,Purpose Alignment,67.9,85
+2025Q1,Research,Wellbeing,67.5,85
+2025Q1,Research,Innovation,72.8,85
+2025Q1,Research,Psychological Safety,64.9,85
+2025Q1,Investment,Trust in Leadership,78.8,85
+2025Q1,Investment,Learning Culture,86.5,85
+2025Q1,Investment,Collaboration,85.7,85
+2025Q1,Investment,Empowerment,75.4,85
+2025Q1,Investment,Purpose Alignment,76.5,85
+2025Q1,Investment,Wellbeing,82.6,85
+2025Q1,Investment,Innovation,80.5,85
+2025Q1,Investment,Psychological Safety,83.0,85
+2025Q1,Product,Trust in Leadership,81.3,85
+2025Q1,Product,Learning Culture,74.2,85
+2025Q1,Product,Collaboration,81.6,85
+2025Q1,Product,Empowerment,62.7,85
+2025Q1,Product,Purpose Alignment,80.3,85
+2025Q1,Product,Wellbeing,78.0,85
+2025Q1,Product,Innovation,76.4,85
+2025Q1,Product,Psychological Safety,79.1,85
+2025Q1,Legal,Trust in Leadership,69.1,85
+2025Q1,Legal,Learning Culture,81.2,85
+2025Q1,Legal,Collaboration,63.2,85
+2025Q1,Legal,Empowerment,72.8,85
+2025Q1,Legal,Purpose Alignment,69.5,85
+2025Q1,Legal,Wellbeing,64.3,85
+2025Q1,Legal,Innovation,77.9,85
+2025Q1,Legal,Psychological Safety,62.1,85
+2025Q2,Procurement,Trust in Leadership,74.3,85
+2025Q2,Procurement,Learning Culture,87.0,85
+2025Q2,Procurement,Collaboration,80.2,85
+2025Q2,Procurement,Empowerment,72.6,85
+2025Q2,Procurement,Purpose Alignment,76.6,85
+2025Q2,Procurement,Wellbeing,68.2,85
+2025Q2,Procurement,Innovation,72.7,85
+2025Q2,Procurement,Psychological Safety,65.9,85
+2025Q2,Marketing,Trust in Leadership,82.9,85
+2025Q2,Marketing,Learning Culture,74.7,85
+2025Q2,Marketing,Collaboration,77.8,85
+2025Q2,Marketing,Empowerment,66.0,85
+2025Q2,Marketing,Purpose Alignment,81.4,85
+2025Q2,Marketing,Wellbeing,68.0,85
+2025Q2,Marketing,Innovation,68.0,85
+2025Q2,Marketing,Psychological Safety,87.1,85
+2025Q2,Transformation Office,Trust in Leadership,83.4,85
+2025Q2,Transformation Office,Learning Culture,72.9,85
+2025Q2,Transformation Office,Collaboration,75.7,85
+2025Q2,Transformation Office,Empowerment,79.4,85
+2025Q2,Transformation Office,Purpose Alignment,71.5,85
+2025Q2,Transformation Office,Wellbeing,79.0,85
+2025Q2,Transformation Office,Innovation,71.2,85
+2025Q2,Transformation Office,Psychological Safety,83.7,85
+2025Q2,Production,Trust in Leadership,71.1,85
+2025Q2,Production,Learning Culture,72.1,85
+2025Q2,Production,Collaboration,70.0,85
+2025Q2,Production,Empowerment,73.8,85
+2025Q2,Production,Purpose Alignment,73.4,85
+2025Q2,Production,Wellbeing,84.5,85
+2025Q2,Production,Innovation,64.3,85
+2025Q2,Production,Psychological Safety,82.4,85
+2025Q2,IT,Trust in Leadership,72.2,85
+2025Q2,IT,Learning Culture,72.1,85
+2025Q2,IT,Collaboration,83.3,85
+2025Q2,IT,Empowerment,71.9,85
+2025Q2,IT,Purpose Alignment,67.8,85
+2025Q2,IT,Wellbeing,87.7,85
+2025Q2,IT,Innovation,69.1,85
+2025Q2,IT,Psychological Safety,77.0,85
+2025Q2,Sales,Trust in Leadership,72.8,85
+2025Q2,Sales,Learning Culture,67.7,85
+2025Q2,Sales,Collaboration,72.0,85
+2025Q2,Sales,Empowerment,81.2,85
+2025Q2,Sales,Purpose Alignment,68.5,85
+2025Q2,Sales,Wellbeing,73.3,85
+2025Q2,Sales,Innovation,74.1,85
+2025Q2,Sales,Psychological Safety,70.2,85
+2025Q2,Data & AI,Trust in Leadership,71.9,85
+2025Q2,Data & AI,Learning Culture,79.8,85
+2025Q2,Data & AI,Collaboration,71.6,85
+2025Q2,Data & AI,Empowerment,48.3,85
+2025Q2,Data & AI,Purpose Alignment,69.3,85
+2025Q2,Data & AI,Wellbeing,72.7,85
+2025Q2,Data & AI,Innovation,74.1,85
+2025Q2,Data & AI,Psychological Safety,62.9,85
+2025Q2,Sustainability,Trust in Leadership,72.4,85
+2025Q2,Sustainability,Learning Culture,79.1,85
+2025Q2,Sustainability,Collaboration,76.1,85
+2025Q2,Sustainability,Empowerment,65.2,85
+2025Q2,Sustainability,Purpose Alignment,69.4,85
+2025Q2,Sustainability,Wellbeing,77.8,85
+2025Q2,Sustainability,Innovation,65.5,85
+2025Q2,Sustainability,Psychological Safety,68.5,85
+2025Q2,Maintenance,Trust in Leadership,78.2,85
+2025Q2,Maintenance,Learning Culture,86.7,85
+2025Q2,Maintenance,Collaboration,78.3,85
+2025Q2,Maintenance,Empowerment,83.4,85
+2025Q2,Maintenance,Purpose Alignment,76.9,85
+2025Q2,Maintenance,Wellbeing,90.9,85
+2025Q2,Maintenance,Innovation,83.5,85
+2025Q2,Maintenance,Psychological Safety,80.9,85
+2025Q2,Finance,Trust in Leadership,69.6,85
+2025Q2,Finance,Learning Culture,74.7,85
+2025Q2,Finance,Collaboration,62.2,85
+2025Q2,Finance,Empowerment,66.3,85
+2025Q2,Finance,Purpose Alignment,72.0,85
+2025Q2,Finance,Wellbeing,70.7,85
+2025Q2,Finance,Innovation,82.0,85
+2025Q2,Finance,Psychological Safety,66.0,85
+2025Q2,EHS,Trust in Leadership,66.5,85
+2025Q2,EHS,Learning Culture,73.9,85
+2025Q2,EHS,Collaboration,81.0,85
+2025Q2,EHS,Empowerment,82.4,85
+2025Q2,EHS,Purpose Alignment,72.3,85
+2025Q2,EHS,Wellbeing,79.8,85
+2025Q2,EHS,Innovation,67.5,85
+2025Q2,EHS,Psychological Safety,73.5,85
+2025Q2,Customer Success,Trust in Leadership,78.4,85
+2025Q2,Customer Success,Learning Culture,82.0,85
+2025Q2,Customer Success,Collaboration,65.4,85
+2025Q2,Customer Success,Empowerment,78.3,85
+2025Q2,Customer Success,Purpose Alignment,74.0,85
+2025Q2,Customer Success,Wellbeing,76.8,85
+2025Q2,Customer Success,Innovation,73.6,85
+2025Q2,Customer Success,Psychological Safety,68.1,85
+2025Q2,CEO Office,Trust in Leadership,74.3,85
+2025Q2,CEO Office,Learning Culture,78.9,85
+2025Q2,CEO Office,Collaboration,78.7,85
+2025Q2,CEO Office,Empowerment,74.8,85
+2025Q2,CEO Office,Purpose Alignment,71.2,85
+2025Q2,CEO Office,Wellbeing,71.8,85
+2025Q2,CEO Office,Innovation,73.6,85
+2025Q2,CEO Office,Psychological Safety,83.1,85
+2025Q2,Supply Chain,Trust in Leadership,70.9,85
+2025Q2,Supply Chain,Learning Culture,71.0,85
+2025Q2,Supply Chain,Collaboration,66.9,85
+2025Q2,Supply Chain,Empowerment,73.9,85
+2025Q2,Supply Chain,Purpose Alignment,71.2,85
+2025Q2,Supply Chain,Wellbeing,79.2,85
+2025Q2,Supply Chain,Innovation,69.1,85
+2025Q2,Supply Chain,Psychological Safety,77.0,85
+2025Q2,Quality,Trust in Leadership,88.8,85
+2025Q2,Quality,Learning Culture,71.5,85
+2025Q2,Quality,Collaboration,77.9,85
+2025Q2,Quality,Empowerment,84.6,85
+2025Q2,Quality,Purpose Alignment,82.7,85
+2025Q2,Quality,Wellbeing,69.0,85
+2025Q2,Quality,Innovation,83.7,85
+2025Q2,Quality,Psychological Safety,82.4,85
+2025Q2,Automation,Trust in Leadership,78.4,85
+2025Q2,Automation,Learning Culture,63.5,85
+2025Q2,Automation,Collaboration,71.1,85
+2025Q2,Automation,Empowerment,68.4,85
+2025Q2,Automation,Purpose Alignment,84.6,85
+2025Q2,Automation,Wellbeing,79.8,85
+2025Q2,Automation,Innovation,89.2,85
+2025Q2,Automation,Psychological Safety,73.5,85
+2025Q2,HR,Trust in Leadership,76.3,85
+2025Q2,HR,Learning Culture,66.2,85
+2025Q2,HR,Collaboration,73.3,85
+2025Q2,HR,Empowerment,79.9,85
+2025Q2,HR,Purpose Alignment,72.8,85
+2025Q2,HR,Wellbeing,75.0,85
+2025Q2,HR,Innovation,64.6,85
+2025Q2,HR,Psychological Safety,68.1,85
+2025Q2,Strategy,Trust in Leadership,73.2,85
+2025Q2,Strategy,Learning Culture,74.1,85
+2025Q2,Strategy,Collaboration,69.6,85
+2025Q2,Strategy,Empowerment,77.3,85
+2025Q2,Strategy,Purpose Alignment,68.7,85
+2025Q2,Strategy,Wellbeing,81.8,85
+2025Q2,Strategy,Innovation,62.3,85
+2025Q2,Strategy,Psychological Safety,65.5,85
+2025Q2,Research,Trust in Leadership,71.3,85
+2025Q2,Research,Learning Culture,81.3,85
+2025Q2,Research,Collaboration,72.0,85
+2025Q2,Research,Empowerment,87.0,85
+2025Q2,Research,Purpose Alignment,78.8,85
+2025Q2,Research,Wellbeing,79.0,85
+2025Q2,Research,Innovation,65.6,85
+2025Q2,Research,Psychological Safety,83.9,85
+2025Q2,Investment,Trust in Leadership,78.6,85
+2025Q2,Investment,Learning Culture,79.4,85
+2025Q2,Investment,Collaboration,85.8,85
+2025Q2,Investment,Empowerment,78.3,85
+2025Q2,Investment,Purpose Alignment,88.6,85
+2025Q2,Investment,Wellbeing,80.9,85
+2025Q2,Investment,Innovation,82.8,85
+2025Q2,Investment,Psychological Safety,77.0,85
+2025Q2,Product,Trust in Leadership,80.4,85
+2025Q2,Product,Learning Culture,74.1,85
+2025Q2,Product,Collaboration,79.8,85
+2025Q2,Product,Empowerment,71.0,85
+2025Q2,Product,Purpose Alignment,72.5,85
+2025Q2,Product,Wellbeing,72.3,85
+2025Q2,Product,Innovation,80.4,85
+2025Q2,Product,Psychological Safety,68.6,85
+2025Q2,Legal,Trust in Leadership,66.5,85
+2025Q2,Legal,Learning Culture,67.5,85
+2025Q2,Legal,Collaboration,69.2,85
+2025Q2,Legal,Empowerment,75.1,85
+2025Q2,Legal,Purpose Alignment,70.2,85
+2025Q2,Legal,Wellbeing,80.9,85
+2025Q2,Legal,Innovation,77.7,85
+2025Q2,Legal,Psychological Safety,57.3,85
+2025Q3,Procurement,Trust in Leadership,77.4,85
+2025Q3,Procurement,Learning Culture,67.1,85
+2025Q3,Procurement,Collaboration,74.3,85
+2025Q3,Procurement,Empowerment,70.6,85
+2025Q3,Procurement,Purpose Alignment,66.6,85
+2025Q3,Procurement,Wellbeing,72.0,85
+2025Q3,Procurement,Innovation,72.3,85
+2025Q3,Procurement,Psychological Safety,65.8,85
+2025Q3,Marketing,Trust in Leadership,82.4,85
+2025Q3,Marketing,Learning Culture,75.9,85
+2025Q3,Marketing,Collaboration,80.3,85
+2025Q3,Marketing,Empowerment,73.7,85
+2025Q3,Marketing,Purpose Alignment,74.4,85
+2025Q3,Marketing,Wellbeing,74.7,85
+2025Q3,Marketing,Innovation,59.3,85
+2025Q3,Marketing,Psychological Safety,80.8,85
+2025Q3,Transformation Office,Trust in Leadership,68.0,85
+2025Q3,Transformation Office,Learning Culture,68.8,85
+2025Q3,Transformation Office,Collaboration,70.7,85
+2025Q3,Transformation Office,Empowerment,77.5,85
+2025Q3,Transformation Office,Purpose Alignment,79.2,85
+2025Q3,Transformation Office,Wellbeing,77.8,85
+2025Q3,Transformation Office,Innovation,80.5,85
+2025Q3,Transformation Office,Psychological Safety,70.9,85
+2025Q3,Production,Trust in Leadership,75.6,85
+2025Q3,Production,Learning Culture,76.1,85
+2025Q3,Production,Collaboration,71.0,85
+2025Q3,Production,Empowerment,75.4,85
+2025Q3,Production,Purpose Alignment,72.2,85
+2025Q3,Production,Wellbeing,77.6,85
+2025Q3,Production,Innovation,70.6,85
+2025Q3,Production,Psychological Safety,77.1,85
+2025Q3,IT,Trust in Leadership,70.2,85
+2025Q3,IT,Learning Culture,86.8,85
+2025Q3,IT,Collaboration,72.7,85
+2025Q3,IT,Empowerment,65.7,85
+2025Q3,IT,Purpose Alignment,65.6,85
+2025Q3,IT,Wellbeing,75.3,85
+2025Q3,IT,Innovation,74.4,85
+2025Q3,IT,Psychological Safety,80.6,85
+2025Q3,Sales,Trust in Leadership,69.6,85
+2025Q3,Sales,Learning Culture,78.6,85
+2025Q3,Sales,Collaboration,87.7,85
+2025Q3,Sales,Empowerment,69.2,85
+2025Q3,Sales,Purpose Alignment,73.7,85
+2025Q3,Sales,Wellbeing,66.4,85
+2025Q3,Sales,Innovation,75.4,85
+2025Q3,Sales,Psychological Safety,77.2,85
+2025Q3,Data & AI,Trust in Leadership,72.4,85
+2025Q3,Data & AI,Learning Culture,70.9,85
+2025Q3,Data & AI,Collaboration,70.7,85
+2025Q3,Data & AI,Empowerment,67.7,85
+2025Q3,Data & AI,Purpose Alignment,74.1,85
+2025Q3,Data & AI,Wellbeing,72.9,85
+2025Q3,Data & AI,Innovation,71.3,85
+2025Q3,Data & AI,Psychological Safety,77.9,85
+2025Q3,Sustainability,Trust in Leadership,72.2,85
+2025Q3,Sustainability,Learning Culture,70.9,85
+2025Q3,Sustainability,Collaboration,69.1,85
+2025Q3,Sustainability,Empowerment,70.4,85
+2025Q3,Sustainability,Purpose Alignment,80.7,85
+2025Q3,Sustainability,Wellbeing,75.0,85
+2025Q3,Sustainability,Innovation,70.8,85
+2025Q3,Sustainability,Psychological Safety,71.8,85
+2025Q3,Maintenance,Trust in Leadership,84.0,85
+2025Q3,Maintenance,Learning Culture,77.8,85
+2025Q3,Maintenance,Collaboration,68.5,85
+2025Q3,Maintenance,Empowerment,74.7,85
+2025Q3,Maintenance,Purpose Alignment,85.1,85
+2025Q3,Maintenance,Wellbeing,79.0,85
+2025Q3,Maintenance,Innovation,66.5,85
+2025Q3,Maintenance,Psychological Safety,87.5,85
+2025Q3,Finance,Trust in Leadership,64.6,85
+2025Q3,Finance,Learning Culture,68.7,85
+2025Q3,Finance,Collaboration,64.6,85
+2025Q3,Finance,Empowerment,82.2,85
+2025Q3,Finance,Purpose Alignment,73.4,85
+2025Q3,Finance,Wellbeing,64.7,85
+2025Q3,Finance,Innovation,68.4,85
+2025Q3,Finance,Psychological Safety,78.5,85
+2025Q3,EHS,Trust in Leadership,76.2,85
+2025Q3,EHS,Learning Culture,68.0,85
+2025Q3,EHS,Collaboration,82.0,85
+2025Q3,EHS,Empowerment,84.6,85
+2025Q3,EHS,Purpose Alignment,73.1,85
+2025Q3,EHS,Wellbeing,83.8,85
+2025Q3,EHS,Innovation,79.1,85
+2025Q3,EHS,Psychological Safety,76.7,85
+2025Q3,Customer Success,Trust in Leadership,73.9,85
+2025Q3,Customer Success,Learning Culture,84.8,85
+2025Q3,Customer Success,Collaboration,65.5,85
+2025Q3,Customer Success,Empowerment,71.9,85
+2025Q3,Customer Success,Purpose Alignment,73.9,85
+2025Q3,Customer Success,Wellbeing,83.5,85
+2025Q3,Customer Success,Innovation,67.3,85
+2025Q3,Customer Success,Psychological Safety,81.9,85
+2025Q3,CEO Office,Trust in Leadership,68.2,85
+2025Q3,CEO Office,Learning Culture,75.3,85
+2025Q3,CEO Office,Collaboration,75.7,85
+2025Q3,CEO Office,Empowerment,72.6,85
+2025Q3,CEO Office,Purpose Alignment,70.8,85
+2025Q3,CEO Office,Wellbeing,68.1,85
+2025Q3,CEO Office,Innovation,71.2,85
+2025Q3,CEO Office,Psychological Safety,73.3,85
+2025Q3,Supply Chain,Trust in Leadership,73.1,85
+2025Q3,Supply Chain,Learning Culture,75.7,85
+2025Q3,Supply Chain,Collaboration,70.3,85
+2025Q3,Supply Chain,Empowerment,73.9,85
+2025Q3,Supply Chain,Purpose Alignment,87.5,85
+2025Q3,Supply Chain,Wellbeing,78.2,85
+2025Q3,Supply Chain,Innovation,71.0,85
+2025Q3,Supply Chain,Psychological Safety,77.5,85
+2025Q3,Quality,Trust in Leadership,69.1,85
+2025Q3,Quality,Learning Culture,79.9,85
+2025Q3,Quality,Collaboration,78.3,85
+2025Q3,Quality,Empowerment,81.7,85
+2025Q3,Quality,Purpose Alignment,65.4,85
+2025Q3,Quality,Wellbeing,89.1,85
+2025Q3,Quality,Innovation,73.8,85
+2025Q3,Quality,Psychological Safety,82.4,85
+2025Q3,Automation,Trust in Leadership,81.5,85
+2025Q3,Automation,Learning Culture,76.4,85
+2025Q3,Automation,Collaboration,77.4,85
+2025Q3,Automation,Empowerment,82.0,85
+2025Q3,Automation,Purpose Alignment,93.9,85
+2025Q3,Automation,Wellbeing,72.3,85
+2025Q3,Automation,Innovation,68.8,85
+2025Q3,Automation,Psychological Safety,70.7,85
+2025Q3,HR,Trust in Leadership,69.3,85
+2025Q3,HR,Learning Culture,76.5,85
+2025Q3,HR,Collaboration,85.3,85
+2025Q3,HR,Empowerment,71.9,85
+2025Q3,HR,Purpose Alignment,75.0,85
+2025Q3,HR,Wellbeing,83.0,85
+2025Q3,HR,Innovation,74.2,85
+2025Q3,HR,Psychological Safety,73.0,85
+2025Q3,Strategy,Trust in Leadership,73.1,85
+2025Q3,Strategy,Learning Culture,62.1,85
+2025Q3,Strategy,Collaboration,73.5,85
+2025Q3,Strategy,Empowerment,72.7,85
+2025Q3,Strategy,Purpose Alignment,69.7,85
+2025Q3,Strategy,Wellbeing,62.4,85
+2025Q3,Strategy,Innovation,74.1,85
+2025Q3,Strategy,Psychological Safety,66.8,85
+2025Q3,Research,Trust in Leadership,84.5,85
+2025Q3,Research,Learning Culture,65.7,85
+2025Q3,Research,Collaboration,66.8,85
+2025Q3,Research,Empowerment,70.5,85
+2025Q3,Research,Purpose Alignment,75.6,85
+2025Q3,Research,Wellbeing,70.6,85
+2025Q3,Research,Innovation,73.9,85
+2025Q3,Research,Psychological Safety,72.6,85
+2025Q3,Investment,Trust in Leadership,78.9,85
+2025Q3,Investment,Learning Culture,79.1,85
+2025Q3,Investment,Collaboration,94.7,85
+2025Q3,Investment,Empowerment,80.6,85
+2025Q3,Investment,Purpose Alignment,73.2,85
+2025Q3,Investment,Wellbeing,71.4,85
+2025Q3,Investment,Innovation,74.6,85
+2025Q3,Investment,Psychological Safety,75.6,85
+2025Q3,Product,Trust in Leadership,66.1,85
+2025Q3,Product,Learning Culture,84.3,85
+2025Q3,Product,Collaboration,81.4,85
+2025Q3,Product,Empowerment,77.1,85
+2025Q3,Product,Purpose Alignment,73.2,85
+2025Q3,Product,Wellbeing,87.9,85
+2025Q3,Product,Innovation,74.9,85
+2025Q3,Product,Psychological Safety,73.1,85
+2025Q3,Legal,Trust in Leadership,79.1,85
+2025Q3,Legal,Learning Culture,57.9,85
+2025Q3,Legal,Collaboration,62.1,85
+2025Q3,Legal,Empowerment,73.2,85
+2025Q3,Legal,Purpose Alignment,70.9,85
+2025Q3,Legal,Wellbeing,72.3,85
+2025Q3,Legal,Innovation,73.2,85
+2025Q3,Legal,Psychological Safety,75.5,85
+2025Q4,Procurement,Trust in Leadership,78.5,85
+2025Q4,Procurement,Learning Culture,72.8,85
+2025Q4,Procurement,Collaboration,55.3,85
+2025Q4,Procurement,Empowerment,76.5,85
+2025Q4,Procurement,Purpose Alignment,69.7,85
+2025Q4,Procurement,Wellbeing,60.9,85
+2025Q4,Procurement,Innovation,63.2,85
+2025Q4,Procurement,Psychological Safety,69.2,85
+2025Q4,Marketing,Trust in Leadership,76.5,85
+2025Q4,Marketing,Learning Culture,75.9,85
+2025Q4,Marketing,Collaboration,85.1,85
+2025Q4,Marketing,Empowerment,86.2,85
+2025Q4,Marketing,Purpose Alignment,75.4,85
+2025Q4,Marketing,Wellbeing,77.1,85
+2025Q4,Marketing,Innovation,83.8,85
+2025Q4,Marketing,Psychological Safety,85.9,85
+2025Q4,Transformation Office,Trust in Leadership,69.6,85
+2025Q4,Transformation Office,Learning Culture,76.2,85
+2025Q4,Transformation Office,Collaboration,76.7,85
+2025Q4,Transformation Office,Empowerment,82.8,85
+2025Q4,Transformation Office,Purpose Alignment,75.5,85
+2025Q4,Transformation Office,Wellbeing,76.6,85
+2025Q4,Transformation Office,Innovation,80.9,85
+2025Q4,Transformation Office,Psychological Safety,78.0,85
+2025Q4,Production,Trust in Leadership,81.7,85
+2025Q4,Production,Learning Culture,82.8,85
+2025Q4,Production,Collaboration,72.9,85
+2025Q4,Production,Empowerment,92.0,85
+2025Q4,Production,Purpose Alignment,78.6,85
+2025Q4,Production,Wellbeing,72.9,85
+2025Q4,Production,Innovation,81.9,85
+2025Q4,Production,Psychological Safety,72.5,85
+2025Q4,IT,Trust in Leadership,82.0,85
+2025Q4,IT,Learning Culture,77.8,85
+2025Q4,IT,Collaboration,72.4,85
+2025Q4,IT,Empowerment,73.8,85
+2025Q4,IT,Purpose Alignment,71.0,85
+2025Q4,IT,Wellbeing,69.6,85
+2025Q4,IT,Innovation,69.7,85
+2025Q4,IT,Psychological Safety,74.4,85
+2025Q4,Sales,Trust in Leadership,77.8,85
+2025Q4,Sales,Learning Culture,73.0,85
+2025Q4,Sales,Collaboration,71.4,85
+2025Q4,Sales,Empowerment,71.4,85
+2025Q4,Sales,Purpose Alignment,64.3,85
+2025Q4,Sales,Wellbeing,67.9,85
+2025Q4,Sales,Innovation,70.0,85
+2025Q4,Sales,Psychological Safety,73.6,85
+2025Q4,Data & AI,Trust in Leadership,66.8,85
+2025Q4,Data & AI,Learning Culture,69.9,85
+2025Q4,Data & AI,Collaboration,76.3,85
+2025Q4,Data & AI,Empowerment,70.5,85
+2025Q4,Data & AI,Purpose Alignment,84.8,85
+2025Q4,Data & AI,Wellbeing,63.9,85
+2025Q4,Data & AI,Innovation,73.5,85
+2025Q4,Data & AI,Psychological Safety,71.7,85
+2025Q4,Sustainability,Trust in Leadership,75.0,85
+2025Q4,Sustainability,Learning Culture,61.7,85
+2025Q4,Sustainability,Collaboration,72.0,85
+2025Q4,Sustainability,Empowerment,78.0,85
+2025Q4,Sustainability,Purpose Alignment,74.2,85
+2025Q4,Sustainability,Wellbeing,68.0,85
+2025Q4,Sustainability,Innovation,66.7,85
+2025Q4,Sustainability,Psychological Safety,76.1,85
+2025Q4,Maintenance,Trust in Leadership,74.4,85
+2025Q4,Maintenance,Learning Culture,76.8,85
+2025Q4,Maintenance,Collaboration,86.6,85
+2025Q4,Maintenance,Empowerment,87.9,85
+2025Q4,Maintenance,Purpose Alignment,73.3,85
+2025Q4,Maintenance,Wellbeing,77.7,85
+2025Q4,Maintenance,Innovation,83.1,85
+2025Q4,Maintenance,Psychological Safety,85.3,85
+2025Q4,Finance,Trust in Leadership,67.6,85
+2025Q4,Finance,Learning Culture,79.3,85
+2025Q4,Finance,Collaboration,71.4,85
+2025Q4,Finance,Empowerment,64.3,85
+2025Q4,Finance,Purpose Alignment,67.3,85
+2025Q4,Finance,Wellbeing,71.8,85
+2025Q4,Finance,Innovation,85.2,85
+2025Q4,Finance,Psychological Safety,75.5,85
+2025Q4,EHS,Trust in Leadership,80.5,85
+2025Q4,EHS,Learning Culture,76.9,85
+2025Q4,EHS,Collaboration,73.4,85
+2025Q4,EHS,Empowerment,81.0,85
+2025Q4,EHS,Purpose Alignment,70.3,85
+2025Q4,EHS,Wellbeing,75.2,85
+2025Q4,EHS,Innovation,75.0,85
+2025Q4,EHS,Psychological Safety,73.1,85
+2025Q4,Customer Success,Trust in Leadership,74.3,85
+2025Q4,Customer Success,Learning Culture,82.6,85
+2025Q4,Customer Success,Collaboration,68.3,85
+2025Q4,Customer Success,Empowerment,80.2,85
+2025Q4,Customer Success,Purpose Alignment,83.8,85
+2025Q4,Customer Success,Wellbeing,85.5,85
+2025Q4,Customer Success,Innovation,75.5,85
+2025Q4,Customer Success,Psychological Safety,79.1,85
+2025Q4,CEO Office,Trust in Leadership,79.8,85
+2025Q4,CEO Office,Learning Culture,69.6,85
+2025Q4,CEO Office,Collaboration,73.5,85
+2025Q4,CEO Office,Empowerment,75.5,85
+2025Q4,CEO Office,Purpose Alignment,71.5,85
+2025Q4,CEO Office,Wellbeing,67.3,85
+2025Q4,CEO Office,Innovation,71.7,85
+2025Q4,CEO Office,Psychological Safety,65.5,85
+2025Q4,Supply Chain,Trust in Leadership,67.2,85
+2025Q4,Supply Chain,Learning Culture,79.8,85
+2025Q4,Supply Chain,Collaboration,78.7,85
+2025Q4,Supply Chain,Empowerment,66.7,85
+2025Q4,Supply Chain,Purpose Alignment,71.8,85
+2025Q4,Supply Chain,Wellbeing,72.7,85
+2025Q4,Supply Chain,Innovation,66.4,85
+2025Q4,Supply Chain,Psychological Safety,79.3,85
+2025Q4,Quality,Trust in Leadership,75.7,85
+2025Q4,Quality,Learning Culture,75.6,85
+2025Q4,Quality,Collaboration,86.3,85
+2025Q4,Quality,Empowerment,85.1,85
+2025Q4,Quality,Purpose Alignment,76.3,85
+2025Q4,Quality,Wellbeing,75.5,85
+2025Q4,Quality,Innovation,68.6,85
+2025Q4,Quality,Psychological Safety,67.2,85
+2025Q4,Automation,Trust in Leadership,73.8,85
+2025Q4,Automation,Learning Culture,76.2,85
+2025Q4,Automation,Collaboration,80.8,85
+2025Q4,Automation,Empowerment,78.7,85
+2025Q4,Automation,Purpose Alignment,77.6,85
+2025Q4,Automation,Wellbeing,78.2,85
+2025Q4,Automation,Innovation,80.6,85
+2025Q4,Automation,Psychological Safety,72.7,85
+2025Q4,HR,Trust in Leadership,79.0,85
+2025Q4,HR,Learning Culture,84.5,85
+2025Q4,HR,Collaboration,75.4,85
+2025Q4,HR,Empowerment,79.5,85
+2025Q4,HR,Purpose Alignment,76.7,85
+2025Q4,HR,Wellbeing,78.6,85
+2025Q4,HR,Innovation,74.1,85
+2025Q4,HR,Psychological Safety,77.3,85
+2025Q4,Strategy,Trust in Leadership,61.6,85
+2025Q4,Strategy,Learning Culture,86.7,85
+2025Q4,Strategy,Collaboration,67.5,85
+2025Q4,Strategy,Empowerment,66.3,85
+2025Q4,Strategy,Purpose Alignment,66.5,85
+2025Q4,Strategy,Wellbeing,70.3,85
+2025Q4,Strategy,Innovation,69.2,85
+2025Q4,Strategy,Psychological Safety,59.4,85
+2025Q4,Research,Trust in Leadership,68.6,85
+2025Q4,Research,Learning Culture,73.4,85
+2025Q4,Research,Collaboration,68.1,85
+2025Q4,Research,Empowerment,66.1,85
+2025Q4,Research,Purpose Alignment,73.2,85
+2025Q4,Research,Wellbeing,79.4,85
+2025Q4,Research,Innovation,69.2,85
+2025Q4,Research,Psychological Safety,67.2,85
+2025Q4,Investment,Trust in Leadership,75.1,85
+2025Q4,Investment,Learning Culture,82.3,85
+2025Q4,Investment,Collaboration,77.9,85
+2025Q4,Investment,Empowerment,86.9,85
+2025Q4,Investment,Purpose Alignment,80.6,85
+2025Q4,Investment,Wellbeing,83.1,85
+2025Q4,Investment,Innovation,86.8,85
+2025Q4,Investment,Psychological Safety,83.7,85
+2025Q4,Product,Trust in Leadership,81.6,85
+2025Q4,Product,Learning Culture,67.7,85
+2025Q4,Product,Collaboration,75.4,85
+2025Q4,Product,Empowerment,72.9,85
+2025Q4,Product,Purpose Alignment,82.3,85
+2025Q4,Product,Wellbeing,77.4,85
+2025Q4,Product,Innovation,59.6,85
+2025Q4,Product,Psychological Safety,68.8,85
+2025Q4,Legal,Trust in Leadership,69.5,85
+2025Q4,Legal,Learning Culture,58.2,85
+2025Q4,Legal,Collaboration,66.4,85
+2025Q4,Legal,Empowerment,67.4,85
+2025Q4,Legal,Purpose Alignment,69.2,85
+2025Q4,Legal,Wellbeing,66.4,85
+2025Q4,Legal,Innovation,68.7,85
+2025Q4,Legal,Psychological Safety,70.3,85
+2026Q1,Procurement,Trust in Leadership,59.8,85
+2026Q1,Procurement,Learning Culture,79.2,85
+2026Q1,Procurement,Collaboration,77.5,85
+2026Q1,Procurement,Empowerment,81.0,85
+2026Q1,Procurement,Purpose Alignment,64.5,85
+2026Q1,Procurement,Wellbeing,61.1,85
+2026Q1,Procurement,Innovation,72.9,85
+2026Q1,Procurement,Psychological Safety,75.3,85
+2026Q1,Marketing,Trust in Leadership,65.0,85
+2026Q1,Marketing,Learning Culture,84.3,85
+2026Q1,Marketing,Collaboration,70.8,85
+2026Q1,Marketing,Empowerment,79.4,85
+2026Q1,Marketing,Purpose Alignment,81.6,85
+2026Q1,Marketing,Wellbeing,85.7,85
+2026Q1,Marketing,Innovation,76.7,85
+2026Q1,Marketing,Psychological Safety,84.2,85
+2026Q1,Transformation Office,Trust in Leadership,66.2,85
+2026Q1,Transformation Office,Learning Culture,77.0,85
+2026Q1,Transformation Office,Collaboration,76.6,85
+2026Q1,Transformation Office,Empowerment,80.6,85
+2026Q1,Transformation Office,Purpose Alignment,80.6,85
+2026Q1,Transformation Office,Wellbeing,82.7,85
+2026Q1,Transformation Office,Innovation,84.1,85
+2026Q1,Transformation Office,Psychological Safety,74.2,85
+2026Q1,Production,Trust in Leadership,75.8,85
+2026Q1,Production,Learning Culture,78.2,85
+2026Q1,Production,Collaboration,73.9,85
+2026Q1,Production,Empowerment,77.8,85
+2026Q1,Production,Purpose Alignment,59.8,85
+2026Q1,Production,Wellbeing,77.0,85
+2026Q1,Production,Innovation,85.6,85
+2026Q1,Production,Psychological Safety,82.5,85
+2026Q1,IT,Trust in Leadership,68.5,85
+2026Q1,IT,Learning Culture,85.0,85
+2026Q1,IT,Collaboration,83.6,85
+2026Q1,IT,Empowerment,71.0,85
+2026Q1,IT,Purpose Alignment,81.4,85
+2026Q1,IT,Wellbeing,76.9,85
+2026Q1,IT,Innovation,76.3,85
+2026Q1,IT,Psychological Safety,69.4,85
+2026Q1,Sales,Trust in Leadership,73.4,85
+2026Q1,Sales,Learning Culture,63.9,85
+2026Q1,Sales,Collaboration,70.4,85
+2026Q1,Sales,Empowerment,70.6,85
+2026Q1,Sales,Purpose Alignment,70.8,85
+2026Q1,Sales,Wellbeing,65.9,85
+2026Q1,Sales,Innovation,66.8,85
+2026Q1,Sales,Psychological Safety,70.8,85
+2026Q1,Data & AI,Trust in Leadership,78.5,85
+2026Q1,Data & AI,Learning Culture,76.0,85
+2026Q1,Data & AI,Collaboration,74.1,85
+2026Q1,Data & AI,Empowerment,73.0,85
+2026Q1,Data & AI,Purpose Alignment,74.8,85
+2026Q1,Data & AI,Wellbeing,70.1,85
+2026Q1,Data & AI,Innovation,65.4,85
+2026Q1,Data & AI,Psychological Safety,60.4,85
+2026Q1,Sustainability,Trust in Leadership,70.8,85
+2026Q1,Sustainability,Learning Culture,69.5,85
+2026Q1,Sustainability,Collaboration,73.2,85
+2026Q1,Sustainability,Empowerment,68.3,85
+2026Q1,Sustainability,Purpose Alignment,76.4,85
+2026Q1,Sustainability,Wellbeing,69.6,85
+2026Q1,Sustainability,Innovation,67.9,85
+2026Q1,Sustainability,Psychological Safety,74.1,85
+2026Q1,Maintenance,Trust in Leadership,72.7,85
+2026Q1,Maintenance,Learning Culture,72.1,85
+2026Q1,Maintenance,Collaboration,86.5,85
+2026Q1,Maintenance,Empowerment,75.5,85
+2026Q1,Maintenance,Purpose Alignment,70.1,85
+2026Q1,Maintenance,Wellbeing,78.5,85
+2026Q1,Maintenance,Innovation,76.3,85
+2026Q1,Maintenance,Psychological Safety,70.8,85
+2026Q1,Finance,Trust in Leadership,68.4,85
+2026Q1,Finance,Learning Culture,73.5,85
+2026Q1,Finance,Collaboration,64.8,85
+2026Q1,Finance,Empowerment,78.9,85
+2026Q1,Finance,Purpose Alignment,70.0,85
+2026Q1,Finance,Wellbeing,70.5,85
+2026Q1,Finance,Innovation,83.4,85
+2026Q1,Finance,Psychological Safety,73.6,85
+2026Q1,EHS,Trust in Leadership,82.9,85
+2026Q1,EHS,Learning Culture,75.5,85
+2026Q1,EHS,Collaboration,75.3,85
+2026Q1,EHS,Empowerment,71.9,85
+2026Q1,EHS,Purpose Alignment,77.9,85
+2026Q1,EHS,Wellbeing,79.8,85
+2026Q1,EHS,Innovation,67.8,85
+2026Q1,EHS,Psychological Safety,72.7,85
+2026Q1,Customer Success,Trust in Leadership,82.6,85
+2026Q1,Customer Success,Learning Culture,77.9,85
+2026Q1,Customer Success,Collaboration,74.5,85
+2026Q1,Customer Success,Empowerment,82.7,85
+2026Q1,Customer Success,Purpose Alignment,68.5,85
+2026Q1,Customer Success,Wellbeing,77.2,85
+2026Q1,Customer Success,Innovation,78.1,85
+2026Q1,Customer Success,Psychological Safety,76.7,85
+2026Q1,CEO Office,Trust in Leadership,76.1,85
+2026Q1,CEO Office,Learning Culture,72.5,85
+2026Q1,CEO Office,Collaboration,72.4,85
+2026Q1,CEO Office,Empowerment,73.0,85
+2026Q1,CEO Office,Purpose Alignment,74.3,85
+2026Q1,CEO Office,Wellbeing,69.2,85
+2026Q1,CEO Office,Innovation,68.9,85
+2026Q1,CEO Office,Psychological Safety,68.9,85
+2026Q1,Supply Chain,Trust in Leadership,73.1,85
+2026Q1,Supply Chain,Learning Culture,70.3,85
+2026Q1,Supply Chain,Collaboration,70.5,85
+2026Q1,Supply Chain,Empowerment,82.6,85
+2026Q1,Supply Chain,Purpose Alignment,74.6,85
+2026Q1,Supply Chain,Wellbeing,82.8,85
+2026Q1,Supply Chain,Innovation,82.1,85
+2026Q1,Supply Chain,Psychological Safety,82.2,85
+2026Q1,Quality,Trust in Leadership,81.2,85
+2026Q1,Quality,Learning Culture,75.8,85
+2026Q1,Quality,Collaboration,72.8,85
+2026Q1,Quality,Empowerment,67.9,85
+2026Q1,Quality,Purpose Alignment,71.3,85
+2026Q1,Quality,Wellbeing,81.9,85
+2026Q1,Quality,Innovation,79.1,85
+2026Q1,Quality,Psychological Safety,75.4,85
+2026Q1,Automation,Trust in Leadership,77.5,85
+2026Q1,Automation,Learning Culture,77.5,85
+2026Q1,Automation,Collaboration,75.5,85
+2026Q1,Automation,Empowerment,73.8,85
+2026Q1,Automation,Purpose Alignment,71.0,85
+2026Q1,Automation,Wellbeing,72.8,85
+2026Q1,Automation,Innovation,69.7,85
+2026Q1,Automation,Psychological Safety,81.0,85
+2026Q1,HR,Trust in Leadership,81.8,85
+2026Q1,HR,Learning Culture,75.9,85
+2026Q1,HR,Collaboration,75.9,85
+2026Q1,HR,Empowerment,82.3,85
+2026Q1,HR,Purpose Alignment,76.4,85
+2026Q1,HR,Wellbeing,70.4,85
+2026Q1,HR,Innovation,73.2,85
+2026Q1,HR,Psychological Safety,67.7,85
+2026Q1,Strategy,Trust in Leadership,77.2,85
+2026Q1,Strategy,Learning Culture,67.3,85
+2026Q1,Strategy,Collaboration,71.1,85
+2026Q1,Strategy,Empowerment,76.2,85
+2026Q1,Strategy,Purpose Alignment,79.4,85
+2026Q1,Strategy,Wellbeing,83.7,85
+2026Q1,Strategy,Innovation,74.1,85
+2026Q1,Strategy,Psychological Safety,64.9,85
+2026Q1,Research,Trust in Leadership,80.9,85
+2026Q1,Research,Learning Culture,67.0,85
+2026Q1,Research,Collaboration,73.0,85
+2026Q1,Research,Empowerment,77.3,85
+2026Q1,Research,Purpose Alignment,84.4,85
+2026Q1,Research,Wellbeing,73.8,85
+2026Q1,Research,Innovation,55.5,85
+2026Q1,Research,Psychological Safety,72.3,85
+2026Q1,Investment,Trust in Leadership,82.5,85
+2026Q1,Investment,Learning Culture,69.4,85
+2026Q1,Investment,Collaboration,77.9,85
+2026Q1,Investment,Empowerment,71.0,85
+2026Q1,Investment,Purpose Alignment,78.1,85
+2026Q1,Investment,Wellbeing,71.5,85
+2026Q1,Investment,Innovation,87.0,85
+2026Q1,Investment,Psychological Safety,81.3,85
+2026Q1,Product,Trust in Leadership,76.0,85
+2026Q1,Product,Learning Culture,77.8,85
+2026Q1,Product,Collaboration,74.9,85
+2026Q1,Product,Empowerment,74.1,85
+2026Q1,Product,Purpose Alignment,83.9,85
+2026Q1,Product,Wellbeing,84.5,85
+2026Q1,Product,Innovation,73.9,85
+2026Q1,Product,Psychological Safety,72.0,85
+2026Q1,Legal,Trust in Leadership,63.2,85
+2026Q1,Legal,Learning Culture,65.4,85
+2026Q1,Legal,Collaboration,64.6,85
+2026Q1,Legal,Empowerment,76.0,85
+2026Q1,Legal,Purpose Alignment,63.0,85
+2026Q1,Legal,Wellbeing,81.5,85
+2026Q1,Legal,Innovation,85.3,85
+2026Q1,Legal,Psychological Safety,58.5,85
+2026Q2,Procurement,Trust in Leadership,83.2,85
+2026Q2,Procurement,Learning Culture,72.2,85
+2026Q2,Procurement,Collaboration,78.2,85
+2026Q2,Procurement,Empowerment,67.5,85
+2026Q2,Procurement,Purpose Alignment,77.9,85
+2026Q2,Procurement,Wellbeing,73.7,85
+2026Q2,Procurement,Innovation,73.6,85
+2026Q2,Procurement,Psychological Safety,64.5,85
+2026Q2,Marketing,Trust in Leadership,87.4,85
+2026Q2,Marketing,Learning Culture,82.9,85
+2026Q2,Marketing,Collaboration,75.6,85
+2026Q2,Marketing,Empowerment,67.2,85
+2026Q2,Marketing,Purpose Alignment,65.6,85
+2026Q2,Marketing,Wellbeing,89.5,85
+2026Q2,Marketing,Innovation,74.0,85
+2026Q2,Marketing,Psychological Safety,76.4,85
+2026Q2,Transformation Office,Trust in Leadership,84.9,85
+2026Q2,Transformation Office,Learning Culture,84.5,85
+2026Q2,Transformation Office,Collaboration,73.1,85
+2026Q2,Transformation Office,Empowerment,77.8,85
+2026Q2,Transformation Office,Purpose Alignment,85.8,85
+2026Q2,Transformation Office,Wellbeing,80.8,85
+2026Q2,Transformation Office,Innovation,72.0,85
+2026Q2,Transformation Office,Psychological Safety,79.4,85
+2026Q2,Production,Trust in Leadership,76.5,85
+2026Q2,Production,Learning Culture,69.1,85
+2026Q2,Production,Collaboration,75.3,85
+2026Q2,Production,Empowerment,80.9,85
+2026Q2,Production,Purpose Alignment,68.8,85
+2026Q2,Production,Wellbeing,76.7,85
+2026Q2,Production,Innovation,71.4,85
+2026Q2,Production,Psychological Safety,70.9,85
+2026Q2,IT,Trust in Leadership,77.4,85
+2026Q2,IT,Learning Culture,82.1,85
+2026Q2,IT,Collaboration,81.6,85
+2026Q2,IT,Empowerment,75.1,85
+2026Q2,IT,Purpose Alignment,73.1,85
+2026Q2,IT,Wellbeing,73.6,85
+2026Q2,IT,Innovation,71.2,85
+2026Q2,IT,Psychological Safety,66.7,85
+2026Q2,Sales,Trust in Leadership,77.9,85
+2026Q2,Sales,Learning Culture,68.5,85
+2026Q2,Sales,Collaboration,74.4,85
+2026Q2,Sales,Empowerment,73.7,85
+2026Q2,Sales,Purpose Alignment,68.1,85
+2026Q2,Sales,Wellbeing,68.3,85
+2026Q2,Sales,Innovation,70.5,85
+2026Q2,Sales,Psychological Safety,70.9,85
+2026Q2,Data & AI,Trust in Leadership,76.1,85
+2026Q2,Data & AI,Learning Culture,81.6,85
+2026Q2,Data & AI,Collaboration,65.2,85
+2026Q2,Data & AI,Empowerment,73.6,85
+2026Q2,Data & AI,Purpose Alignment,77.6,85
+2026Q2,Data & AI,Wellbeing,78.7,85
+2026Q2,Data & AI,Innovation,78.2,85
+2026Q2,Data & AI,Psychological Safety,70.6,85
+2026Q2,Sustainability,Trust in Leadership,73.3,85
+2026Q2,Sustainability,Learning Culture,67.4,85
+2026Q2,Sustainability,Collaboration,60.9,85
+2026Q2,Sustainability,Empowerment,67.0,85
+2026Q2,Sustainability,Purpose Alignment,88.3,85
+2026Q2,Sustainability,Wellbeing,68.8,85
+2026Q2,Sustainability,Innovation,83.6,85
+2026Q2,Sustainability,Psychological Safety,71.4,85
+2026Q2,Maintenance,Trust in Leadership,65.8,85
+2026Q2,Maintenance,Learning Culture,85.6,85
+2026Q2,Maintenance,Collaboration,67.9,85
+2026Q2,Maintenance,Empowerment,87.0,85
+2026Q2,Maintenance,Purpose Alignment,82.5,85
+2026Q2,Maintenance,Wellbeing,75.9,85
+2026Q2,Maintenance,Innovation,79.0,85
+2026Q2,Maintenance,Psychological Safety,71.7,85
+2026Q2,Finance,Trust in Leadership,77.3,85
+2026Q2,Finance,Learning Culture,72.7,85
+2026Q2,Finance,Collaboration,70.9,85
+2026Q2,Finance,Empowerment,78.0,85
+2026Q2,Finance,Purpose Alignment,79.0,85
+2026Q2,Finance,Wellbeing,77.8,85
+2026Q2,Finance,Innovation,73.9,85
+2026Q2,Finance,Psychological Safety,78.5,85
+2026Q2,EHS,Trust in Leadership,71.6,85
+2026Q2,EHS,Learning Culture,75.9,85
+2026Q2,EHS,Collaboration,69.4,85
+2026Q2,EHS,Empowerment,83.1,85
+2026Q2,EHS,Purpose Alignment,78.2,85
+2026Q2,EHS,Wellbeing,71.7,85
+2026Q2,EHS,Innovation,78.6,85
+2026Q2,EHS,Psychological Safety,69.3,85
+2026Q2,Customer Success,Trust in Leadership,76.2,85
+2026Q2,Customer Success,Learning Culture,68.9,85
+2026Q2,Customer Success,Collaboration,85.9,85
+2026Q2,Customer Success,Empowerment,72.3,85
+2026Q2,Customer Success,Purpose Alignment,79.3,85
+2026Q2,Customer Success,Wellbeing,66.8,85
+2026Q2,Customer Success,Innovation,71.4,85
+2026Q2,Customer Success,Psychological Safety,86.8,85
+2026Q2,CEO Office,Trust in Leadership,80.2,85
+2026Q2,CEO Office,Learning Culture,63.0,85
+2026Q2,CEO Office,Collaboration,83.4,85
+2026Q2,CEO Office,Empowerment,82.7,85
+2026Q2,CEO Office,Purpose Alignment,65.6,85
+2026Q2,CEO Office,Wellbeing,74.4,85
+2026Q2,CEO Office,Innovation,80.2,85
+2026Q2,CEO Office,Psychological Safety,67.2,85
+2026Q2,Supply Chain,Trust in Leadership,67.2,85
+2026Q2,Supply Chain,Learning Culture,81.0,85
+2026Q2,Supply Chain,Collaboration,78.0,85
+2026Q2,Supply Chain,Empowerment,75.7,85
+2026Q2,Supply Chain,Purpose Alignment,69.7,85
+2026Q2,Supply Chain,Wellbeing,77.8,85
+2026Q2,Supply Chain,Innovation,74.2,85
+2026Q2,Supply Chain,Psychological Safety,71.3,85
+2026Q2,Quality,Trust in Leadership,82.8,85
+2026Q2,Quality,Learning Culture,72.2,85
+2026Q2,Quality,Collaboration,73.1,85
+2026Q2,Quality,Empowerment,70.3,85
+2026Q2,Quality,Purpose Alignment,65.8,85
+2026Q2,Quality,Wellbeing,65.4,85
+2026Q2,Quality,Innovation,80.5,85
+2026Q2,Quality,Psychological Safety,81.0,85
+2026Q2,Automation,Trust in Leadership,87.8,85
+2026Q2,Automation,Learning Culture,82.3,85
+2026Q2,Automation,Collaboration,71.4,85
+2026Q2,Automation,Empowerment,68.2,85
+2026Q2,Automation,Purpose Alignment,73.1,85
+2026Q2,Automation,Wellbeing,66.6,85
+2026Q2,Automation,Innovation,65.2,85
+2026Q2,Automation,Psychological Safety,68.4,85
+2026Q2,HR,Trust in Leadership,83.3,85
+2026Q2,HR,Learning Culture,78.5,85
+2026Q2,HR,Collaboration,89.8,85
+2026Q2,HR,Empowerment,79.4,85
+2026Q2,HR,Purpose Alignment,75.1,85
+2026Q2,HR,Wellbeing,80.2,85
+2026Q2,HR,Innovation,70.2,85
+2026Q2,HR,Psychological Safety,72.0,85
+2026Q2,Strategy,Trust in Leadership,76.6,85
+2026Q2,Strategy,Learning Culture,73.6,85
+2026Q2,Strategy,Collaboration,79.8,85
+2026Q2,Strategy,Empowerment,70.4,85
+2026Q2,Strategy,Purpose Alignment,65.5,85
+2026Q2,Strategy,Wellbeing,64.4,85
+2026Q2,Strategy,Innovation,68.6,85
+2026Q2,Strategy,Psychological Safety,71.9,85
+2026Q2,Research,Trust in Leadership,78.8,85
+2026Q2,Research,Learning Culture,75.1,85
+2026Q2,Research,Collaboration,72.4,85
+2026Q2,Research,Empowerment,68.0,85
+2026Q2,Research,Purpose Alignment,71.8,85
+2026Q2,Research,Wellbeing,68.6,85
+2026Q2,Research,Innovation,73.3,85
+2026Q2,Research,Psychological Safety,75.1,85
+2026Q2,Investment,Trust in Leadership,75.7,85
+2026Q2,Investment,Learning Culture,82.8,85
+2026Q2,Investment,Collaboration,79.0,85
+2026Q2,Investment,Empowerment,72.4,85
+2026Q2,Investment,Purpose Alignment,81.4,85
+2026Q2,Investment,Wellbeing,87.5,85
+2026Q2,Investment,Innovation,81.4,85
+2026Q2,Investment,Psychological Safety,80.5,85
+2026Q2,Product,Trust in Leadership,79.3,85
+2026Q2,Product,Learning Culture,81.6,85
+2026Q2,Product,Collaboration,72.3,85
+2026Q2,Product,Empowerment,76.2,85
+2026Q2,Product,Purpose Alignment,76.8,85
+2026Q2,Product,Wellbeing,70.6,85
+2026Q2,Product,Innovation,66.0,85
+2026Q2,Product,Psychological Safety,75.6,85
+2026Q2,Legal,Trust in Leadership,71.1,85
+2026Q2,Legal,Learning Culture,64.3,85
+2026Q2,Legal,Collaboration,62.7,85
+2026Q2,Legal,Empowerment,72.3,85
+2026Q2,Legal,Purpose Alignment,68.5,85
+2026Q2,Legal,Wellbeing,67.2,85
+2026Q2,Legal,Innovation,72.3,85
+2026Q2,Legal,Psychological Safety,68.3,85
+2026Q3,Procurement,Trust in Leadership,71.0,85
+2026Q3,Procurement,Learning Culture,76.0,85
+2026Q3,Procurement,Collaboration,67.5,85
+2026Q3,Procurement,Empowerment,75.5,85
+2026Q3,Procurement,Purpose Alignment,69.3,85
+2026Q3,Procurement,Wellbeing,66.3,85
+2026Q3,Procurement,Innovation,66.7,85
+2026Q3,Procurement,Psychological Safety,76.8,85
+2026Q3,Marketing,Trust in Leadership,82.6,85
+2026Q3,Marketing,Learning Culture,78.6,85
+2026Q3,Marketing,Collaboration,77.7,85
+2026Q3,Marketing,Empowerment,69.4,85
+2026Q3,Marketing,Purpose Alignment,76.1,85
+2026Q3,Marketing,Wellbeing,78.0,85
+2026Q3,Marketing,Innovation,73.6,85
+2026Q3,Marketing,Psychological Safety,83.4,85
+2026Q3,Transformation Office,Trust in Leadership,69.6,85
+2026Q3,Transformation Office,Learning Culture,71.8,85
+2026Q3,Transformation Office,Collaboration,81.5,85
+2026Q3,Transformation Office,Empowerment,81.1,85
+2026Q3,Transformation Office,Purpose Alignment,74.2,85
+2026Q3,Transformation Office,Wellbeing,66.0,85
+2026Q3,Transformation Office,Innovation,80.5,85
+2026Q3,Transformation Office,Psychological Safety,76.6,85
+2026Q3,Production,Trust in Leadership,78.2,85
+2026Q3,Production,Learning Culture,81.9,85
+2026Q3,Production,Collaboration,67.6,85
+2026Q3,Production,Empowerment,79.3,85
+2026Q3,Production,Purpose Alignment,82.5,85
+2026Q3,Production,Wellbeing,81.1,85
+2026Q3,Production,Innovation,72.1,85
+2026Q3,Production,Psychological Safety,67.4,85
+2026Q3,IT,Trust in Leadership,76.0,85
+2026Q3,IT,Learning Culture,80.0,85
+2026Q3,IT,Collaboration,72.0,85
+2026Q3,IT,Empowerment,72.1,85
+2026Q3,IT,Purpose Alignment,80.1,85
+2026Q3,IT,Wellbeing,79.7,85
+2026Q3,IT,Innovation,78.7,85
+2026Q3,IT,Psychological Safety,80.4,85
+2026Q3,Sales,Trust in Leadership,70.5,85
+2026Q3,Sales,Learning Culture,70.1,85
+2026Q3,Sales,Collaboration,76.1,85
+2026Q3,Sales,Empowerment,68.4,85
+2026Q3,Sales,Purpose Alignment,64.7,85
+2026Q3,Sales,Wellbeing,73.3,85
+2026Q3,Sales,Innovation,69.1,85
+2026Q3,Sales,Psychological Safety,80.4,85
+2026Q3,Data & AI,Trust in Leadership,66.0,85
+2026Q3,Data & AI,Learning Culture,76.1,85
+2026Q3,Data & AI,Collaboration,65.7,85
+2026Q3,Data & AI,Empowerment,66.2,85
+2026Q3,Data & AI,Purpose Alignment,69.5,85
+2026Q3,Data & AI,Wellbeing,75.2,85
+2026Q3,Data & AI,Innovation,77.4,85
+2026Q3,Data & AI,Psychological Safety,69.3,85
+2026Q3,Sustainability,Trust in Leadership,78.2,85
+2026Q3,Sustainability,Learning Culture,60.8,85
+2026Q3,Sustainability,Collaboration,66.9,85
+2026Q3,Sustainability,Empowerment,67.2,85
+2026Q3,Sustainability,Purpose Alignment,66.3,85
+2026Q3,Sustainability,Wellbeing,78.2,85
+2026Q3,Sustainability,Innovation,69.4,85
+2026Q3,Sustainability,Psychological Safety,67.1,85
+2026Q3,Maintenance,Trust in Leadership,75.3,85
+2026Q3,Maintenance,Learning Culture,75.5,85
+2026Q3,Maintenance,Collaboration,69.5,85
+2026Q3,Maintenance,Empowerment,78.8,85
+2026Q3,Maintenance,Purpose Alignment,85.3,85
+2026Q3,Maintenance,Wellbeing,85.7,85
+2026Q3,Maintenance,Innovation,72.0,85
+2026Q3,Maintenance,Psychological Safety,82.1,85
+2026Q3,Finance,Trust in Leadership,61.6,85
+2026Q3,Finance,Learning Culture,70.5,85
+2026Q3,Finance,Collaboration,77.6,85
+2026Q3,Finance,Empowerment,69.2,85
+2026Q3,Finance,Purpose Alignment,79.0,85
+2026Q3,Finance,Wellbeing,77.0,85
+2026Q3,Finance,Innovation,63.3,85
+2026Q3,Finance,Psychological Safety,79.2,85
+2026Q3,EHS,Trust in Leadership,64.3,85
+2026Q3,EHS,Learning Culture,72.5,85
+2026Q3,EHS,Collaboration,79.8,85
+2026Q3,EHS,Empowerment,76.4,85
+2026Q3,EHS,Purpose Alignment,80.6,85
+2026Q3,EHS,Wellbeing,73.2,85
+2026Q3,EHS,Innovation,63.9,85
+2026Q3,EHS,Psychological Safety,67.8,85
+2026Q3,Customer Success,Trust in Leadership,63.6,85
+2026Q3,Customer Success,Learning Culture,70.8,85
+2026Q3,Customer Success,Collaboration,80.1,85
+2026Q3,Customer Success,Empowerment,76.1,85
+2026Q3,Customer Success,Purpose Alignment,83.8,85
+2026Q3,Customer Success,Wellbeing,78.1,85
+2026Q3,Customer Success,Innovation,77.2,85
+2026Q3,Customer Success,Psychological Safety,74.1,85
+2026Q3,CEO Office,Trust in Leadership,75.3,85
+2026Q3,CEO Office,Learning Culture,92.9,85
+2026Q3,CEO Office,Collaboration,60.7,85
+2026Q3,CEO Office,Empowerment,66.7,85
+2026Q3,CEO Office,Purpose Alignment,72.7,85
+2026Q3,CEO Office,Wellbeing,76.2,85
+2026Q3,CEO Office,Innovation,77.4,85
+2026Q3,CEO Office,Psychological Safety,65.7,85
+2026Q3,Supply Chain,Trust in Leadership,76.0,85
+2026Q3,Supply Chain,Learning Culture,80.2,85
+2026Q3,Supply Chain,Collaboration,70.6,85
+2026Q3,Supply Chain,Empowerment,81.7,85
+2026Q3,Supply Chain,Purpose Alignment,74.8,85
+2026Q3,Supply Chain,Wellbeing,73.8,85
+2026Q3,Supply Chain,Innovation,80.2,85
+2026Q3,Supply Chain,Psychological Safety,68.3,85
+2026Q3,Quality,Trust in Leadership,74.8,85
+2026Q3,Quality,Learning Culture,77.2,85
+2026Q3,Quality,Collaboration,82.0,85
+2026Q3,Quality,Empowerment,64.3,85
+2026Q3,Quality,Purpose Alignment,73.5,85
+2026Q3,Quality,Wellbeing,73.6,85
+2026Q3,Quality,Innovation,63.9,85
+2026Q3,Quality,Psychological Safety,81.2,85
+2026Q3,Automation,Trust in Leadership,73.6,85
+2026Q3,Automation,Learning Culture,74.7,85
+2026Q3,Automation,Collaboration,70.4,85
+2026Q3,Automation,Empowerment,83.7,85
+2026Q3,Automation,Purpose Alignment,77.0,85
+2026Q3,Automation,Wellbeing,78.7,85
+2026Q3,Automation,Innovation,71.9,85
+2026Q3,Automation,Psychological Safety,87.9,85
+2026Q3,HR,Trust in Leadership,71.2,85
+2026Q3,HR,Learning Culture,66.4,85
+2026Q3,HR,Collaboration,79.9,85
+2026Q3,HR,Empowerment,74.0,85
+2026Q3,HR,Purpose Alignment,84.4,85
+2026Q3,HR,Wellbeing,76.7,85
+2026Q3,HR,Innovation,77.7,85
+2026Q3,HR,Psychological Safety,69.1,85
+2026Q3,Strategy,Trust in Leadership,68.1,85
+2026Q3,Strategy,Learning Culture,71.1,85
+2026Q3,Strategy,Collaboration,64.7,85
+2026Q3,Strategy,Empowerment,66.3,85
+2026Q3,Strategy,Purpose Alignment,71.8,85
+2026Q3,Strategy,Wellbeing,69.9,85
+2026Q3,Strategy,Innovation,77.9,85
+2026Q3,Strategy,Psychological Safety,76.8,85
+2026Q3,Research,Trust in Leadership,65.2,85
+2026Q3,Research,Learning Culture,83.7,85
+2026Q3,Research,Collaboration,70.6,85
+2026Q3,Research,Empowerment,68.7,85
+2026Q3,Research,Purpose Alignment,71.7,85
+2026Q3,Research,Wellbeing,68.1,85
+2026Q3,Research,Innovation,59.6,85
+2026Q3,Research,Psychological Safety,76.7,85
+2026Q3,Investment,Trust in Leadership,83.9,85
+2026Q3,Investment,Learning Culture,79.9,85
+2026Q3,Investment,Collaboration,88.9,85
+2026Q3,Investment,Empowerment,71.3,85
+2026Q3,Investment,Purpose Alignment,75.0,85
+2026Q3,Investment,Wellbeing,78.7,85
+2026Q3,Investment,Innovation,89.8,85
+2026Q3,Investment,Psychological Safety,88.8,85
+2026Q3,Product,Trust in Leadership,70.4,85
+2026Q3,Product,Learning Culture,77.9,85
+2026Q3,Product,Collaboration,77.3,85
+2026Q3,Product,Empowerment,71.1,85
+2026Q3,Product,Purpose Alignment,81.1,85
+2026Q3,Product,Wellbeing,79.6,85
+2026Q3,Product,Innovation,80.8,85
+2026Q3,Product,Psychological Safety,83.1,85
+2026Q3,Legal,Trust in Leadership,77.8,85
+2026Q3,Legal,Learning Culture,67.2,85
+2026Q3,Legal,Collaboration,72.2,85
+2026Q3,Legal,Empowerment,60.8,85
+2026Q3,Legal,Purpose Alignment,72.2,85
+2026Q3,Legal,Wellbeing,80.7,85
+2026Q3,Legal,Innovation,60.0,85
+2026Q3,Legal,Psychological Safety,76.1,85
+2026Q4,Procurement,Trust in Leadership,70.7,85
+2026Q4,Procurement,Learning Culture,68.0,85
+2026Q4,Procurement,Collaboration,77.1,85
+2026Q4,Procurement,Empowerment,76.9,85
+2026Q4,Procurement,Purpose Alignment,68.0,85
+2026Q4,Procurement,Wellbeing,66.5,85
+2026Q4,Procurement,Innovation,73.6,85
+2026Q4,Procurement,Psychological Safety,82.5,85
+2026Q4,Marketing,Trust in Leadership,75.3,85
+2026Q4,Marketing,Learning Culture,72.7,85
+2026Q4,Marketing,Collaboration,80.0,85
+2026Q4,Marketing,Empowerment,88.7,85
+2026Q4,Marketing,Purpose Alignment,73.2,85
+2026Q4,Marketing,Wellbeing,70.0,85
+2026Q4,Marketing,Innovation,74.6,85
+2026Q4,Marketing,Psychological Safety,82.4,85
+2026Q4,Transformation Office,Trust in Leadership,75.9,85
+2026Q4,Transformation Office,Learning Culture,75.9,85
+2026Q4,Transformation Office,Collaboration,78.2,85
+2026Q4,Transformation Office,Empowerment,79.5,85
+2026Q4,Transformation Office,Purpose Alignment,74.3,85
+2026Q4,Transformation Office,Wellbeing,78.9,85
+2026Q4,Transformation Office,Innovation,74.8,85
+2026Q4,Transformation Office,Psychological Safety,89.2,85
+2026Q4,Production,Trust in Leadership,87.3,85
+2026Q4,Production,Learning Culture,79.1,85
+2026Q4,Production,Collaboration,86.2,85
+2026Q4,Production,Empowerment,86.0,85
+2026Q4,Production,Purpose Alignment,89.2,85
+2026Q4,Production,Wellbeing,74.6,85
+2026Q4,Production,Innovation,79.0,85
+2026Q4,Production,Psychological Safety,70.4,85
+2026Q4,IT,Trust in Leadership,88.4,85
+2026Q4,IT,Learning Culture,85.0,85
+2026Q4,IT,Collaboration,74.5,85
+2026Q4,IT,Empowerment,75.3,85
+2026Q4,IT,Purpose Alignment,76.7,85
+2026Q4,IT,Wellbeing,81.1,85
+2026Q4,IT,Innovation,75.8,85
+2026Q4,IT,Psychological Safety,80.3,85
+2026Q4,Sales,Trust in Leadership,59.3,85
+2026Q4,Sales,Learning Culture,67.4,85
+2026Q4,Sales,Collaboration,71.4,85
+2026Q4,Sales,Empowerment,68.1,85
+2026Q4,Sales,Purpose Alignment,62.6,85
+2026Q4,Sales,Wellbeing,80.7,85
+2026Q4,Sales,Innovation,80.9,85
+2026Q4,Sales,Psychological Safety,65.1,85
+2026Q4,Data & AI,Trust in Leadership,71.4,85
+2026Q4,Data & AI,Learning Culture,77.0,85
+2026Q4,Data & AI,Collaboration,81.3,85
+2026Q4,Data & AI,Empowerment,73.5,85
+2026Q4,Data & AI,Purpose Alignment,73.7,85
+2026Q4,Data & AI,Wellbeing,72.6,85
+2026Q4,Data & AI,Innovation,76.2,85
+2026Q4,Data & AI,Psychological Safety,78.0,85
+2026Q4,Sustainability,Trust in Leadership,80.5,85
+2026Q4,Sustainability,Learning Culture,75.9,85
+2026Q4,Sustainability,Collaboration,69.6,85
+2026Q4,Sustainability,Empowerment,70.7,85
+2026Q4,Sustainability,Purpose Alignment,68.0,85
+2026Q4,Sustainability,Wellbeing,68.3,85
+2026Q4,Sustainability,Innovation,69.6,85
+2026Q4,Sustainability,Psychological Safety,67.0,85
+2026Q4,Maintenance,Trust in Leadership,92.2,85
+2026Q4,Maintenance,Learning Culture,76.8,85
+2026Q4,Maintenance,Collaboration,85.9,85
+2026Q4,Maintenance,Empowerment,77.3,85
+2026Q4,Maintenance,Purpose Alignment,74.8,85
+2026Q4,Maintenance,Wellbeing,79.6,85
+2026Q4,Maintenance,Innovation,80.3,85
+2026Q4,Maintenance,Psychological Safety,81.4,85
+2026Q4,Finance,Trust in Leadership,70.5,85
+2026Q4,Finance,Learning Culture,75.0,85
+2026Q4,Finance,Collaboration,74.8,85
+2026Q4,Finance,Empowerment,74.7,85
+2026Q4,Finance,Purpose Alignment,71.3,85
+2026Q4,Finance,Wellbeing,73.7,85
+2026Q4,Finance,Innovation,72.7,85
+2026Q4,Finance,Psychological Safety,74.1,85
+2026Q4,EHS,Trust in Leadership,79.6,85
+2026Q4,EHS,Learning Culture,77.2,85
+2026Q4,EHS,Collaboration,78.0,85
+2026Q4,EHS,Empowerment,72.4,85
+2026Q4,EHS,Purpose Alignment,75.9,85
+2026Q4,EHS,Wellbeing,82.9,85
+2026Q4,EHS,Innovation,78.0,85
+2026Q4,EHS,Psychological Safety,70.9,85
+2026Q4,Customer Success,Trust in Leadership,76.9,85
+2026Q4,Customer Success,Learning Culture,83.0,85
+2026Q4,Customer Success,Collaboration,82.6,85
+2026Q4,Customer Success,Empowerment,61.3,85
+2026Q4,Customer Success,Purpose Alignment,69.2,85
+2026Q4,Customer Success,Wellbeing,74.1,85
+2026Q4,Customer Success,Innovation,78.1,85
+2026Q4,Customer Success,Psychological Safety,79.2,85
+2026Q4,CEO Office,Trust in Leadership,79.9,85
+2026Q4,CEO Office,Learning Culture,76.3,85
+2026Q4,CEO Office,Collaboration,72.5,85
+2026Q4,CEO Office,Empowerment,65.5,85
+2026Q4,CEO Office,Purpose Alignment,76.8,85
+2026Q4,CEO Office,Wellbeing,75.2,85
+2026Q4,CEO Office,Innovation,63.4,85
+2026Q4,CEO Office,Psychological Safety,73.7,85
+2026Q4,Supply Chain,Trust in Leadership,74.8,85
+2026Q4,Supply Chain,Learning Culture,87.1,85
+2026Q4,Supply Chain,Collaboration,75.2,85
+2026Q4,Supply Chain,Empowerment,86.9,85
+2026Q4,Supply Chain,Purpose Alignment,77.0,85
+2026Q4,Supply Chain,Wellbeing,73.0,85
+2026Q4,Supply Chain,Innovation,75.8,85
+2026Q4,Supply Chain,Psychological Safety,73.3,85
+2026Q4,Quality,Trust in Leadership,84.3,85
+2026Q4,Quality,Learning Culture,80.6,85
+2026Q4,Quality,Collaboration,86.6,85
+2026Q4,Quality,Empowerment,69.8,85
+2026Q4,Quality,Purpose Alignment,73.8,85
+2026Q4,Quality,Wellbeing,79.5,85
+2026Q4,Quality,Innovation,78.6,85
+2026Q4,Quality,Psychological Safety,66.3,85
+2026Q4,Automation,Trust in Leadership,75.6,85
+2026Q4,Automation,Learning Culture,74.0,85
+2026Q4,Automation,Collaboration,75.7,85
+2026Q4,Automation,Empowerment,74.5,85
+2026Q4,Automation,Purpose Alignment,67.7,85
+2026Q4,Automation,Wellbeing,74.9,85
+2026Q4,Automation,Innovation,70.9,85
+2026Q4,Automation,Psychological Safety,85.2,85
+2026Q4,HR,Trust in Leadership,79.2,85
+2026Q4,HR,Learning Culture,68.5,85
+2026Q4,HR,Collaboration,76.9,85
+2026Q4,HR,Empowerment,73.5,85
+2026Q4,HR,Purpose Alignment,75.1,85
+2026Q4,HR,Wellbeing,77.9,85
+2026Q4,HR,Innovation,71.4,85
+2026Q4,HR,Psychological Safety,71.9,85
+2026Q4,Strategy,Trust in Leadership,65.1,85
+2026Q4,Strategy,Learning Culture,65.9,85
+2026Q4,Strategy,Collaboration,68.4,85
+2026Q4,Strategy,Empowerment,66.2,85
+2026Q4,Strategy,Purpose Alignment,72.1,85
+2026Q4,Strategy,Wellbeing,68.1,85
+2026Q4,Strategy,Innovation,75.3,85
+2026Q4,Strategy,Psychological Safety,68.3,85
+2026Q4,Research,Trust in Leadership,64.3,85
+2026Q4,Research,Learning Culture,58.2,85
+2026Q4,Research,Collaboration,74.1,85
+2026Q4,Research,Empowerment,64.6,85
+2026Q4,Research,Purpose Alignment,70.7,85
+2026Q4,Research,Wellbeing,74.0,85
+2026Q4,Research,Innovation,64.7,85
+2026Q4,Research,Psychological Safety,76.4,85
+2026Q4,Investment,Trust in Leadership,76.6,85
+2026Q4,Investment,Learning Culture,79.6,85
+2026Q4,Investment,Collaboration,83.0,85
+2026Q4,Investment,Empowerment,76.7,85
+2026Q4,Investment,Purpose Alignment,68.4,85
+2026Q4,Investment,Wellbeing,84.2,85
+2026Q4,Investment,Innovation,82.6,85
+2026Q4,Investment,Psychological Safety,79.0,85
+2026Q4,Product,Trust in Leadership,72.1,85
+2026Q4,Product,Learning Culture,66.8,85
+2026Q4,Product,Collaboration,82.4,85
+2026Q4,Product,Empowerment,67.3,85
+2026Q4,Product,Purpose Alignment,72.6,85
+2026Q4,Product,Wellbeing,88.6,85
+2026Q4,Product,Innovation,69.7,85
+2026Q4,Product,Psychological Safety,75.0,85
+2026Q4,Legal,Trust in Leadership,66.8,85
+2026Q4,Legal,Learning Culture,72.3,85
+2026Q4,Legal,Collaboration,64.1,85
+2026Q4,Legal,Empowerment,77.7,85
+2026Q4,Legal,Purpose Alignment,70.1,85
+2026Q4,Legal,Wellbeing,75.2,85
+2026Q4,Legal,Innovation,64.3,85
+2026Q4,Legal,Psychological Safety,69.2,85

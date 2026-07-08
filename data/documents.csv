@@ -1,0 +1,6 @@
+doc_id,doc_type,title,owner,version,risk,recommendation
+D001,Policy,Performance Management Policy,HRD,0.8,Missing appeal mechanism,Add appeal and calibration process
+D002,JD,Sales Manager JD,HR,1.0,KPIs not linked to culture and retention,Add people leadership KPI
+D003,SOP,Recruitment SOP,HR,0.9,CEO approval repeated twice,Simplify approval matrix
+D004,Policy,Learning Academy Policy,HRD,0.7,No ROI measurement,Add effectiveness and ROI metrics
+D005,SOP,Budget Approval SOP,Finance,1.1,No SLA by approval layer,Add SLA and escalation rule

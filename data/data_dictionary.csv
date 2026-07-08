@@ -1,0 +1,122 @@
+table,column,description,sample
+employees.csv,employee_id,Synthetic demo field,E0001
+employees.csv,name,Synthetic demo field,Hoàng Ngọc Chi
+employees.csv,subsidiary,Synthetic demo field,Genesis Human Resources Services
+employees.csv,division,Synthetic demo field,Corporate
+employees.csv,department,Synthetic demo field,Procurement
+employees.csv,role,Synthetic demo field,Procurement Staff
+employees.csv,level,Synthetic demo field,Staff
+employees.csv,fte,Synthetic demo field,1
+employees.csv,manager_id,Synthetic demo field,E0933
+employees.csv,performance_score,Synthetic demo field,99.0
+employees.csv,engagement_score,Synthetic demo field,63.1
+employees.csv,market_pull,Synthetic demo field,53
+employees.csv,key_person_dependency,Synthetic demo field,62
+employees.csv,attrition_risk,Synthetic demo field,42.5
+employees.csv,tenure_years,Synthetic demo field,4.6
+employees.csv,salary_grade,Synthetic demo field,G9
+monthly_metrics.csv,month,Synthetic demo field,2025-01-01
+monthly_metrics.csv,department,Synthetic demo field,Automation
+monthly_metrics.csv,headcount,Synthetic demo field,11
+monthly_metrics.csv,turnover_rate,Synthetic demo field,2.21
+monthly_metrics.csv,engagement_index,Synthetic demo field,79.0
+monthly_metrics.csv,productivity_index,Synthetic demo field,80.6
+monthly_metrics.csv,absenteeism_rate,Synthetic demo field,2.76
+organization.csv,framework,Synthetic demo field,McKinsey 7S
+organization.csv,dimension,Synthetic demo field,Strategy
+organization.csv,score,Synthetic demo field,85
+organization.csv,comment,Synthetic demo field,Synthetic data
+kpi_cascade.csv,level_1,Synthetic demo field,CEO
+kpi_cascade.csv,level_2,Synthetic demo field,Corporate
+kpi_cascade.csv,owner,Synthetic demo field,Procurement
+kpi_cascade.csv,kpi,Synthetic demo field,AI Adoption
+kpi_cascade.csv,weight,Synthetic demo field,25
+kpi_cascade.csv,target,Synthetic demo field,85
+kpi_cascade.csv,actual,Synthetic demo field,78.7
+kpi_cascade.csv,score,Synthetic demo field,92.6
+kpi_cascade.csv,progress,Synthetic demo field,93.3
+competency.csv,role,Synthetic demo field,Procurement Staff
+competency.csv,competency,Synthetic demo field,Performance Management
+competency.csv,current_level,Synthetic demo field,2
+competency.csv,target_level,Synthetic demo field,4
+competency.csv,gap,Synthetic demo field,2
+succession.csv,critical_position,Synthetic demo field,HR Manager
+succession.csv,incumbent,Synthetic demo field,916
+succession.csv,department,Synthetic demo field,HR
+succession.csv,successor,Synthetic demo field,935
+succession.csv,readiness_score,Synthetic demo field,84.1
+succession.csv,performance_score,Synthetic demo field,89.8
+succession.csv,potential_score,Synthetic demo field,98.8
+succession.csv,incumbent_attrition_risk,Synthetic demo field,19.2
+succession.csv,risk_level,Synthetic demo field,Low
+culture.csv,quarter,Synthetic demo field,2025Q1
+culture.csv,department,Synthetic demo field,Procurement
+culture.csv,survey_item,Synthetic demo field,Trust in Leadership
+culture.csv,score,Synthetic demo field,58.8
+culture.csv,target,Synthetic demo field,85
+strategy.csv,initiative,Synthetic demo field,Organization Health Assessment
+strategy.csv,owner,Synthetic demo field,COO
+strategy.csv,start_date,Synthetic demo field,2026-07-01
+strategy.csv,end_date,Synthetic demo field,2026-11-08
+strategy.csv,progress,Synthetic demo field,61
+strategy.csv,status,Synthetic demo field,In Progress
+strategy.csv,risk_level,Synthetic demo field,Low
+transformation.csv,project,Synthetic demo field,Organization Health Assessment
+transformation.csv,owner,Synthetic demo field,COO
+transformation.csv,budget,Synthetic demo field,17147
+transformation.csv,roi_score,Synthetic demo field,90
+transformation.csv,progress,Synthetic demo field,17
+transformation.csv,risk_level,Synthetic demo field,Medium
+process_log.csv,case_id,Synthetic demo field,C0001
+process_log.csv,process,Synthetic demo field,Recruitment
+process_log.csv,step,Synthetic demo field,Request
+process_log.csv,owner,Synthetic demo field,Manager
+process_log.csv,start_date,Synthetic demo field,2026-02-09
+process_log.csv,end_date,Synthetic demo field,2026-02-12
+process_log.csv,duration_days,Synthetic demo field,3
+process_log.csv,status,Synthetic demo field,Done
+documents.csv,doc_id,Synthetic demo field,D001
+documents.csv,doc_type,Synthetic demo field,Policy
+documents.csv,title,Synthetic demo field,Performance Management Policy
+documents.csv,owner,Synthetic demo field,HRD
+documents.csv,version,Synthetic demo field,0.8
+documents.csv,risk,Synthetic demo field,Missing appeal mechanism
+documents.csv,recommendation,Synthetic demo field,Add appeal and calibration process
+meetings.csv,meeting_id,Synthetic demo field,M001
+meetings.csv,date,Synthetic demo field,2026-07-11
+meetings.csv,meeting_type,Synthetic demo field,Transformation Office
+meetings.csv,topic,Synthetic demo field,Culture Program
+meetings.csv,decision,Synthetic demo field,Approve
+meetings.csv,owner,Synthetic demo field,COO
+meetings.csv,action_item,Synthetic demo field,Follow up on Culture Program
+meetings.csv,due_date,Synthetic demo field,2026-09-13
+meetings.csv,status,Synthetic demo field,Open
+agent_views.csv,agent,Synthetic demo field,CEO Agent
+agent_views.csv,perspective,Synthetic demo field,"Strategy, growth, governance"
+agent_views.csv,current_view,Synthetic demo field,KPI Cascade and Decision Center should be top priority.
+network.csv,relationship,Synthetic demo field,EHS-Supply Chain
+network.csv,from_unit,Synthetic demo field,EHS
+network.csv,to_unit,Synthetic demo field,Supply Chain
+network.csv,collaboration_score,Synthetic demo field,60
+network.csv,dependency_score,Synthetic demo field,68
+network.csv,interaction_volume,Synthetic demo field,65
+network.csv,risk_level,Synthetic demo field,Medium
+leaders.csv,leader_id,Synthetic demo field,E0272
+leaders.csv,leader,Synthetic demo field,271
+leaders.csv,department,Synthetic demo field,Data & AI
+leaders.csv,decision_score,Synthetic demo field,81.2
+leaders.csv,people_score,Synthetic demo field,58.8
+leaders.csv,coaching_score,Synthetic demo field,62.2
+leaders.csv,culture_score,Synthetic demo field,59.6
+leaders.csv,innovation_score,Synthetic demo field,57.4
+knowledge.csv,employee_id,Synthetic demo field,E0545
+knowledge.csv,employee,Synthetic demo field,544
+knowledge.csv,domain,Synthetic demo field,OD
+knowledge.csv,skill,Synthetic demo field,Leadership Coaching
+knowledge.csv,experience_years,Synthetic demo field,10.5
+knowledge.csv,project,Synthetic demo field,Organization Health Assessment
+organization_memory.csv,date,Synthetic demo field,2026-07-18
+organization_memory.csv,type,Synthetic demo field,Meeting Note
+organization_memory.csv,title,Synthetic demo field,Launch Green Culture Program
+organization_memory.csv,owner,Synthetic demo field,CEO
+organization_memory.csv,content,Synthetic demo field,Rủi ro nghỉ việc ở vị trí trọng yếu cần theo dõi.

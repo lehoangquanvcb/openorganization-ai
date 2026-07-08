@@ -1,0 +1,111 @@
+level_1,level_2,owner,kpi,weight,target,actual,score,progress
+CEO,Corporate,Procurement,AI Adoption,25,85,78.7,92.6,93.3
+CEO,Corporate,Procurement,Safety Compliance,10,100,78.4,78.4,71.7
+CEO,Corporate,Procurement,Revenue Growth,10,80,59.9,74.8,63.0
+CEO,Corporate,Procurement,Training Completion,25,90,77.4,86.0,58.9
+CEO,Corporate,Procurement,Cost Efficiency,20,100,98.7,98.7,84.5
+CEO,Commercial,Marketing,Engagement Index,20,80,86.9,100.0,97.5
+CEO,Commercial,Marketing,Safety Compliance,10,90,74.4,82.6,86.4
+CEO,Commercial,Marketing,Customer Satisfaction,20,80,71.8,89.8,72.7
+CEO,Commercial,Marketing,Training Completion,15,80,88.2,100.0,83.8
+CEO,Commercial,Marketing,Cost Efficiency,10,90,78.2,86.8,80.8
+CEO,Executive,Transformation Office,Safety Compliance,15,95,90.5,95.2,85.6
+CEO,Executive,Transformation Office,Customer Satisfaction,15,80,71.4,89.3,85.2
+CEO,Executive,Transformation Office,AI Adoption,10,100,103.0,100.0,96.7
+CEO,Executive,Transformation Office,Cost Efficiency,15,100,110.0,100.0,97.3
+CEO,Executive,Transformation Office,Training Completion,20,85,84.0,98.8,100.0
+CEO,Manufacturing,Production,Cost Efficiency,20,80,78.5,98.1,88.5
+CEO,Manufacturing,Production,Training Completion,15,80,69.4,86.8,74.4
+CEO,Manufacturing,Production,Customer Satisfaction,25,80,58.8,73.5,70.2
+CEO,Manufacturing,Production,AI Adoption,15,90,87.2,96.9,95.5
+CEO,Manufacturing,Production,Leadership Readiness,10,100,100.9,100.0,100.0
+CEO,Technology,IT,Customer Satisfaction,25,90,91.7,100.0,100.0
+CEO,Technology,IT,Revenue Growth,15,80,62.8,78.5,88.0
+CEO,Technology,IT,Productivity Index,10,100,81.7,81.7,83.7
+CEO,Technology,IT,Safety Compliance,10,90,72.3,80.3,75.7
+CEO,Technology,IT,Leadership Readiness,25,90,87.0,96.6,89.8
+CEO,Commercial,Sales,Cost Efficiency,20,80,70.9,88.6,76.1
+CEO,Commercial,Sales,Engagement Index,15,90,70.0,77.8,73.8
+CEO,Commercial,Sales,Leadership Readiness,15,95,91.0,95.8,89.4
+CEO,Commercial,Sales,Safety Compliance,15,80,83.8,100.0,87.0
+CEO,Commercial,Sales,Revenue Growth,20,80,56.7,70.8,72.7
+CEO,Technology,Data & AI,Customer Satisfaction,20,85,87.7,100.0,100.0
+CEO,Technology,Data & AI,Cost Efficiency,15,90,73.0,81.1,70.9
+CEO,Technology,Data & AI,Revenue Growth,10,90,71.1,79.0,77.5
+CEO,Technology,Data & AI,Training Completion,15,95,80.3,84.6,67.8
+CEO,Technology,Data & AI,AI Adoption,10,80,61.7,77.2,69.6
+CEO,CSR,Sustainability,Productivity Index,25,85,70.5,83.0,74.3
+CEO,CSR,Sustainability,Training Completion,20,100,98.8,98.8,99.2
+CEO,CSR,Sustainability,AI Adoption,25,85,75.8,89.2,74.0
+CEO,CSR,Sustainability,Revenue Growth,10,80,67.9,84.9,80.7
+CEO,CSR,Sustainability,Leadership Readiness,20,80,77.1,96.4,90.8
+CEO,Manufacturing,Maintenance,Process Compliance,15,90,94.3,100.0,83.3
+CEO,Manufacturing,Maintenance,Revenue Growth,25,100,108.0,100.0,100.0
+CEO,Manufacturing,Maintenance,Productivity Index,10,100,80.3,80.3,65.8
+CEO,Manufacturing,Maintenance,Engagement Index,10,85,104.3,100.0,99.1
+CEO,Manufacturing,Maintenance,Customer Satisfaction,25,95,86.6,91.1,100.0
+CEO,Corporate,Finance,Customer Satisfaction,10,80,82.1,100.0,93.3
+CEO,Corporate,Finance,Engagement Index,20,100,90.0,90.0,64.0
+CEO,Corporate,Finance,Training Completion,20,85,82.5,97.0,88.6
+CEO,Corporate,Finance,Safety Compliance,25,90,80.8,89.7,82.8
+CEO,Corporate,Finance,AI Adoption,10,100,91.6,91.6,83.4
+CEO,Manufacturing,EHS,Training Completion,25,85,68.6,80.7,71.7
+CEO,Manufacturing,EHS,Cost Efficiency,10,90,94.4,100.0,84.3
+CEO,Manufacturing,EHS,AI Adoption,20,95,84.9,89.3,77.9
+CEO,Manufacturing,EHS,Customer Satisfaction,20,90,72.7,80.8,61.2
+CEO,Manufacturing,EHS,Engagement Index,15,80,66.7,83.4,71.2
+CEO,Commercial,Customer Success,Leadership Readiness,15,80,94.0,100.0,79.2
+CEO,Commercial,Customer Success,Productivity Index,25,85,69.7,82.0,78.0
+CEO,Commercial,Customer Success,Engagement Index,20,90,60.5,67.2,66.5
+CEO,Commercial,Customer Success,Safety Compliance,15,95,97.1,100.0,100.0
+CEO,Commercial,Customer Success,Training Completion,25,85,80.6,94.8,89.3
+CEO,Executive,CEO Office,Safety Compliance,20,90,85.5,95.0,100.0
+CEO,Executive,CEO Office,Leadership Readiness,10,80,80.7,100.0,100.0
+CEO,Executive,CEO Office,Productivity Index,20,100,85.3,85.3,72.7
+CEO,Executive,CEO Office,Cost Efficiency,10,100,95.9,95.9,86.2
+CEO,Executive,CEO Office,Revenue Growth,25,80,85.7,100.0,93.8
+CEO,Manufacturing,Supply Chain,Leadership Readiness,15,85,70.5,82.9,70.5
+CEO,Manufacturing,Supply Chain,Cost Efficiency,15,85,92.9,100.0,90.9
+CEO,Manufacturing,Supply Chain,Training Completion,25,90,67.7,75.2,78.7
+CEO,Manufacturing,Supply Chain,Revenue Growth,20,85,68.7,80.8,88.0
+CEO,Manufacturing,Supply Chain,Customer Satisfaction,15,90,83.2,92.5,80.6
+CEO,Manufacturing,Quality,Process Compliance,20,80,79.7,99.6,74.7
+CEO,Manufacturing,Quality,Cost Efficiency,10,95,94.1,99.0,93.4
+CEO,Manufacturing,Quality,Productivity Index,20,100,75.5,75.5,68.0
+CEO,Manufacturing,Quality,Training Completion,15,80,64.4,80.4,74.8
+CEO,Manufacturing,Quality,AI Adoption,15,95,84.7,89.2,71.0
+CEO,Technology,Automation,Safety Compliance,25,90,90.0,100.0,100.0
+CEO,Technology,Automation,Revenue Growth,15,90,84.8,94.2,93.4
+CEO,Technology,Automation,Productivity Index,25,80,90.2,100.0,94.6
+CEO,Technology,Automation,Training Completion,15,95,91.2,96.0,87.8
+CEO,Technology,Automation,Engagement Index,25,95,96.2,100.0,84.6
+CEO,Corporate,HR,Productivity Index,25,95,96.3,100.0,100.0
+CEO,Corporate,HR,Leadership Readiness,10,85,66.2,77.9,68.2
+CEO,Corporate,HR,Revenue Growth,20,85,100.0,100.0,100.0
+CEO,Corporate,HR,Customer Satisfaction,25,80,51.5,64.4,56.6
+CEO,Corporate,HR,Process Compliance,25,80,72.5,90.7,74.0
+CEO,Executive,Strategy,Revenue Growth,20,100,108.5,100.0,94.3
+CEO,Executive,Strategy,Engagement Index,20,80,70.7,88.3,78.7
+CEO,Executive,Strategy,Training Completion,10,90,90.8,100.0,88.5
+CEO,Executive,Strategy,Safety Compliance,15,95,100.0,100.0,95.9
+CEO,Executive,Strategy,Cost Efficiency,20,100,94.5,94.5,96.5
+CEO,Investment,Research,Revenue Growth,15,90,66.3,73.6,83.1
+CEO,Investment,Research,Engagement Index,25,80,80.9,100.0,82.6
+CEO,Investment,Research,Customer Satisfaction,10,90,101.7,100.0,99.1
+CEO,Investment,Research,AI Adoption,15,90,87.6,97.3,100.0
+CEO,Investment,Research,Cost Efficiency,10,95,89.5,94.2,82.2
+CEO,Investment,Investment,Engagement Index,20,85,81.5,95.9,98.4
+CEO,Investment,Investment,Training Completion,20,95,82.6,86.9,70.7
+CEO,Investment,Investment,Cost Efficiency,25,100,100.6,100.0,100.0
+CEO,Investment,Investment,Customer Satisfaction,25,90,80.8,89.8,85.9
+CEO,Investment,Investment,Process Compliance,15,80,65.8,82.3,79.3
+CEO,Technology,Product,Training Completion,25,100,89.6,89.6,75.0
+CEO,Technology,Product,Leadership Readiness,10,85,67.8,79.8,68.7
+CEO,Technology,Product,Cost Efficiency,10,80,75.6,94.5,73.4
+CEO,Technology,Product,Engagement Index,10,100,90.6,90.6,79.3
+CEO,Technology,Product,AI Adoption,20,90,70.6,78.4,72.0
+CEO,Corporate,Legal,Process Compliance,10,95,73.1,76.9,71.5
+CEO,Corporate,Legal,Revenue Growth,10,95,105.0,100.0,100.0
+CEO,Corporate,Legal,Leadership Readiness,20,80,63.6,79.5,73.9
+CEO,Corporate,Legal,Productivity Index,15,85,73.8,86.9,85.5
+CEO,Corporate,Legal,Engagement Index,20,90,75.2,83.5,88.9

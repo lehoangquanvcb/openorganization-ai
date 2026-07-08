@@ -1,0 +1,121 @@
+meeting_id,date,meeting_type,topic,decision,owner,action_item,due_date,status
+M001,2026-07-11,Transformation Office,Culture Program,Approve,COO,Follow up on Culture Program,2026-09-13,Open
+M002,2026-09-01,CEO Weekly,People Risk,Escalate,CFO,Follow up on People Risk,2026-08-13,Open
+M003,2026-08-24,Board Meeting,Budget Review,Escalate,COO,Follow up on Budget Review,2026-07-17,In Progress
+M004,2026-09-03,HR Committee,Budget Review,Approve,CFO,Follow up on Budget Review,2026-10-04,Open
+M005,2026-10-22,CEO Weekly,Transformation Portfolio,Approve,CTO,Follow up on Transformation Portfolio,2026-08-18,Overdue
+M006,2026-07-05,HR Committee,Leadership Pipeline,Approve,COO,Follow up on Leadership Pipeline,2026-08-06,Open
+M007,2026-07-27,Transformation Office,Budget Review,Defer,CEO,Follow up on Budget Review,2026-09-03,Done
+M008,2026-10-22,Transformation Office,Transformation Portfolio,Escalate,CTO,Follow up on Transformation Portfolio,2026-08-30,Done
+M009,2026-10-01,CEO Weekly,Leadership Pipeline,Revise,CEO,Follow up on Leadership Pipeline,2026-08-04,Done
+M010,2026-08-11,Transformation Office,Budget Review,Approve,HRD,Follow up on Budget Review,2026-10-18,Done
+M011,2026-07-27,CEO Weekly,Leadership Pipeline,Approve,HRD,Follow up on Leadership Pipeline,2026-11-05,In Progress
+M012,2026-07-12,CEO Weekly,Budget Review,Escalate,CFO,Follow up on Budget Review,2026-11-02,Overdue
+M013,2026-09-02,Transformation Office,Budget Review,Defer,HRD,Follow up on Budget Review,2026-07-16,Done
+M014,2026-09-27,Board Meeting,Budget Review,Revise,CFO,Follow up on Budget Review,2026-09-07,In Progress
+M015,2026-08-15,CEO Weekly,Transformation Portfolio,Approve,COO,Follow up on Transformation Portfolio,2026-09-25,In Progress
+M016,2026-07-18,HR Committee,KPI Review,Revise,COO,Follow up on KPI Review,2026-09-10,Done
+M017,2026-10-05,Board Meeting,KPI Review,Defer,HRD,Follow up on KPI Review,2026-08-17,Open
+M018,2026-10-28,Board Meeting,KPI Review,Revise,CTO,Follow up on KPI Review,2026-11-04,In Progress
+M019,2026-07-15,Board Meeting,Leadership Pipeline,Defer,HRD,Follow up on Leadership Pipeline,2026-09-25,Open
+M020,2026-07-30,CEO Weekly,People Risk,Revise,HRD,Follow up on People Risk,2026-10-07,In Progress
+M021,2026-08-09,HR Committee,Budget Review,Escalate,CFO,Follow up on Budget Review,2026-07-21,Overdue
+M022,2026-07-02,HR Committee,KPI Review,Defer,COO,Follow up on KPI Review,2026-08-22,In Progress
+M023,2026-07-26,HR Committee,Budget Review,Approve,CEO,Follow up on Budget Review,2026-08-22,In Progress
+M024,2026-09-16,Transformation Office,People Risk,Escalate,HRD,Follow up on People Risk,2026-08-20,Overdue
+M025,2026-08-19,CEO Weekly,Budget Review,Escalate,CTO,Follow up on Budget Review,2026-07-27,Open
+M026,2026-09-06,Board Meeting,People Risk,Approve,COO,Follow up on People Risk,2026-08-19,Done
+M027,2026-09-13,Board Meeting,Budget Review,Approve,CFO,Follow up on Budget Review,2026-08-31,Done
+M028,2026-08-11,Transformation Office,Culture Program,Revise,CEO,Follow up on Culture Program,2026-07-19,Done
+M029,2026-10-08,CEO Weekly,People Risk,Revise,CFO,Follow up on People Risk,2026-11-08,Open
+M030,2026-08-25,HR Committee,Culture Program,Approve,HRD,Follow up on Culture Program,2026-10-20,Open
+M031,2026-09-15,Transformation Office,Leadership Pipeline,Escalate,CFO,Follow up on Leadership Pipeline,2026-07-19,Overdue
+M032,2026-09-26,HR Committee,Transformation Portfolio,Approve,CTO,Follow up on Transformation Portfolio,2026-11-10,Open
+M033,2026-08-10,Transformation Office,Culture Program,Escalate,HRD,Follow up on Culture Program,2026-10-11,In Progress
+M034,2026-10-15,CEO Weekly,Culture Program,Defer,CEO,Follow up on Culture Program,2026-10-25,Overdue
+M035,2026-08-16,HR Committee,Budget Review,Revise,CEO,Follow up on Budget Review,2026-09-01,Done
+M036,2026-08-19,Board Meeting,KPI Review,Defer,CEO,Follow up on KPI Review,2026-07-17,Done
+M037,2026-09-23,Transformation Office,Leadership Pipeline,Revise,CTO,Follow up on Leadership Pipeline,2026-08-29,Open
+M038,2026-09-16,Board Meeting,Leadership Pipeline,Approve,HRD,Follow up on Leadership Pipeline,2026-09-21,Open
+M039,2026-09-14,Transformation Office,Budget Review,Approve,COO,Follow up on Budget Review,2026-10-11,Open
+M040,2026-10-14,HR Committee,Transformation Portfolio,Revise,CFO,Follow up on Transformation Portfolio,2026-10-19,Overdue
+M041,2026-07-27,CEO Weekly,Budget Review,Approve,CEO,Follow up on Budget Review,2026-09-16,Open
+M042,2026-10-12,Board Meeting,KPI Review,Revise,COO,Follow up on KPI Review,2026-08-05,In Progress
+M043,2026-10-29,Board Meeting,Culture Program,Escalate,COO,Follow up on Culture Program,2026-11-12,Done
+M044,2026-07-11,CEO Weekly,Culture Program,Approve,COO,Follow up on Culture Program,2026-08-03,Done
+M045,2026-08-16,HR Committee,People Risk,Escalate,CTO,Follow up on People Risk,2026-07-26,In Progress
+M046,2026-07-29,HR Committee,Leadership Pipeline,Escalate,CEO,Follow up on Leadership Pipeline,2026-07-22,In Progress
+M047,2026-09-09,Board Meeting,Transformation Portfolio,Escalate,COO,Follow up on Transformation Portfolio,2026-09-21,Overdue
+M048,2026-08-22,Board Meeting,Culture Program,Revise,HRD,Follow up on Culture Program,2026-09-26,In Progress
+M049,2026-07-05,CEO Weekly,Budget Review,Escalate,CTO,Follow up on Budget Review,2026-09-17,In Progress
+M050,2026-07-27,HR Committee,Budget Review,Approve,CTO,Follow up on Budget Review,2026-09-18,In Progress
+M051,2026-07-21,CEO Weekly,Leadership Pipeline,Revise,CFO,Follow up on Leadership Pipeline,2026-08-25,Done
+M052,2026-10-04,HR Committee,KPI Review,Approve,CFO,Follow up on KPI Review,2026-11-07,In Progress
+M053,2026-08-08,HR Committee,People Risk,Approve,CFO,Follow up on People Risk,2026-10-19,In Progress
+M054,2026-08-01,CEO Weekly,Transformation Portfolio,Defer,CEO,Follow up on Transformation Portfolio,2026-09-29,In Progress
+M055,2026-09-21,Transformation Office,Budget Review,Escalate,CEO,Follow up on Budget Review,2026-07-22,In Progress
+M056,2026-10-09,HR Committee,People Risk,Defer,CEO,Follow up on People Risk,2026-08-28,Open
+M057,2026-07-08,Transformation Office,KPI Review,Revise,COO,Follow up on KPI Review,2026-08-23,Overdue
+M058,2026-09-25,HR Committee,Leadership Pipeline,Defer,COO,Follow up on Leadership Pipeline,2026-10-24,Done
+M059,2026-07-18,HR Committee,Culture Program,Revise,CEO,Follow up on Culture Program,2026-10-10,Overdue
+M060,2026-09-26,Board Meeting,Leadership Pipeline,Defer,COO,Follow up on Leadership Pipeline,2026-09-07,Done
+M061,2026-09-19,CEO Weekly,Transformation Portfolio,Escalate,CTO,Follow up on Transformation Portfolio,2026-09-06,Done
+M062,2026-10-26,CEO Weekly,Transformation Portfolio,Defer,CTO,Follow up on Transformation Portfolio,2026-08-03,Open
+M063,2026-07-02,CEO Weekly,Budget Review,Approve,COO,Follow up on Budget Review,2026-07-16,Done
+M064,2026-10-12,CEO Weekly,Leadership Pipeline,Escalate,CFO,Follow up on Leadership Pipeline,2026-08-05,Overdue
+M065,2026-08-15,CEO Weekly,Budget Review,Escalate,CEO,Follow up on Budget Review,2026-09-22,Done
+M066,2026-09-21,HR Committee,Transformation Portfolio,Escalate,CFO,Follow up on Transformation Portfolio,2026-10-28,In Progress
+M067,2026-08-14,Transformation Office,KPI Review,Revise,HRD,Follow up on KPI Review,2026-09-03,Overdue
+M068,2026-09-19,CEO Weekly,Transformation Portfolio,Revise,CTO,Follow up on Transformation Portfolio,2026-09-15,Done
+M069,2026-07-01,Transformation Office,Budget Review,Defer,CEO,Follow up on Budget Review,2026-09-27,Open
+M070,2026-09-18,Transformation Office,People Risk,Escalate,COO,Follow up on People Risk,2026-10-27,Done
+M071,2026-08-05,CEO Weekly,Culture Program,Revise,CEO,Follow up on Culture Program,2026-10-13,Overdue
+M072,2026-08-28,Board Meeting,Leadership Pipeline,Escalate,CTO,Follow up on Leadership Pipeline,2026-10-12,In Progress
+M073,2026-08-09,Board Meeting,Leadership Pipeline,Approve,COO,Follow up on Leadership Pipeline,2026-09-13,Overdue
+M074,2026-07-06,CEO Weekly,People Risk,Defer,CFO,Follow up on People Risk,2026-09-08,Open
+M075,2026-10-17,Board Meeting,Leadership Pipeline,Revise,CEO,Follow up on Leadership Pipeline,2026-08-22,Open
+M076,2026-08-10,Transformation Office,Culture Program,Escalate,CFO,Follow up on Culture Program,2026-09-29,Overdue
+M077,2026-07-17,Board Meeting,Leadership Pipeline,Escalate,CTO,Follow up on Leadership Pipeline,2026-09-13,In Progress
+M078,2026-10-18,Board Meeting,KPI Review,Approve,COO,Follow up on KPI Review,2026-09-28,Open
+M079,2026-07-03,HR Committee,People Risk,Escalate,CEO,Follow up on People Risk,2026-09-02,In Progress
+M080,2026-08-08,CEO Weekly,Transformation Portfolio,Defer,CEO,Follow up on Transformation Portfolio,2026-11-07,Done
+M081,2026-08-12,Board Meeting,Transformation Portfolio,Revise,CTO,Follow up on Transformation Portfolio,2026-08-13,In Progress
+M082,2026-07-16,CEO Weekly,Transformation Portfolio,Escalate,CTO,Follow up on Transformation Portfolio,2026-08-06,Open
+M083,2026-07-17,Board Meeting,Budget Review,Escalate,COO,Follow up on Budget Review,2026-08-06,Overdue
+M084,2026-10-05,CEO Weekly,Culture Program,Revise,CFO,Follow up on Culture Program,2026-07-29,Done
+M085,2026-10-29,Transformation Office,People Risk,Escalate,CEO,Follow up on People Risk,2026-08-04,In Progress
+M086,2026-09-01,Board Meeting,Transformation Portfolio,Defer,CTO,Follow up on Transformation Portfolio,2026-10-13,In Progress
+M087,2026-09-11,Transformation Office,People Risk,Approve,CEO,Follow up on People Risk,2026-10-14,Overdue
+M088,2026-07-03,HR Committee,Transformation Portfolio,Revise,CEO,Follow up on Transformation Portfolio,2026-08-30,Open
+M089,2026-07-20,Transformation Office,Leadership Pipeline,Escalate,HRD,Follow up on Leadership Pipeline,2026-10-02,Overdue
+M090,2026-09-09,CEO Weekly,People Risk,Approve,CTO,Follow up on People Risk,2026-07-19,In Progress
+M091,2026-09-07,Transformation Office,Budget Review,Approve,COO,Follow up on Budget Review,2026-11-01,Done
+M092,2026-07-08,Board Meeting,Budget Review,Revise,HRD,Follow up on Budget Review,2026-10-30,Open
+M093,2026-09-15,Transformation Office,Budget Review,Revise,COO,Follow up on Budget Review,2026-10-18,Done
+M094,2026-07-05,Transformation Office,Culture Program,Revise,CTO,Follow up on Culture Program,2026-08-28,Overdue
+M095,2026-10-20,HR Committee,Transformation Portfolio,Approve,CTO,Follow up on Transformation Portfolio,2026-08-12,In Progress
+M096,2026-09-24,CEO Weekly,Budget Review,Approve,COO,Follow up on Budget Review,2026-10-23,Open
+M097,2026-08-05,CEO Weekly,Leadership Pipeline,Defer,CTO,Follow up on Leadership Pipeline,2026-10-07,Open
+M098,2026-07-30,Board Meeting,Transformation Portfolio,Defer,CTO,Follow up on Transformation Portfolio,2026-08-18,Done
+M099,2026-10-17,CEO Weekly,People Risk,Revise,CFO,Follow up on People Risk,2026-09-01,Open
+M100,2026-07-28,Board Meeting,KPI Review,Revise,HRD,Follow up on KPI Review,2026-11-05,Done
+M101,2026-10-23,HR Committee,Culture Program,Approve,HRD,Follow up on Culture Program,2026-08-30,Overdue
+M102,2026-07-09,Board Meeting,Leadership Pipeline,Defer,HRD,Follow up on Leadership Pipeline,2026-08-10,Overdue
+M103,2026-10-03,HR Committee,KPI Review,Revise,CTO,Follow up on KPI Review,2026-09-25,Done
+M104,2026-10-12,Board Meeting,Culture Program,Revise,COO,Follow up on Culture Program,2026-10-11,Overdue
+M105,2026-09-26,Transformation Office,KPI Review,Escalate,CEO,Follow up on KPI Review,2026-09-30,Open
+M106,2026-09-17,Transformation Office,Transformation Portfolio,Approve,HRD,Follow up on Transformation Portfolio,2026-08-11,Done
+M107,2026-10-24,Board Meeting,Budget Review,Defer,CFO,Follow up on Budget Review,2026-08-03,Overdue
+M108,2026-10-21,Board Meeting,People Risk,Defer,CFO,Follow up on People Risk,2026-11-01,In Progress
+M109,2026-07-12,Board Meeting,People Risk,Defer,CTO,Follow up on People Risk,2026-10-22,Open
+M110,2026-07-22,HR Committee,People Risk,Defer,CEO,Follow up on People Risk,2026-10-30,In Progress
+M111,2026-10-09,Board Meeting,Leadership Pipeline,Approve,COO,Follow up on Leadership Pipeline,2026-10-01,Overdue
+M112,2026-10-29,Board Meeting,Culture Program,Escalate,CFO,Follow up on Culture Program,2026-10-09,Open
+M113,2026-10-16,Board Meeting,KPI Review,Defer,COO,Follow up on KPI Review,2026-11-03,Open
+M114,2026-08-01,HR Committee,KPI Review,Approve,HRD,Follow up on KPI Review,2026-09-15,Overdue
+M115,2026-09-24,HR Committee,Transformation Portfolio,Escalate,CEO,Follow up on Transformation Portfolio,2026-08-05,Overdue
+M116,2026-10-13,CEO Weekly,Leadership Pipeline,Defer,HRD,Follow up on Leadership Pipeline,2026-09-22,Overdue
+M117,2026-10-08,Board Meeting,People Risk,Revise,COO,Follow up on People Risk,2026-09-18,In Progress
+M118,2026-08-09,Transformation Office,People Risk,Revise,COO,Follow up on People Risk,2026-09-10,In Progress
+M119,2026-10-25,HR Committee,Budget Review,Defer,CFO,Follow up on Budget Review,2026-08-26,Open
+M120,2026-09-26,Board Meeting,Leadership Pipeline,Approve,CFO,Follow up on Leadership Pipeline,2026-08-17,Done

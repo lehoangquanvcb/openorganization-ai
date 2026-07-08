@@ -1,0 +1,1001 @@
+employee_id,name,subsidiary,division,department,role,level,fte,manager_id,performance_score,engagement_score,market_pull,key_person_dependency,attrition_risk,tenure_years,salary_grade
+E0001,Hoàng Ngọc Chi,Genesis Human Resources Services,Corporate,Procurement,Procurement Staff,Staff,1,E0933,99.0,63.1,53,62,42.5,4.6,G9
+E0002,Phạm Đức Tâm,Genesis Fund & Innovation,Commercial,Marketing,Marketing Specialist,Specialist,1,E0210,85.3,71.0,67,96,47.1,6.3,G9
+E0003,Trần Minh Phúc,Genesis Fund & Innovation,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0765,80.8,78.3,37,33,25.6,9.1,G4
+E0004,Vũ Gia Tuấn,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0464,65.6,71.0,26,66,38.5,0.9,G6
+E0005,Bùi Thị Hà,Genesis Human Resources Services,Technology,IT,IT Specialist,Specialist,1,E0150,81.3,44.2,60,64,59.4,7.3,G5
+E0006,Lê Thu Phúc,Genesis Holding Office,Commercial,Sales,Sales Specialist,Specialist,1,E0721,82.4,69.8,53,75,39.2,0.6,G9
+E0007,Đặng Ngọc Quân,Genesis Human Resources Services,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0771,75.1,70.1,60,95,49.5,5.1,G4
+E0008,Trần Ngọc Tuấn,Genesis Social Responsibility Platform,CSR,Sustainability,Sustainability Staff,Staff,1,E0050,72.0,69.0,42,44,34.0,3.3,G9
+E0009,Trần Đức Sơn,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0272,71.8,86.5,45,68,38.4,1.0,G7
+E0010,Hoàng Đức Mai,Genesis Green Manufacturing,Manufacturing,Maintenance,Maintenance Supervisor,Supervisor,1,CEO,72.8,99.0,21,14,9.4,4.8,G7
+E0011,Nguyễn Minh An,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0291,79.2,71.0,57,16,26.7,9.2,G5
+E0012,Đỗ Thị Trang,Genesis Fund & Innovation,Manufacturing,EHS,EHS Senior Specialist,Senior Specialist,1,E0343,80.0,74.9,22,93,34.7,1.9,G7
+E0013,Nguyễn Văn Linh,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0235,82.1,56.8,72,72,53.0,5.2,G10
+E0014,Phạm Ngọc Tâm,Genesis Human Resources Services,Commercial,Customer Success,Customer Success Specialist,Specialist,1,E0121,66.8,95.9,46,58,23.7,0.3,G7
+E0015,Nguyễn Ngọc Trang,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Staff,Staff,1,E0106,61.0,80.7,45,36,24.7,2.4,G4
+E0016,Hoàng Ngọc Linh,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0270,65.2,65.1,88,62,54.9,6.8,G6
+E0017,Bùi Thu Linh,Genesis Human Resources Services,Technology,Data & AI,Data & AI Staff,Staff,1,E0938,85.6,80.5,79,50,38.2,2.0,G9
+E0018,Đỗ Thu Tâm,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0813,72.5,77.9,25,47,27.9,3.2,G3
+E0019,Phạm Văn Mai,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0464,82.6,70.0,71,68,52.0,2.4,G8
+E0020,Trần Ngọc Chi,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0299,60.6,70.6,51,12,20.5,4.5,G6
+E0021,Phạm Ngọc Trang,Genesis Human Resources Services,Technology,Data & AI,Data & AI Staff,Staff,1,E0356,92.6,50.5,84,28,52.2,4.4,G10
+E0022,Hồ Ngọc Phúc,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Manager,Manager,1,CEO,81.0,75.7,20,63,32.0,3.7,G10
+E0023,Vũ Minh Minh,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0854,88.3,89.2,34,17,18.0,2.3,G2
+E0024,Đặng Thu Dũng,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0670,76.8,54.6,58,11,33.3,2.2,G3
+E0025,Lê Gia Hà,Genesis Human Resources Services,Executive,CEO Office,CEO Office Senior Specialist,Senior Specialist,1,E0784,87.0,67.2,51,82,44.4,6.6,G8
+E0026,Đỗ Gia Bình,Genesis Green Manufacturing,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0939,88.0,80.3,67,90,50.4,3.1,G3
+E0027,Phạm Minh Hà,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Senior Manager,Senior Manager,1,CEO,75.8,69.9,51,66,39.1,8.1,G2
+E0028,Vũ Thu Linh,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0907,89.0,87.6,42,84,29.9,1.0,G8
+E0029,Hồ Thị Tuấn,Genesis Social Responsibility Platform,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0388,73.8,89.0,25,83,24.0,1.5,G10
+E0030,Hồ Thị Tâm,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0184,58.6,72.4,82,54,37.9,1.9,G3
+E0031,Lê Ngọc Dũng,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0698,60.6,90.6,61,43,24.9,5.7,G9
+E0032,Hồ Đức Hà,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0670,68.7,78.3,35,22,26.3,2.2,G9
+E0033,Lê Minh Chi,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0745,81.9,76.2,38,72,35.9,1.3,G10
+E0034,Trần Gia Tâm,Genesis Fund & Innovation,Technology,Automation,Automation Supervisor,Supervisor,1,CEO,90.2,54.9,63,65,54.0,0.3,G2
+E0035,Phạm Gia Mai,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,76.6,99.0,63,77,26.3,2.3,G8
+E0036,Đỗ Ngọc Thảo,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,83.2,58.3,64,58,49.2,5.5,G9
+E0037,Phạm Gia Chi,Genesis Holding Office,Corporate,HR,HR Staff,Staff,1,E0611,79.4,71.5,73,15,38.0,8.3,G4
+E0038,Phạm Văn An,Genesis Fund & Innovation,Corporate,HR,HR Specialist,Specialist,1,E0611,89.1,82.1,34,97,30.4,1.4,G3
+E0039,Đỗ Thị Thảo,Genesis Green Manufacturing,Technology,IT,IT Specialist,Specialist,1,E0414,92.7,67.6,81,81,55.7,6.5,G2
+E0040,Phạm Minh Mai,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0318,95.2,52.5,34,20,26.2,14.0,G7
+E0041,Nguyễn Ngọc Thảo,Genesis Holding Office,Corporate,HR,HR Specialist,Specialist,1,E0631,80.2,73.9,45,93,49.9,2.1,G10
+E0042,Trần Đức Minh,Genesis Human Resources Services,Commercial,Sales,Sales Specialist,Specialist,1,E0721,75.4,75.5,64,70,40.6,3.7,G9
+E0043,Hoàng Văn Quân,Genesis Green Manufacturing,CSR,Sustainability,Sustainability Manager,Manager,1,CEO,82.5,70.8,74,83,42.8,1.0,G7
+E0044,Đỗ Ngọc Hà,Genesis Human Resources Services,Technology,Data & AI,Data & AI Staff,Staff,1,E0270,89.4,67.9,55,18,29.5,5.3,G4
+E0045,Đặng Ngọc Tuấn,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0705,70.8,91.3,67,25,25.8,2.9,G5
+E0046,Phạm Gia Trang,Genesis Holding Office,Corporate,Finance,Finance Specialist,Specialist,1,E0619,82.5,97.4,78,64,35.8,2.8,G9
+E0047,Đỗ Thu Chi,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0751,73.5,78.4,71,38,37.5,9.7,G4
+E0048,Trần Gia Minh,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0831,63.3,99.0,62,88,29.3,3.5,G3
+E0049,Đặng Thu Quân,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0688,79.4,77.3,33,64,31.1,2.2,G2
+E0050,Đặng Thị Chi,Genesis Human Resources Services,CSR,Sustainability,Sustainability Manager,Manager,1,CEO,88.8,63.3,50,92,52.4,3.8,G9
+E0051,Đỗ Gia Chi,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Senior Manager,Senior Manager,1,CEO,59.3,51.3,56,84,50.3,2.2,G2
+E0052,Đỗ Thu Việt,Genesis Human Resources Services,Commercial,Customer Success,Customer Success Staff,Staff,1,E0121,64.4,67.4,54,57,40.5,11.2,G2
+E0053,Đặng Thu Việt,Genesis Holding Office,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0622,74.0,51.2,74,56,45.9,4.6,G2
+E0054,Phạm Minh Mai,Genesis Fund & Innovation,Technology,IT,IT Specialist,Specialist,1,E0414,80.1,87.1,88,78,50.7,1.4,G7
+E0055,Vũ Thị Long,Genesis Human Resources Services,Corporate,Finance,Finance Staff,Staff,1,E0827,91.1,68.1,80,45,38.3,8.3,G3
+E0056,Hồ Ngọc Trang,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0244,59.9,68.9,79,25,30.8,5.4,G9
+E0057,Đỗ Gia Thảo,Genesis Green Manufacturing,Corporate,HR,HR Manager,Manager,1,CEO,80.7,99.0,71,68,40.2,2.3,G2
+E0058,Lê Thị Dũng,Genesis Green Manufacturing,Corporate,HR,HR Specialist,Specialist,1,E0631,93.0,65.5,42,73,35.2,2.6,G7
+E0059,Hồ Thu Sơn,Genesis Holding Office,Commercial,Sales,Sales Specialist,Specialist,1,E0089,64.0,69.9,59,59,36.1,2.2,G7
+E0060,Vũ Ngọc Thảo,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0271,71.3,62.4,55,54,35.5,2.9,G4
+E0061,Bùi Đức Tuấn,Genesis Holding Office,Manufacturing,Quality,Quality Specialist,Specialist,1,E0589,60.6,71.2,59,67,41.0,2.7,G3
+E0062,Phạm Thị Quân,Genesis Green Manufacturing,Corporate,HR,HR Manager,Manager,1,CEO,67.2,96.5,27,58,19.1,6.9,G8
+E0063,Hoàng Văn Hà,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0927,71.9,72.7,59,41,30.8,1.4,G3
+E0064,Lê Ngọc Phúc,Genesis Holding Office,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0901,95.7,78.6,73,74,37.7,3.1,G6
+E0065,Lê Đức Dũng,Genesis Social Responsibility Platform,Executive,Strategy,Strategy Supervisor,Supervisor,1,CEO,74.5,72.4,41,28,27.3,13.4,G4
+E0066,Trần Thu Linh,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Senior Specialist,Senior Specialist,1,E0765,70.9,68.7,58,92,47.3,15.5,G6
+E0067,Vũ Minh Tâm,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0863,80.0,76.8,65,31,34.6,1.5,G5
+E0068,Bùi Văn Mai,Genesis Human Resources Services,Corporate,Finance,Finance Supervisor,Supervisor,1,CEO,66.8,62.6,88,24,49.1,6.9,G7
+E0069,Lê Thị Yến,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Supervisor,Supervisor,1,CEO,81.7,75.7,78,53,35.0,7.3,G4
+E0070,Vũ Thu Phúc,Genesis Human Resources Services,Corporate,HR,HR Staff,Staff,1,E0848,59.3,86.4,64,13,24.2,6.7,G4
+E0071,Hồ Đức Việt,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0374,86.0,63.3,29,33,34.2,6.9,G10
+E0072,Đặng Đức Dũng,Genesis Fund & Innovation,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,65.5,85.0,45,49,35.8,6.6,G3
+E0073,Nguyễn Văn Mai,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Manager,Manager,1,CEO,77.8,99.0,52,63,32.0,2.2,G10
+E0074,Vũ Gia Dũng,Genesis Fund & Innovation,Technology,IT,IT Manager,Manager,1,CEO,82.8,77.6,93,94,53.4,3.1,G3
+E0075,Trần Minh Linh,Genesis Social Responsibility Platform,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0863,65.7,60.2,40,87,52.8,4.4,G5
+E0076,Đặng Minh Chi,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0464,68.7,49.4,57,38,42.6,3.0,G7
+E0077,Hoàng Gia Long,Genesis Fund & Innovation,Commercial,Marketing,Marketing Staff,Staff,1,E0630,81.0,96.2,46,44,30.2,4.1,G6
+E0078,Phạm Ngọc Sơn,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Specialist,Specialist,1,E0455,69.8,62.4,44,86,47.6,3.6,G7
+E0079,Trần Đức Chi,Genesis Human Resources Services,Executive,Transformation Office,Transformation Office Specialist,Specialist,1,E0765,65.2,69.7,47,88,50.4,4.8,G2
+E0080,Hồ Gia Dũng,Genesis Fund & Innovation,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0043,66.1,59.0,34,62,32.8,3.9,G8
+E0081,Lê Ngọc An,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0271,78.2,99.0,64,33,16.5,2.5,G7
+E0082,Vũ Thị Chi,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Supervisor,Supervisor,1,CEO,69.7,64.2,32,39,29.8,0.8,G4
+E0083,Lê Văn Minh,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0494,80.3,59.7,73,18,36.0,6.1,G9
+E0084,Đỗ Thu Nam,Genesis Human Resources Services,Investment,Research,Research Staff,Staff,1,E1000,78.6,70.4,49,30,34.0,0.9,G10
+E0085,Trần Gia Long,Genesis Fund & Innovation,Corporate,Finance,Finance Specialist,Specialist,1,E0734,73.0,60.5,74,76,59.7,5.2,G7
+E0086,Vũ Văn Quân,Genesis Human Resources Services,Corporate,HR,HR Supervisor,Supervisor,1,CEO,47.7,77.3,33,64,36.3,2.8,G7
+E0087,Vũ Đức An,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0434,78.0,71.0,52,77,50.1,3.9,G7
+E0088,Nguyễn Minh An,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0243,63.3,96.5,89,32,30.8,3.6,G5
+E0089,Đỗ Thị Hải,Genesis Holding Office,Commercial,Sales,Sales Senior Manager,Senior Manager,1,CEO,56.6,87.2,45,91,40.2,4.0,G8
+E0090,Phạm Văn Nam,Genesis Green Manufacturing,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0225,82.1,71.4,59,90,52.3,11.1,G3
+E0091,Lê Văn An,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0488,94.1,57.6,80,34,52.2,1.8,G9
+E0092,Bùi Ngọc Nam,Genesis Human Resources Services,Corporate,HR,HR Specialist,Specialist,1,E0479,77.7,75.2,57,60,32.6,6.2,G6
+E0093,Bùi Gia Mai,Genesis Fund & Innovation,Manufacturing,Quality,Quality Supervisor,Supervisor,1,CEO,89.8,89.0,46,50,31.1,12.7,G3
+E0094,Đặng Gia Minh,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Staff,Staff,1,E0511,85.5,69.7,67,18,35.9,5.2,G10
+E0095,Lê Đức Yến,Genesis Human Resources Services,CSR,Sustainability,Sustainability Senior Specialist,Senior Specialist,1,E0458,82.4,61.7,64,55,51.0,3.8,G7
+E0096,Phạm Thị Long,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0318,81.2,57.9,70,91,58.5,3.6,G5
+E0097,Vũ Gia Bình,Genesis Green Manufacturing,Manufacturing,Quality,Quality Specialist,Specialist,1,E0589,81.4,95.0,52,69,23.7,2.4,G4
+E0098,Nguyễn Đức Mai,Genesis Green Manufacturing,Manufacturing,EHS,EHS Senior Specialist,Senior Specialist,1,E0759,80.1,76.8,37,65,37.1,3.6,G8
+E0099,Lê Minh Hà,Genesis Holding Office,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0270,56.2,55.7,72,97,51.3,2.8,G7
+E0100,Bùi Thu An,Genesis Fund & Innovation,Commercial,Marketing,Marketing Senior Specialist,Senior Specialist,1,E0630,58.6,76.1,40,55,32.6,9.5,G3
+E0101,Đặng Minh Phúc,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0831,75.8,71.7,72,85,43.6,3.2,G3
+E0102,Lê Thị Bình,Genesis Human Resources Services,Executive,Strategy,Strategy Specialist,Specialist,1,E0065,70.7,75.5,73,61,41.3,6.8,G2
+E0103,Vũ Thị Minh,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0506,68.9,82.1,60,27,27.7,2.5,G2
+E0104,Lê Văn Long,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0396,76.6,77.4,43,33,22.1,4.4,G7
+E0105,Bùi Gia Việt,Genesis Human Resources Services,Technology,IT,IT Specialist,Specialist,1,E0193,99.0,80.0,55,64,29.7,3.4,G4
+E0106,Nguyễn Ngọc Thảo,Genesis Human Resources Services,Technology,Data & AI,Data & AI Supervisor,Supervisor,1,CEO,96.2,65.7,54,22,37.4,1.2,G6
+E0107,Hoàng Ngọc Tuấn,Genesis Green Manufacturing,Manufacturing,Production,Production Manager,Manager,1,CEO,86.7,90.7,61,87,36.9,4.6,G9
+E0108,Bùi Đức Chi,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0356,92.8,85.0,93,92,57.2,7.1,G10
+E0109,Lê Văn Tâm,Genesis Human Resources Services,Executive,Transformation Office,Transformation Office Specialist,Specialist,1,E0273,80.1,70.6,47,77,44.1,2.7,G9
+E0110,Bùi Minh Việt,Genesis Fund & Innovation,Corporate,HR,HR Staff,Staff,1,E0974,74.5,79.7,27,62,35.2,5.3,G7
+E0111,Đặng Văn Hà,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0593,84.7,41.4,84,63,60.1,0.7,G8
+E0112,Trần Thu Hải,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0265,77.2,75.9,73,69,45.3,7.4,G3
+E0113,Hồ Gia Sơn,Genesis Human Resources Services,Manufacturing,EHS,EHS Staff,Staff,1,E0759,83.9,68.4,22,10,21.9,4.0,G2
+E0114,Phạm Gia Tâm,Genesis Social Responsibility Platform,Manufacturing,EHS,EHS Staff,Staff,1,E0280,79.7,66.5,53,21,30.8,4.7,G5
+E0115,Trần Minh Thảo,Genesis Holding Office,Commercial,Marketing,Marketing Supervisor,Supervisor,1,CEO,73.6,77.3,69,46,29.4,1.3,G6
+E0116,Hồ Thị Hải,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0133,77.0,52.6,38,25,31.6,4.3,G9
+E0117,Đỗ Ngọc Tuấn,Genesis Green Manufacturing,Commercial,Customer Success,Customer Success Staff,Staff,1,E0121,87.4,67.4,62,47,33.3,6.4,G9
+E0118,Nguyễn Minh Hà,Genesis Green Manufacturing,Commercial,Marketing,Marketing Senior Specialist,Senior Specialist,1,E0309,71.5,56.7,35,55,46.6,2.0,G8
+E0119,Phạm Ngọc Long,Genesis Human Resources Services,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0266,72.9,74.6,21,78,29.4,7.0,G10
+E0120,Hoàng Thị Dũng,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0506,65.0,77.2,70,76,39.5,2.9,G7
+E0121,Hoàng Đức Long,Genesis Fund & Innovation,Commercial,Customer Success,Customer Success Supervisor,Supervisor,1,CEO,87.2,86.8,47,54,27.9,3.1,G2
+E0122,Hồ Ngọc Việt,Genesis Holding Office,Commercial,Marketing,Marketing Specialist,Specialist,1,E0630,58.9,50.5,60,61,41.8,2.4,G10
+E0123,Bùi Ngọc Tuấn,Genesis Fund & Innovation,Corporate,Finance,Finance Staff,Staff,1,E0829,82.8,81.2,69,34,25.9,2.4,G10
+E0124,Hoàng Thu Long,Genesis Green Manufacturing,Manufacturing,Quality,Quality Specialist,Specialist,1,E0202,94.9,69.3,52,98,53.8,2.4,G6
+E0125,Vũ Thu Dũng,Genesis Green Manufacturing,Executive,CEO Office,CEO Office Staff,Staff,1,E0432,70.4,85.1,55,31,29.8,3.5,G9
+E0126,Đỗ Gia Việt,Genesis Social Responsibility Platform,CSR,Sustainability,Sustainability Senior Specialist,Senior Specialist,1,E0901,88.5,79.8,20,57,30.5,4.2,G3
+E0127,Bùi Văn Yến,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0572,81.2,89.1,54,38,18.4,2.0,G8
+E0128,Đỗ Minh Yến,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,81.7,75.6,48,83,42.3,3.4,G6
+E0129,Vũ Thu Nam,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0263,83.5,89.8,79,23,24.8,1.2,G5
+E0130,Hoàng Ngọc Linh,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0963,57.9,86.1,52,17,15.5,5.3,G10
+E0131,Vũ Văn Tuấn,Genesis Fund & Innovation,Corporate,HR,HR Senior Specialist,Senior Specialist,1,E0086,75.7,89.2,25,55,29.7,1.8,G8
+E0132,Đặng Ngọc Hà,Genesis Green Manufacturing,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,78.0,91.6,54,63,27.7,3.0,G7
+E0133,Hoàng Gia Quân,Genesis Holding Office,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,71.3,77.2,21,76,28.3,8.2,G2
+E0134,Hồ Văn Quân,Genesis Fund & Innovation,Manufacturing,Production,Production Manager,Manager,1,CEO,93.2,81.2,25,83,33.3,6.5,G10
+E0135,Nguyễn Minh Sơn,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0461,84.2,69.6,44,28,31.2,2.8,G6
+E0136,Phạm Minh Việt,Genesis Social Responsibility Platform,Technology,IT,IT Staff,Staff,1,E0358,79.6,42.0,73,14,49.5,0.3,G10
+E0137,Trần Gia Thảo,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0727,99.0,80.4,45,56,38.3,12.1,G5
+E0138,Bùi Thu Minh,Genesis Human Resources Services,Corporate,Finance,Finance Specialist,Specialist,1,E0271,89.8,37.1,47,81,60.9,3.4,G6
+E0139,Phạm Thị Trang,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Specialist,Specialist,1,E0093,66.1,94.4,29,58,15.2,1.5,G2
+E0140,Trần Gia Chi,Genesis Human Resources Services,Corporate,HR,HR Staff,Staff,1,E0479,69.6,78.5,72,29,37.0,7.0,G10
+E0141,Vũ Thị Dũng,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0829,82.0,79.9,78,14,26.7,6.0,G8
+E0142,Vũ Văn Hà,Genesis Holding Office,Manufacturing,Quality,Quality Senior Manager,Senior Manager,1,CEO,86.6,72.1,22,72,40.5,2.4,G3
+E0143,Đặng Ngọc Quân,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0451,80.5,73.2,75,67,37.1,0.8,G9
+E0144,Lê Thu Mai,Genesis Fund & Innovation,Investment,Research,Research Senior Specialist,Senior Specialist,1,E1000,88.1,72.5,55,83,52.0,4.2,G9
+E0145,Phạm Ngọc Linh,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,71.9,86.6,36,44,24.8,2.0,G7
+E0146,Lê Thị Yến,Genesis Green Manufacturing,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0035,92.5,79.6,38,59,34.8,2.5,G2
+E0147,Hoàng Thị Yến,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0660,58.7,75.0,51,64,43.2,1.7,G6
+E0148,Hồ Đức Việt,Genesis Human Resources Services,Commercial,Marketing,Marketing Specialist,Specialist,1,E0908,72.1,93.4,54,59,36.4,3.3,G10
+E0149,Lê Minh Quân,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0496,84.1,96.4,73,25,17.8,3.9,G3
+E0150,Hoàng Minh Việt,Genesis Green Manufacturing,Technology,IT,IT Supervisor,Supervisor,1,CEO,76.8,68.8,66,61,38.2,0.2,G8
+E0151,Đặng Minh Quân,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0253,83.9,58.6,57,83,47.0,2.6,G6
+E0152,Hoàng Ngọc Việt,Genesis Green Manufacturing,Technology,IT,IT Specialist,Specialist,1,E0150,71.0,84.7,62,60,43.0,4.4,G4
+E0153,Phạm Minh Tâm,Genesis Holding Office,Technology,IT,IT Specialist,Specialist,1,E0657,72.6,48.5,52,66,53.9,2.1,G6
+E0154,Bùi Thị Dũng,Genesis Fund & Innovation,Manufacturing,Production,Production Manager,Manager,1,CEO,59.7,89.4,29,62,19.3,1.8,G9
+E0155,Hoàng Minh Phúc,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0072,85.5,64.4,50,80,39.3,3.4,G7
+E0156,Phạm Đức Dũng,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0670,70.7,99.0,26,75,25.8,1.6,G6
+E0157,Vũ Đức Chi,Genesis Social Responsibility Platform,Corporate,Finance,Finance Specialist,Specialist,1,E0271,91.1,80.7,47,58,35.0,3.8,G3
+E0158,Phạm Thị Nam,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Supervisor,Supervisor,1,CEO,75.5,66.6,32,21,34.4,4.4,G7
+E0159,Vũ Thị Long,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0472,84.0,69.3,50,54,43.7,3.1,G3
+E0160,Hoàng Gia Dũng,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0461,76.8,79.6,30,14,23.9,2.2,G2
+E0161,Nguyễn Văn Minh,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0051,73.1,86.6,23,37,15.0,2.8,G5
+E0162,Trần Gia Minh,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0281,85.0,79.1,65,82,39.1,2.9,G10
+E0163,Nguyễn Thu Yến,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0051,78.2,63.0,26,12,21.0,2.2,G2
+E0164,Đặng Ngọc Mai,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0617,74.1,83.9,72,65,42.5,9.3,G8
+E0165,Hồ Thu Phúc,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0486,81.7,82.3,39,72,39.7,2.5,G3
+E0166,Nguyễn Minh Bình,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0995,83.2,92.3,70,56,32.3,7.1,G5
+E0167,Bùi Gia Long,Genesis Human Resources Services,Commercial,Sales,Sales Specialist,Specialist,1,E0194,73.6,61.1,89,88,58.9,6.0,G4
+E0168,Trần Đức Mai,Genesis Fund & Innovation,Manufacturing,Quality,Quality Specialist,Specialist,1,E0455,81.5,78.7,57,96,39.3,1.3,G3
+E0169,Hoàng Đức Hà,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0928,66.3,72.3,50,57,39.7,6.7,G4
+E0170,Hoàng Thu Tâm,Genesis Fund & Innovation,Commercial,Marketing,Marketing Staff,Staff,1,E0115,75.2,74.6,30,12,13.7,2.4,G7
+E0171,Hoàng Văn An,Genesis Green Manufacturing,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0471,60.7,97.5,59,90,42.4,12.7,G9
+E0172,Hoàng Minh An,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0133,49.5,99.0,25,21,6.4,10.7,G7
+E0173,Phạm Đức Hà,Genesis Holding Office,Corporate,Finance,Finance Supervisor,Supervisor,1,CEO,83.3,60.3,53,65,48.7,2.0,G5
+E0174,Hoàng Ngọc Mai,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0820,75.4,89.6,27,34,25.0,7.0,G4
+E0175,Vũ Văn Mai,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0702,99.0,71.4,65,68,46.2,3.2,G3
+E0176,Hồ Gia Mai,Genesis Social Responsibility Platform,Commercial,Marketing,Marketing Staff,Staff,1,E0417,88.0,99.0,75,47,26.8,1.3,G6
+E0177,Bùi Gia Quân,Genesis Social Responsibility Platform,Corporate,HR,HR Specialist,Specialist,1,E0936,80.5,65.0,62,97,53.6,3.0,G9
+E0178,Lê Thị Long,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Staff,Staff,1,E0718,82.0,68.9,50,12,33.6,6.2,G8
+E0179,Lê Văn Phúc,Genesis Green Manufacturing,Corporate,Finance,Finance Specialist,Specialist,1,E0173,70.6,76.9,86,95,52.7,2.1,G6
+E0180,Phạm Thị Long,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Specialist,Specialist,1,E0511,75.8,90.0,55,92,46.5,1.3,G10
+E0181,Bùi Gia Phúc,Genesis Fund & Innovation,Investment,Research,Research Staff,Staff,1,E1000,58.0,62.7,75,26,43.2,5.5,G6
+E0182,Nguyễn Văn Phúc,Genesis Green Manufacturing,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0225,60.7,80.4,81,71,40.7,7.5,G5
+E0183,Nguyễn Thu Bình,Genesis Human Resources Services,Manufacturing,Production,Production Manager,Manager,1,CEO,64.0,68.0,29,67,40.4,2.7,G8
+E0184,Bùi Gia Linh,Genesis Fund & Innovation,Commercial,Sales,Sales Senior Manager,Senior Manager,1,CEO,76.7,62.8,56,91,51.7,5.6,G2
+E0185,Nguyễn Thị Nam,Genesis Human Resources Services,Commercial,Sales,Sales Staff,Staff,1,E0194,83.3,72.6,76,44,40.9,0.5,G5
+E0186,Hoàng Gia Thảo,Genesis Human Resources Services,Executive,Strategy,Strategy Senior Specialist,Senior Specialist,1,E0826,73.7,97.2,36,74,22.3,0.7,G9
+E0187,Đặng Gia Mai,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0248,67.5,73.1,74,43,31.7,1.5,G9
+E0188,Bùi Minh Bình,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0660,67.9,77.6,68,55,38.1,4.1,G10
+E0189,Hoàng Gia Yến,Genesis Holding Office,Corporate,Finance,Finance Staff,Staff,1,E0244,93.5,74.7,57,21,34.1,0.3,G9
+E0190,Đặng Ngọc Long,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0656,74.1,85.9,27,65,24.0,2.9,G6
+E0191,Hồ Thị Tuấn,Genesis Green Manufacturing,Commercial,Sales,Sales Staff,Staff,1,E0528,87.8,76.8,72,63,47.0,3.9,G3
+E0192,Hồ Minh Thảo,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0907,83.7,79.8,60,50,29.9,2.6,G8
+E0193,Đỗ Đức Quân,Genesis Holding Office,Technology,IT,IT Manager,Manager,1,CEO,70.9,59.4,48,60,50.2,1.1,G6
+E0194,Bùi Minh Minh,Genesis Human Resources Services,Commercial,Sales,Sales Manager,Manager,1,CEO,90.3,47.3,64,62,51.0,10.3,G10
+E0195,Phạm Ngọc Minh,Genesis Fund & Innovation,Corporate,Procurement,Procurement Staff,Staff,1,E0214,70.3,73.5,21,39,25.7,3.0,G9
+E0196,Đặng Gia Sơn,Genesis Human Resources Services,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0797,51.6,83.8,87,72,47.0,3.3,G4
+E0197,Đỗ Văn Trang,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0780,70.7,60.5,37,84,47.5,5.1,G6
+E0198,Bùi Thị Trang,Genesis Human Resources Services,Technology,IT,IT Manager,Manager,1,CEO,85.6,69.3,79,72,43.0,5.2,G2
+E0199,Trần Thu Bình,Genesis Fund & Innovation,Corporate,HR,HR Specialist,Specialist,1,E0617,67.0,83.1,47,92,34.5,1.0,G7
+E0200,Vũ Gia Phúc,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0619,95.0,86.6,94,21,40.7,2.8,G2
+E0201,Đỗ Ngọc Long,Genesis Human Resources Services,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0675,65.9,81.4,47,85,32.6,8.5,G10
+E0202,Đặng Thu Bình,Genesis Green Manufacturing,Manufacturing,Quality,Quality Manager,Manager,1,CEO,92.6,56.0,40,73,41.4,8.1,G3
+E0203,Phạm Thị Minh,Genesis Holding Office,Executive,Strategy,Strategy Senior Manager,Senior Manager,1,CEO,72.2,77.0,21,89,30.2,2.9,G7
+E0204,Lê Văn An,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0263,67.0,60.7,78,19,32.4,0.6,G10
+E0205,Đặng Văn Việt,Genesis Green Manufacturing,Manufacturing,EHS,EHS Senior Specialist,Senior Specialist,1,E0280,79.1,64.5,55,74,45.0,10.6,G2
+E0206,Trần Minh Nam,Genesis Social Responsibility Platform,Commercial,Marketing,Marketing Supervisor,Supervisor,1,CEO,68.0,87.4,61,15,24.3,9.3,G4
+E0207,Bùi Minh Chi,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0772,73.0,66.8,71,56,46.7,5.8,G5
+E0208,Hồ Ngọc An,Genesis Holding Office,Executive,Strategy,Strategy Specialist,Specialist,1,E0065,92.6,81.2,30,75,27.3,4.5,G6
+E0209,Hồ Minh Việt,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0705,96.2,95.5,41,70,20.3,2.7,G2
+E0210,Phạm Gia Mai,Genesis Holding Office,Commercial,Marketing,Marketing Manager,Manager,1,CEO,99.0,69.4,31,66,31.7,1.3,G9
+E0211,Bùi Văn Việt,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0446,75.4,99.0,64,10,14.6,7.9,G2
+E0212,Lê Đức Tuấn,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0057,77.6,73.8,68,22,33.0,8.3,G9
+E0213,Phạm Thị Nam,Genesis Human Resources Services,Manufacturing,EHS,EHS Staff,Staff,1,E0280,73.5,74.3,28,31,32.4,4.0,G5
+E0214,Lê Văn Việt,Genesis Fund & Innovation,Corporate,Procurement,Procurement Manager,Manager,1,CEO,67.9,76.0,60,98,52.4,5.9,G8
+E0215,Trần Ngọc Tâm,Genesis Human Resources Services,Executive,CEO Office,CEO Office Staff,Staff,1,E0784,65.4,62.4,52,29,42.5,0.9,G5
+E0216,Phạm Thu Yến,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0464,75.8,78.9,62,71,38.1,2.8,G6
+E0217,Bùi Minh Minh,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0434,67.9,89.3,73,68,42.0,3.1,G6
+E0218,Lê Gia Yến,Genesis Human Resources Services,Executive,Strategy,Strategy Staff,Staff,1,E0203,82.1,85.2,69,11,30.7,5.8,G8
+E0219,Đặng Đức Long,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0266,79.7,66.9,33,93,41.0,12.9,G10
+E0220,Vũ Thu Bình,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0407,90.1,95.7,39,61,21.8,5.3,G2
+E0221,Bùi Văn Việt,Genesis Fund & Innovation,Executive,Strategy,Strategy Supervisor,Supervisor,1,CEO,76.4,72.9,46,44,31.8,6.0,G8
+E0222,Nguyễn Ngọc Tâm,Genesis Fund & Innovation,Executive,Strategy,Strategy Specialist,Specialist,1,E0397,75.9,85.7,74,64,32.1,2.4,G3
+E0223,Nguyễn Minh Nam,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0687,64.1,99.0,66,39,21.0,1.0,G8
+E0224,Vũ Ngọc Trang,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Supervisor,Supervisor,1,CEO,77.8,90.2,47,60,25.9,9.1,G2
+E0225,Lê Thu Dũng,Genesis Fund & Innovation,Technology,IT,IT Supervisor,Supervisor,1,CEO,60.6,63.5,77,48,48.9,1.8,G10
+E0226,Hồ Văn Chi,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0010,92.0,78.0,29,47,34.7,2.7,G4
+E0227,Hồ Thị Hà,Genesis Human Resources Services,Commercial,Sales,Sales Staff,Staff,1,E0194,95.2,51.8,55,27,38.4,2.4,G7
+E0228,Trần Ngọc Trang,Genesis Holding Office,Commercial,Marketing,Marketing Senior Manager,Senior Manager,1,CEO,70.3,69.5,67,74,49.7,3.9,G6
+E0229,Phạm Đức Bình,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0299,86.1,79.5,63,33,32.7,7.6,G6
+E0230,Nguyễn Gia Nam,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0393,66.6,55.4,50,74,49.9,2.9,G6
+E0231,Vũ Ngọc Nam,Genesis Fund & Innovation,Corporate,HR,HR Specialist,Specialist,1,E0936,64.5,80.3,59,95,47.5,6.5,G4
+E0232,Nguyễn Đức Minh,Genesis Fund & Innovation,Manufacturing,Quality,Quality Specialist,Specialist,1,E0585,83.7,64.0,37,55,33.0,5.0,G3
+E0233,Đặng Minh Bình,Genesis Human Resources Services,Corporate,HR,HR Manager,Manager,1,CEO,77.6,65.4,42,67,35.0,2.4,G10
+E0234,Trần Thu Minh,Genesis Holding Office,Technology,IT,IT Staff,Staff,1,E0958,75.1,74.9,46,59,33.4,1.1,G8
+E0235,Trần Ngọc Việt,Genesis Human Resources Services,Manufacturing,Production,Production Manager,Manager,1,CEO,59.1,63.9,43,58,47.0,5.4,G6
+E0236,Nguyễn Gia Dũng,Genesis Holding Office,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0385,85.4,90.5,32,28,23.9,1.2,G9
+E0237,Hồ Ngọc Trang,Genesis Human Resources Services,Commercial,Marketing,Marketing Specialist,Specialist,1,E0417,71.5,96.6,44,98,40.9,3.9,G4
+E0238,Đỗ Đức Trang,Genesis Human Resources Services,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0471,71.0,81.8,76,69,35.3,2.1,G8
+E0239,Đỗ Gia Dũng,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0281,67.3,87.2,42,18,13.9,7.7,G4
+E0240,Hồ Thị Sơn,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0173,52.6,96.6,57,10,16.2,4.5,G7
+E0241,Hoàng Đức Hải,Genesis Social Responsibility Platform,Technology,IT,IT Staff,Staff,1,E0738,81.8,82.0,45,55,36.4,4.9,G5
+E0242,Trần Thu Long,Genesis Social Responsibility Platform,Manufacturing,Production,Production Manager,Manager,1,CEO,65.2,36.3,74,60,52.3,2.2,G4
+E0243,Đặng Gia Bình,Genesis Green Manufacturing,Commercial,Sales,Sales Supervisor,Supervisor,1,CEO,80.5,94.1,70,22,20.6,1.2,G5
+E0244,Hồ Minh Dũng,Genesis Social Responsibility Platform,Corporate,Finance,Finance Senior Manager,Senior Manager,1,CEO,87.8,49.4,83,77,57.0,4.1,G5
+E0245,Đỗ Văn Minh,Genesis Fund & Innovation,Technology,IT,IT Supervisor,Supervisor,1,CEO,81.8,82.9,90,63,39.6,6.5,G10
+E0246,Đỗ Thu Dũng,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0945,74.4,86.6,71,88,41.4,4.4,G2
+E0247,Lê Thị Linh,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0831,77.2,77.1,68,67,41.4,0.7,G6
+E0248,Phạm Đức Quân,Genesis Human Resources Services,Manufacturing,Production,Production Manager,Manager,1,CEO,68.1,72.3,60,96,49.9,11.5,G7
+E0249,Trần Văn Quân,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0318,82.9,79.4,45,40,31.2,4.3,G10
+E0250,Đặng Gia Mai,Genesis Holding Office,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0585,63.9,78.3,58,83,48.6,3.2,G6
+E0251,Lê Thu Quân,Genesis Holding Office,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0291,77.8,58.5,73,69,59.1,1.3,G6
+E0252,Lê Thu Trang,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0145,78.1,90.2,33,10,22.3,11.7,G3
+E0253,Đỗ Thị Tâm,Genesis Holding Office,Technology,Data & AI,Data & AI Supervisor,Supervisor,1,CEO,95.1,54.5,67,21,44.8,1.5,G3
+E0254,Lê Văn Yến,Genesis Human Resources Services,Manufacturing,Quality,Quality Specialist,Specialist,1,E0772,88.4,74.9,33,77,30.1,1.8,G5
+E0255,Hồ Thị Tâm,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Senior Specialist,Senior Specialist,1,E0688,77.3,86.7,34,77,24.3,1.6,G3
+E0256,Đặng Đức Hải,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0946,84.4,85.1,65,19,23.0,5.6,G6
+E0257,Bùi Thu Trang,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0069,67.8,76.8,78,76,47.9,2.4,G4
+E0258,Đỗ Văn Thảo,Genesis Social Responsibility Platform,Technology,IT,IT Staff,Staff,1,E0665,96.5,66.4,83,51,51.5,7.1,G8
+E0259,Nguyễn Đức An,Genesis Holding Office,Commercial,Sales,Sales Manager,Manager,1,CEO,65.4,62.9,80,59,45.7,0.7,G4
+E0260,Nguyễn Ngọc Quân,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0583,83.0,82.4,57,23,26.8,2.5,G4
+E0261,Vũ Ngọc An,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0350,71.4,85.4,52,13,22.8,7.0,G5
+E0262,Đặng Ngọc Hải,Genesis Holding Office,Manufacturing,Quality,Quality Staff,Staff,1,E0745,60.6,71.7,73,46,36.3,3.9,G10
+E0263,Vũ Thu Việt,Genesis Fund & Innovation,Commercial,Sales,Sales Senior Manager,Senior Manager,1,CEO,66.7,63.2,82,77,57.1,2.5,G5
+E0264,Trần Đức Nam,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0907,99.0,67.8,55,67,44.9,14.4,G5
+E0265,Lê Thị Quân,Genesis Holding Office,Manufacturing,Production,Production Manager,Manager,1,CEO,95.1,80.4,39,74,35.3,7.9,G10
+E0266,Đặng Minh Sơn,Genesis Holding Office,Manufacturing,Quality,Quality Supervisor,Supervisor,1,CEO,83.2,75.2,23,55,29.6,1.6,G5
+E0267,Đặng Đức Thảo,Genesis Social Responsibility Platform,Commercial,Sales,Sales Specialist,Specialist,1,E0243,90.9,58.7,95,76,64.3,7.2,G10
+E0268,Hồ Văn Sơn,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0010,59.9,83.9,43,37,23.3,3.3,G10
+E0269,Lê Minh Phúc,Genesis Human Resources Services,Executive,Strategy,Strategy Senior Specialist,Senior Specialist,1,E0221,69.5,69.2,61,65,47.1,2.6,G9
+E0270,Lê Ngọc Mai,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Manager,Manager,1,CEO,89.3,82.6,73,87,37.2,5.8,G5
+E0271,Trần Ngọc Trang,Genesis Human Resources Services,Corporate,Finance,Finance Manager,Manager,1,CEO,84.1,74.9,51,60,30.8,8.2,G8
+E0272,Lê Thị Thảo,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Manager,Manager,1,CEO,89.8,61.5,49,73,43.9,2.6,G7
+E0273,Bùi Ngọc Trang,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Manager,Manager,1,CEO,66.5,54.9,39,64,44.2,5.3,G2
+E0274,Trần Thu An,Genesis Green Manufacturing,Commercial,Sales,Sales Senior Manager,Senior Manager,1,CEO,71.6,76.1,47,88,42.5,4.8,G2
+E0275,Đỗ Gia Dũng,Genesis Green Manufacturing,Investment,Investment,Investment Specialist,Specialist,1,E0279,71.5,82.6,35,81,27.0,0.7,G4
+E0276,Lê Thị Linh,Genesis Green Manufacturing,Technology,IT,IT Staff,Staff,1,E0245,82.9,83.7,93,61,49.7,1.9,G4
+E0277,Phạm Ngọc Hà,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0496,53.6,77.1,55,78,41.4,2.9,G5
+E0278,Trần Ngọc Minh,Genesis Green Manufacturing,Commercial,Sales,Sales Staff,Staff,1,E0184,78.7,69.4,82,11,39.2,1.9,G3
+E0279,Nguyễn Minh Tâm,Genesis Holding Office,Investment,Investment,Investment Manager,Manager,1,CEO,79.0,78.1,53,95,52.0,1.7,G2
+E0280,Phạm Văn Linh,Genesis Social Responsibility Platform,Manufacturing,EHS,EHS Manager,Manager,1,CEO,96.4,77.8,75,96,45.1,1.4,G2
+E0281,Vũ Ngọc Hà,Genesis Holding Office,Manufacturing,Production,Production Manager,Manager,1,CEO,89.6,68.3,64,76,52.3,3.4,G4
+E0282,Vũ Ngọc Hà,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0315,46.9,85.9,61,70,41.8,3.8,G4
+E0283,Phạm Thu Quân,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0265,74.1,67.2,50,60,45.4,1.1,G2
+E0284,Bùi Thị An,Genesis Green Manufacturing,CSR,Sustainability,Sustainability Staff,Staff,1,E0458,63.7,75.3,57,55,38.5,1.5,G3
+E0285,Đỗ Gia Sơn,Genesis Holding Office,Technology,Data & AI,Data & AI Staff,Staff,1,E0822,80.9,66.4,50,61,35.3,3.2,G9
+E0286,Đặng Gia Thảo,Genesis Holding Office,Executive,Strategy,Strategy Staff,Staff,1,E0203,84.5,44.6,61,10,42.3,2.2,G8
+E0287,Trần Gia Quân,Genesis Human Resources Services,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0901,92.9,63.5,66,79,48.0,5.6,G9
+E0288,Bùi Thị Tâm,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0732,89.8,75.4,39,48,28.1,4.1,G8
+E0289,Đỗ Thu Chi,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0668,78.0,82.1,36,48,31.6,5.5,G7
+E0290,Vũ Văn Long,Genesis Human Resources Services,Corporate,HR,HR Supervisor,Supervisor,1,CEO,87.3,88.5,69,44,38.5,7.2,G3
+E0291,Đặng Gia Sơn,Genesis Green Manufacturing,Corporate,Finance,Finance Manager,Manager,1,CEO,69.7,65.8,69,97,57.1,3.6,G7
+E0292,Lê Thu Linh,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0899,84.6,84.3,46,90,46.0,0.4,G6
+E0293,Hồ Minh Tâm,Genesis Holding Office,Corporate,Procurement,Procurement Staff,Staff,1,E0214,85.1,65.5,73,61,48.7,2.5,G4
+E0294,Bùi Đức An,Genesis Fund & Innovation,Investment,Research,Research Specialist,Specialist,1,E1000,77.4,65.1,48,64,35.5,3.8,G10
+E0295,Bùi Ngọc Dũng,Genesis Holding Office,Executive,Strategy,Strategy Staff,Staff,1,E0805,97.5,73.8,73,26,34.3,1.5,G4
+E0296,Đặng Gia Phúc,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0797,81.1,75.4,75,76,42.0,5.2,G2
+E0297,Bùi Đức Long,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Staff,Staff,1,E0419,69.4,79.6,62,41,28.2,12.3,G3
+E0298,Lê Thị Hải,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Senior Specialist,Senior Specialist,1,E0365,57.3,72.2,74,81,55.4,4.0,G5
+E0299,Trần Ngọc Linh,Genesis Social Responsibility Platform,Manufacturing,Production,Production Manager,Manager,1,CEO,52.1,62.9,41,78,50.3,0.6,G10
+E0300,Vũ Văn An,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0780,74.0,55.6,72,71,51.8,9.5,G2
+E0301,Hoàng Thị Phúc,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0494,57.1,96.6,74,44,29.6,10.4,G10
+E0302,Bùi Minh Dũng,Genesis Green Manufacturing,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0082,80.0,94.1,74,13,29.6,6.0,G6
+E0303,Nguyễn Minh Minh,Genesis Social Responsibility Platform,Commercial,Marketing,Marketing Staff,Staff,1,E0309,92.4,78.6,75,59,33.9,6.7,G2
+E0304,Bùi Văn Long,Genesis Fund & Innovation,Technology,Automation,Automation Staff,Staff,1,E0034,79.2,72.9,31,18,30.8,0.6,G8
+E0305,Đặng Ngọc Mai,Genesis Fund & Innovation,Corporate,Finance,Finance Staff,Staff,1,E0619,71.7,82.6,91,38,40.0,9.1,G9
+E0306,Lê Ngọc Yến,Genesis Fund & Innovation,Corporate,Finance,Finance Staff,Staff,1,E0521,86.2,79.6,53,49,28.1,3.7,G2
+E0307,Đỗ Gia Nam,Genesis Holding Office,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0946,72.1,59.9,67,70,47.2,2.4,G2
+E0308,Đỗ Gia Tuấn,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0451,66.4,86.1,57,65,29.1,5.0,G10
+E0309,Phạm Gia An,Genesis Holding Office,Commercial,Marketing,Marketing Manager,Manager,1,CEO,83.5,86.5,61,64,42.0,4.1,G5
+E0310,Đặng Thị Long,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0154,77.1,64.0,70,19,42.3,0.8,G3
+E0311,Trần Thu Hà,Genesis Human Resources Services,Commercial,Sales,Sales Specialist,Specialist,1,E0259,99.0,99.0,80,56,25.5,1.6,G6
+E0312,Hồ Văn Chi,Genesis Fund & Innovation,CSR,Sustainability,Sustainability Senior Specialist,Senior Specialist,1,E0458,80.7,93.7,23,68,26.0,2.6,G8
+E0313,Hồ Văn Thảo,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0299,99.0,68.8,56,90,52.1,5.2,G2
+E0314,Phạm Gia Long,Genesis Fund & Innovation,Corporate,HR,HR Staff,Staff,1,E0631,82.7,54.2,68,36,40.1,6.5,G6
+E0315,Đặng Đức Tâm,Genesis Human Resources Services,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,71.1,81.7,23,36,27.1,1.3,G2
+E0316,Đỗ Đức Quân,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0995,58.1,62.5,35,16,35.9,9.8,G6
+E0317,Đặng Đức Thảo,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0727,84.0,58.7,24,81,40.9,1.2,G8
+E0318,Nguyễn Ngọc Thảo,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Senior Manager,Senior Manager,1,CEO,85.1,65.1,71,85,58.5,0.1,G5
+E0319,Nguyễn Minh Quân,Genesis Holding Office,Manufacturing,Quality,Quality Staff,Staff,1,E0322,84.9,76.4,56,13,32.0,8.9,G2
+E0320,Đỗ Ngọc Yến,Genesis Green Manufacturing,Technology,Product,Product Senior Specialist,Senior Specialist,1,E0787,45.6,72.6,31,81,45.8,3.0,G9
+E0321,Vũ Minh Dũng,Genesis Green Manufacturing,Commercial,Marketing,Marketing Staff,Staff,1,E0115,89.2,88.3,54,36,29.7,0.7,G8
+E0322,Lê Ngọc Phúc,Genesis Fund & Innovation,Manufacturing,Quality,Quality Manager,Manager,1,CEO,62.8,82.6,41,83,35.0,3.4,G7
+E0323,Đặng Đức Tuấn,Genesis Green Manufacturing,Corporate,HR,HR Specialist,Specialist,1,E0970,87.6,76.7,41,68,31.0,4.3,G8
+E0324,Đặng Đức Bình,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0617,60.9,93.5,52,24,18.5,0.7,G5
+E0325,Nguyễn Ngọc Quân,Genesis Fund & Innovation,Corporate,HR,HR Specialist,Specialist,1,E0446,61.4,74.2,74,78,52.0,8.6,G6
+E0326,Đỗ Gia Sơn,Genesis Holding Office,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0717,68.9,91.2,31,24,10.9,3.9,G4
+E0327,Nguyễn Thu Tuấn,Genesis Fund & Innovation,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0150,71.9,69.8,74,85,52.6,7.1,G3
+E0328,Đặng Văn Việt,Genesis Holding Office,Commercial,Customer Success,Customer Success Specialist,Specialist,1,E0121,47.4,83.5,57,85,43.0,8.7,G8
+E0329,Hồ Thị Hải,Genesis Social Responsibility Platform,Commercial,Sales,Sales Specialist,Specialist,1,E0556,73.9,53.8,67,58,45.5,5.3,G3
+E0330,Hoàng Thị An,Genesis Holding Office,Manufacturing,Quality,Quality Senior Manager,Senior Manager,1,CEO,63.4,79.4,49,56,40.5,5.5,G7
+E0331,Lê Gia Sơn,Genesis Human Resources Services,Manufacturing,Quality,Quality Specialist,Specialist,1,E0772,78.3,84.9,53,97,46.8,8.0,G4
+E0332,Vũ Văn Quân,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,79.3,73.6,52,64,46.6,1.6,G3
+E0333,Vũ Đức Quân,Genesis Holding Office,Executive,CEO Office,CEO Office Staff,Staff,1,E0645,69.1,82.6,55,23,28.5,9.5,G2
+E0334,Đặng Gia Minh,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0687,87.6,46.2,31,74,51.9,0.4,G8
+E0335,Vũ Ngọc Quân,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Staff,Staff,1,E0356,87.8,55.6,54,57,40.2,3.6,G9
+E0336,Nguyễn Ngọc Hải,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0134,84.0,73.7,33,50,24.1,1.3,G4
+E0337,Bùi Thu Linh,Genesis Social Responsibility Platform,Investment,Investment,Investment Staff,Staff,1,E0279,81.0,91.3,47,44,21.5,6.7,G5
+E0338,Hồ Minh Thảo,Genesis Fund & Innovation,Corporate,Procurement,Procurement Specialist,Specialist,1,E0214,69.9,78.7,40,59,26.2,1.2,G8
+E0339,Bùi Thu An,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0244,76.7,59.1,81,13,40.6,0.9,G4
+E0340,Đỗ Thu Hải,Genesis Human Resources Services,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,70.8,88.8,62,19,19.6,3.5,G7
+E0341,Hồ Đức Việt,Genesis Green Manufacturing,Commercial,Marketing,Marketing Staff,Staff,1,E0115,77.0,70.7,44,58,39.0,2.6,G8
+E0342,Lê Thu Chi,Genesis Social Responsibility Platform,Corporate,HR,HR Specialist,Specialist,1,E0617,81.6,82.8,56,58,30.3,1.8,G10
+E0343,Phạm Đức Minh,Genesis Holding Office,Manufacturing,EHS,EHS Senior Manager,Senior Manager,1,CEO,58.1,78.1,67,79,50.7,8.7,G5
+E0344,Hoàng Thị Hà,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0496,66.2,75.4,53,65,36.3,6.5,G6
+E0345,Hồ Gia Chi,Genesis Human Resources Services,Corporate,Finance,Finance Staff,Staff,1,E0562,70.5,56.4,72,36,47.7,5.9,G3
+E0346,Bùi Đức Hải,Genesis Green Manufacturing,CSR,Sustainability,Sustainability Senior Specialist,Senior Specialist,1,E0050,68.7,53.1,41,70,48.5,1.5,G4
+E0347,Vũ Đức An,Genesis Holding Office,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0765,73.4,78.7,46,45,28.7,4.2,G6
+E0348,Nguyễn Minh Trang,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0753,73.0,68.2,55,86,52.4,5.3,G10
+E0349,Phạm Ngọc Tuấn,Genesis Holding Office,Manufacturing,Quality,Quality Staff,Staff,1,E0142,81.1,55.8,43,26,35.6,1.4,G4
+E0350,Phạm Gia Quân,Genesis Human Resources Services,Corporate,Finance,Finance Supervisor,Supervisor,1,CEO,88.2,77.0,61,43,40.1,1.2,G9
+E0351,Hoàng Ngọc Thảo,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0407,78.8,80.6,33,15,24.4,5.6,G2
+E0352,Phạm Đức Việt,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0036,71.8,99.0,41,60,28.3,3.0,G3
+E0353,Lê Văn Sơn,Genesis Social Responsibility Platform,Corporate,Finance,Finance Specialist,Specialist,1,E0827,71.3,75.9,91,78,53.4,2.3,G5
+E0354,Đặng Ngọc Dũng,Genesis Holding Office,Commercial,Sales,Sales Specialist,Specialist,1,E0184,99.0,58.9,51,94,48.7,1.3,G4
+E0355,Trần Minh Chi,Genesis Fund & Innovation,Manufacturing,Production,Production Manager,Manager,1,CEO,87.2,74.6,42,87,40.3,7.2,G3
+E0356,Bùi Ngọc Việt,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Senior Manager,Senior Manager,1,CEO,90.5,72.2,77,57,40.9,3.2,G9
+E0357,Đỗ Đức Dũng,Genesis Holding Office,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0458,83.0,74.0,74,90,46.2,3.5,G9
+E0358,Hoàng Văn Tâm,Genesis Social Responsibility Platform,Technology,IT,IT Manager,Manager,1,CEO,59.1,98.2,92,63,30.7,5.5,G8
+E0359,Hồ Gia Linh,Genesis Green Manufacturing,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0183,73.5,84.8,64,75,41.7,1.5,G4
+E0360,Lê Đức Dũng,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0829,80.7,89.8,87,33,35.9,3.0,G3
+E0361,Hoàng Minh Dũng,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0815,83.7,79.2,57,95,48.7,3.5,G3
+E0362,Phạm Ngọc Linh,Genesis Holding Office,Executive,Transformation Office,Transformation Office Supervisor,Supervisor,1,CEO,99.0,85.0,39,64,23.1,5.0,G2
+E0363,Trần Ngọc Phúc,Genesis Fund & Innovation,Corporate,HR,HR Specialist,Specialist,1,E0290,77.9,59.5,27,60,44.2,4.6,G7
+E0364,Đặng Thu Trang,Genesis Social Responsibility Platform,Corporate,Finance,Finance Specialist,Specialist,1,E0910,75.5,90.1,69,89,41.7,3.3,G2
+E0365,Trần Ngọc Hải,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Senior Manager,Senior Manager,1,CEO,80.7,70.6,73,61,44.6,1.8,G3
+E0366,Vũ Thu Hà,Genesis Holding Office,Corporate,HR,HR Specialist,Specialist,1,E0086,84.2,98.3,22,91,30.6,1.0,G10
+E0367,Bùi Đức Quân,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0474,85.4,67.4,29,57,27.4,2.9,G3
+E0368,Hồ Văn Hải,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0036,76.2,97.1,73,84,31.2,10.4,G9
+E0369,Bùi Gia Hải,Genesis Green Manufacturing,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,59.9,81.3,52,48,35.1,2.8,G2
+E0370,Nguyễn Thu Bình,Genesis Holding Office,Technology,IT,IT Staff,Staff,1,E0193,74.5,79.7,88,58,38.2,5.2,G9
+E0371,Hồ Thị An,Genesis Holding Office,Corporate,HR,HR Manager,Manager,1,CEO,89.2,65.5,71,60,50.3,3.2,G5
+E0372,Đỗ Minh Minh,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0407,69.2,54.2,27,94,42.2,6.7,G4
+E0373,Đỗ Gia Chi,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0906,52.8,59.0,44,98,47.3,5.8,G7
+E0374,Phạm Ngọc Minh,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,70.6,88.5,24,89,33.1,5.7,G5
+E0375,Lê Gia Phúc,Genesis Human Resources Services,Corporate,HR,HR Staff,Staff,1,E0062,67.8,85.4,29,20,18.4,0.8,G9
+E0376,Đặng Gia Phúc,Genesis Human Resources Services,Executive,Transformation Office,Transformation Office Senior Specialist,Senior Specialist,1,E0082,81.1,64.8,42,88,48.0,3.0,G4
+E0377,Bùi Gia Bình,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0434,65.1,82.1,43,52,36.3,3.2,G7
+E0378,Đặng Thị Chi,Genesis Human Resources Services,Corporate,HR,HR Staff,Staff,1,E0611,67.8,68.3,53,17,29.8,1.6,G8
+E0379,Nguyễn Gia Linh,Genesis Holding Office,Executive,CEO Office,CEO Office Specialist,Specialist,1,E0784,89.3,61.9,56,62,40.1,1.3,G10
+E0380,Bùi Thu Hà,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0158,92.7,53.3,73,22,44.5,0.4,G3
+E0381,Hoàng Văn Linh,Genesis Green Manufacturing,Investment,Research,Research Manager,Manager,1,CEO,68.4,75.3,57,89,41.8,4.0,G4
+E0382,Bùi Văn Linh,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0936,83.0,69.9,70,15,35.4,3.8,G9
+E0383,Đỗ Thu Thảo,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0562,91.4,32.9,66,22,54.8,9.9,G7
+E0384,Lê Ngọc Sơn,Genesis Human Resources Services,Commercial,Sales,Sales Staff,Staff,1,E0675,59.8,87.2,57,12,19.4,1.9,G7
+E0385,Hoàng Thu Chi,Genesis Holding Office,Executive,Transformation Office,Transformation Office Manager,Manager,1,CEO,66.9,93.5,43,95,33.7,2.4,G2
+E0386,Nguyễn Ngọc Trang,Genesis Green Manufacturing,Executive,Transformation Office,Transformation Office Senior Specialist,Senior Specialist,1,E0362,87.2,78.7,38,91,45.2,3.4,G4
+E0387,Phạm Thu Linh,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0451,80.8,71.0,61,19,34.1,6.0,G9
+E0388,Nguyễn Thị Dũng,Genesis Human Resources Services,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,74.0,71.5,54,35,37.1,8.0,G5
+E0389,Đặng Gia Linh,Genesis Human Resources Services,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0193,80.8,80.0,66,72,36.8,1.4,G2
+E0390,Lê Đức An,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0419,71.0,95.5,60,93,37.0,9.2,G10
+E0391,Vũ Văn Dũng,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0410,69.2,78.8,73,20,29.2,3.9,G9
+E0392,Đặng Ngọc Dũng,Genesis Green Manufacturing,Commercial,Customer Success,Customer Success Staff,Staff,1,E0121,79.4,54.3,26,12,23.3,0.7,G2
+E0393,Trần Gia Yến,Genesis Holding Office,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,87.6,87.9,44,16,12.9,3.5,G8
+E0394,Hồ Đức Việt,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0668,70.3,68.2,72,12,40.2,3.6,G2
+E0395,Trần Văn Việt,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0388,92.5,67.1,48,94,45.2,7.5,G3
+E0396,Bùi Ngọc Tâm,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,58.6,89.6,56,13,18.3,0.5,G2
+E0397,Trần Văn Tuấn,Genesis Human Resources Services,Executive,Strategy,Strategy Supervisor,Supervisor,1,CEO,80.5,72.0,67,43,37.7,8.9,G9
+E0398,Hồ Minh Việt,Genesis Fund & Innovation,Executive,Strategy,Strategy Specialist,Specialist,1,E0456,77.3,77.4,73,76,47.3,3.2,G4
+E0399,Nguyễn Minh Mai,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0299,95.4,71.4,34,11,26.1,4.8,G9
+E0400,Hoàng Ngọc Mai,Genesis Human Resources Services,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0702,69.0,86.8,59,62,39.3,8.6,G8
+E0401,Đỗ Thị Mai,Genesis Social Responsibility Platform,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0751,89.3,98.9,64,78,35.2,2.1,G4
+E0402,Lê Minh Quân,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0928,70.4,66.3,56,69,49.0,9.2,G3
+E0403,Đặng Minh Phúc,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0721,75.4,94.0,65,24,30.4,2.5,G8
+E0404,Đặng Minh Chi,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Specialist,Specialist,1,E0266,78.4,90.9,41,56,26.9,2.6,G5
+E0405,Bùi Gia Yến,Genesis Fund & Innovation,Technology,IT,IT Specialist,Specialist,1,E0193,84.5,81.5,87,93,51.2,5.5,G6
+E0406,Phạm Văn Trang,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0661,76.7,82.6,50,93,34.5,2.7,G10
+E0407,Bùi Thu Thảo,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Senior Manager,Senior Manager,1,CEO,78.2,57.7,23,66,38.0,2.3,G7
+E0408,Đặng Minh Quân,Genesis Fund & Innovation,Corporate,Finance,Finance Specialist,Specialist,1,E0910,73.2,80.2,87,86,55.0,9.6,G2
+E0409,Hoàng Ngọc Mai,Genesis Holding Office,Corporate,HR,HR Staff,Staff,1,E0974,79.2,68.6,31,62,28.4,9.0,G10
+E0410,Đỗ Văn Mai,Genesis Fund & Innovation,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,82.4,79.3,49,63,34.9,3.7,G4
+E0411,Vũ Thu Trang,Genesis Holding Office,Corporate,HR,HR Senior Specialist,Senior Specialist,1,E0611,72.7,76.3,42,96,41.9,2.4,G9
+E0412,Lê Thu Hải,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0089,48.0,66.7,90,36,40.9,7.3,G4
+E0413,Đặng Gia Tuấn,Genesis Social Responsibility Platform,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0939,80.5,69.3,82,70,49.0,3.9,G2
+E0414,Đặng Thị Tâm,Genesis Green Manufacturing,Technology,IT,IT Manager,Manager,1,CEO,85.2,70.8,67,58,48.4,4.2,G2
+E0415,Hoàng Gia Chi,Genesis Fund & Innovation,Commercial,Sales,Sales Specialist,Specialist,1,E0946,80.4,62.2,63,61,39.6,4.5,G9
+E0416,Vũ Văn Hải,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0290,57.4,74.7,50,17,28.4,1.4,G3
+E0417,Hồ Thu An,Genesis Holding Office,Commercial,Marketing,Marketing Senior Manager,Senior Manager,1,CEO,71.0,99.0,39,98,37.2,5.2,G7
+E0418,Lê Thị Minh,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0995,63.4,61.1,33,62,46.6,5.5,G9
+E0419,Phạm Gia Dũng,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Senior Manager,Senior Manager,1,CEO,71.5,67.7,53,55,35.0,0.8,G5
+E0420,Bùi Đức Việt,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0656,99.0,74.2,43,15,29.5,0.7,G10
+E0421,Trần Minh Chi,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0687,81.6,59.9,71,70,56.0,0.9,G9
+E0422,Trần Đức Hải,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0474,76.0,77.1,49,39,35.8,3.9,G8
+E0423,Nguyễn Minh Thảo,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0906,52.8,69.5,42,81,43.4,7.5,G2
+E0424,Phạm Thị Bình,Genesis Human Resources Services,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0471,81.0,49.2,86,74,54.8,1.7,G7
+E0425,Đặng Văn Thảo,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0396,83.2,62.3,67,63,40.7,10.4,G6
+E0426,Nguyễn Đức Nam,Genesis Green Manufacturing,Commercial,Sales,Sales Specialist,Specialist,1,E0528,58.0,68.7,78,79,50.6,5.0,G3
+E0427,Hoàng Văn Mai,Genesis Fund & Innovation,CSR,Sustainability,Sustainability Staff,Staff,1,E0984,60.9,47.8,64,33,41.6,6.2,G6
+E0428,Đặng Đức Phúc,Genesis Social Responsibility Platform,Commercial,Marketing,Marketing Staff,Staff,1,E0228,69.6,78.5,61,41,35.2,2.4,G10
+E0429,Hồ Gia Thảo,Genesis Social Responsibility Platform,Investment,Research,Research Senior Specialist,Senior Specialist,1,E1000,80.6,95.0,55,73,34.9,5.7,G8
+E0430,Vũ Gia Nam,Genesis Green Manufacturing,Commercial,Marketing,Marketing Staff,Staff,1,E0228,96.2,83.6,20,51,26.2,6.4,G3
+E0431,Nguyễn Ngọc Thảo,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0233,62.3,59.1,29,14,22.4,10.4,G2
+E0432,Đỗ Thu Mai,Genesis Social Responsibility Platform,Executive,CEO Office,CEO Office Manager,Manager,1,CEO,75.4,71.0,64,81,40.2,2.0,G3
+E0433,Phạm Văn Linh,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Staff,Staff,1,E0202,76.4,90.1,39,33,20.7,2.1,G4
+E0434,Hồ Văn Mai,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,86.2,91.1,64,41,22.2,9.6,G9
+E0435,Hoàng Thu Việt,Genesis Green Manufacturing,Executive,Strategy,Strategy Staff,Staff,1,E0456,71.8,63.8,52,21,36.0,5.9,G7
+E0436,Đỗ Ngọc Minh,Genesis Fund & Innovation,Commercial,Sales,Sales Specialist,Specialist,1,E0721,84.6,69.8,72,92,49.0,6.4,G2
+E0437,Hoàng Văn Bình,Genesis Holding Office,Manufacturing,Quality,Quality Staff,Staff,1,E0202,74.4,62.9,53,16,27.4,0.4,G4
+E0438,Đỗ Minh Mai,Genesis Fund & Innovation,Commercial,Marketing,Marketing Staff,Staff,1,E0908,79.0,67.4,42,56,31.9,2.4,G4
+E0439,Đỗ Đức Thảo,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0946,89.3,99.0,50,52,21.3,3.5,G5
+E0440,Bùi Thu Tâm,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0484,82.6,77.7,23,57,23.8,2.7,G5
+E0441,Đỗ Gia Dũng,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0486,72.3,73.0,65,74,44.7,7.0,G2
+E0442,Vũ Ngọc Yến,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0451,86.1,84.9,36,76,28.4,2.2,G7
+E0443,Đặng Ngọc Long,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0551,95.6,53.4,59,10,40.2,4.5,G6
+E0444,Nguyễn Thị Hà,Genesis Fund & Innovation,Corporate,HR,HR Manager,Manager,1,CEO,71.9,81.5,40,67,25.1,1.9,G7
+E0445,Nguyễn Gia Tâm,Genesis Fund & Innovation,Corporate,Finance,Finance Staff,Staff,1,E0244,80.3,77.4,65,25,24.1,0.9,G8
+E0446,Nguyễn Văn An,Genesis Human Resources Services,Corporate,HR,HR Manager,Manager,1,CEO,80.1,99.0,56,74,28.1,4.3,G2
+E0447,Nguyễn Gia An,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0419,72.4,92.4,81,85,46.0,4.5,G7
+E0448,Đặng Ngọc Trang,Genesis Fund & Innovation,Corporate,Finance,Finance Staff,Staff,1,E0878,74.6,73.6,89,36,45.5,6.2,G7
+E0449,Đặng Thu Nam,Genesis Fund & Innovation,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0089,62.1,67.5,95,63,50.2,1.1,G4
+E0450,Bùi Minh Chi,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0410,49.1,62.2,21,93,44.2,3.0,G8
+E0451,Đặng Đức Mai,Genesis Fund & Innovation,Manufacturing,Production,Production Manager,Manager,1,CEO,75.3,69.2,72,61,51.2,6.5,G4
+E0452,Hồ Ngọc Trang,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0551,94.8,80.0,26,12,16.9,5.9,G5
+E0453,Bùi Thị Long,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0133,92.0,51.2,41,58,43.5,1.2,G5
+E0454,Vũ Đức Nam,Genesis Fund & Innovation,Commercial,Sales,Sales Supervisor,Supervisor,1,CEO,63.4,56.1,76,20,49.6,4.5,G6
+E0455,Lê Minh Sơn,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Supervisor,Supervisor,1,CEO,82.3,79.4,51,27,20.3,5.5,G4
+E0456,Đỗ Minh Mai,Genesis Holding Office,Executive,Strategy,Strategy Supervisor,Supervisor,1,CEO,73.8,66.4,71,65,50.3,1.0,G7
+E0457,Hoàng Văn Tuấn,Genesis Holding Office,Manufacturing,EHS,EHS Staff,Staff,1,E0714,78.1,78.4,24,49,28.8,0.8,G10
+E0458,Đặng Đức Sơn,Genesis Human Resources Services,CSR,Sustainability,Sustainability Manager,Manager,1,CEO,84.2,64.3,49,76,47.5,3.4,G3
+E0459,Vũ Ngọc Tuấn,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0907,80.8,79.7,28,59,36.2,5.3,G7
+E0460,Lê Minh Bình,Genesis Human Resources Services,Commercial,Sales,Sales Staff,Staff,1,E0194,82.4,83.4,72,41,27.3,1.6,G3
+E0461,Đỗ Thị Chi,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Supervisor,Supervisor,1,CEO,55.4,88.5,36,52,20.1,1.5,G7
+E0462,Hoàng Thu Chi,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0928,51.0,79.0,43,60,37.4,6.7,G2
+E0463,Vũ Đức Trang,Genesis Fund & Innovation,Corporate,Legal,Legal Senior Specialist,Senior Specialist,1,E0941,71.8,64.3,68,80,52.0,7.0,G8
+E0464,Bùi Đức Chi,Genesis Human Resources Services,Manufacturing,Production,Production Manager,Manager,1,CEO,87.6,89.0,69,86,36.8,9.1,G3
+E0465,Đặng Gia Quân,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0753,54.0,59.7,62,90,58.4,0.9,G2
+E0466,Lê Văn Dũng,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Senior Specialist,Senior Specialist,1,E0780,85.5,66.2,43,78,50.3,2.1,G7
+E0467,Đỗ Minh Hà,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0863,60.7,75.8,60,48,31.7,4.5,G4
+E0468,Lê Thu Việt,Genesis Holding Office,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0873,70.4,81.2,38,73,28.3,2.7,G10
+E0469,Trần Thị Long,Genesis Green Manufacturing,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0291,89.1,88.1,89,84,48.8,3.0,G9
+E0470,Đặng Gia Thảo,Genesis Holding Office,Manufacturing,Quality,Quality Staff,Staff,1,E0202,69.8,87.7,49,47,26.1,4.6,G10
+E0471,Hồ Đức An,Genesis Human Resources Services,Commercial,Sales,Sales Supervisor,Supervisor,1,CEO,89.9,76.2,73,64,34.8,4.6,G2
+E0472,Vũ Đức Việt,Genesis Holding Office,Manufacturing,Production,Production Manager,Manager,1,CEO,89.4,74.5,63,59,39.8,0.7,G9
+E0473,Đặng Thu Linh,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0315,65.3,88.9,40,55,31.8,0.3,G4
+E0474,Nguyễn Văn Nam,Genesis Social Responsibility Platform,Manufacturing,Production,Production Manager,Manager,1,CEO,79.4,99.0,27,71,27.4,0.4,G2
+E0475,Nguyễn Minh Sơn,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0281,61.7,81.6,36,85,31.1,6.5,G2
+E0476,Phạm Minh Bình,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0259,87.8,61.7,63,59,48.8,6.9,G3
+E0477,Nguyễn Đức Mai,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Manager,Senior Manager,1,CEO,70.5,90.8,38,91,36.1,6.7,G5
+E0478,Vũ Gia Nam,Genesis Green Manufacturing,Corporate,Procurement,Procurement Staff,Staff,1,E0933,69.9,73.3,38,42,29.4,5.1,G6
+E0479,Trần Thị Sơn,Genesis Fund & Innovation,Corporate,HR,HR Senior Manager,Senior Manager,1,CEO,68.4,73.7,41,60,31.6,4.5,G7
+E0480,Bùi Thu Nam,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Specialist,Specialist,1,E0940,62.9,83.1,72,59,34.1,1.7,G3
+E0481,Hồ Minh Long,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0705,67.5,74.7,53,29,23.3,4.1,G2
+E0482,Bùi Văn Minh,Genesis Human Resources Services,Manufacturing,Production,Production Manager,Manager,1,CEO,92.4,75.8,20,62,30.6,3.0,G7
+E0483,Phạm Thu Minh,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0831,86.8,48.8,64,95,60.0,2.2,G2
+E0484,Đặng Gia An,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,80.3,75.9,23,28,16.7,7.6,G5
+E0485,Hồ Đức Nam,Genesis Social Responsibility Platform,Corporate,HR,HR Specialist,Specialist,1,E0617,85.0,73.2,59,83,41.9,5.1,G5
+E0486,Trần Gia Long,Genesis Fund & Innovation,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,89.1,84.3,64,25,34.4,1.6,G7
+E0487,Trần Gia Sơn,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0132,74.3,81.6,43,29,23.2,3.6,G6
+E0488,Nguyễn Văn Chi,Genesis Fund & Innovation,Commercial,Sales,Sales Supervisor,Supervisor,1,CEO,67.5,77.6,71,37,30.8,1.0,G10
+E0489,Bùi Thu Quân,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0992,85.6,65.3,26,13,24.5,3.8,G10
+E0490,Đỗ Minh Phúc,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0531,55.4,80.0,45,14,30.3,3.8,G5
+E0491,Đỗ Thị Tâm,Genesis Holding Office,Manufacturing,Quality,Quality Staff,Staff,1,E0330,73.1,71.7,69,34,35.1,2.9,G8
+E0492,Vũ Minh Quân,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0780,81.7,73.9,40,30,32.1,4.3,G5
+E0493,Hoàng Thị Tâm,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0318,83.5,87.1,30,90,32.5,4.4,G2
+E0494,Bùi Gia Việt,Genesis Green Manufacturing,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,86.4,74.8,50,24,29.5,3.6,G6
+E0495,Phạm Đức Tuấn,Genesis Human Resources Services,Commercial,Marketing,Marketing Staff,Staff,1,E0228,84.0,81.0,58,19,26.0,2.4,G10
+E0496,Phạm Văn Tâm,Genesis Green Manufacturing,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,76.9,78.9,29,76,32.6,8.4,G6
+E0497,Trần Đức Bình,Genesis Social Responsibility Platform,Executive,Strategy,Strategy Staff,Staff,1,E0826,82.4,55.9,23,11,34.8,8.1,G3
+E0498,Vũ Minh Nam,Genesis Social Responsibility Platform,Commercial,Marketing,Marketing Senior Specialist,Senior Specialist,1,E0792,69.3,89.5,58,80,44.7,2.9,G3
+E0499,Hoàng Minh Tuấn,Genesis Holding Office,CSR,Sustainability,Sustainability Senior Specialist,Senior Specialist,1,E0458,68.3,80.3,59,80,37.8,7.8,G5
+E0500,Trần Đức Trang,Genesis Fund & Innovation,Technology,Automation,Automation Specialist,Specialist,1,E0692,86.7,66.1,71,90,58.9,2.0,G8
+E0501,Nguyễn Thị Dũng,Genesis Green Manufacturing,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0878,85.2,65.1,65,85,47.4,2.4,G4
+E0502,Lê Đức Tâm,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0332,73.2,77.4,39,58,24.9,7.5,G10
+E0503,Hồ Thị Việt,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0388,77.9,92.0,60,88,43.2,1.0,G10
+E0504,Hồ Minh Tuấn,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0173,79.5,75.2,46,50,28.2,3.8,G10
+E0505,Đặng Minh Dũng,Genesis Fund & Innovation,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0650,86.1,65.3,44,17,31.1,3.2,G8
+E0506,Hồ Thị Mai,Genesis Social Responsibility Platform,Manufacturing,Production,Production Manager,Manager,1,CEO,93.2,75.7,69,80,37.9,1.4,G4
+E0507,Lê Thu Sơn,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0854,74.9,84.2,20,34,22.7,6.3,G4
+E0508,Hoàng Minh Mai,Genesis Green Manufacturing,Technology,IT,IT Specialist,Specialist,1,E0958,54.7,94.2,76,83,45.7,5.9,G8
+E0509,Vũ Đức Thảo,Genesis Fund & Innovation,Manufacturing,Quality,Quality Staff,Staff,1,E0202,73.8,66.0,21,58,38.0,1.7,G8
+E0510,Đỗ Ngọc Chi,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0579,72.2,74.7,35,91,47.6,3.3,G4
+E0511,Bùi Thị Chi,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Manager,Senior Manager,1,CEO,70.9,90.7,53,75,26.8,6.4,G10
+E0512,Nguyễn Gia Bình,Genesis Human Resources Services,Technology,Automation,Automation Staff,Staff,1,E0034,99.0,81.2,67,18,27.6,3.0,G10
+E0513,Bùi Ngọc Yến,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0562,73.6,61.3,58,65,51.4,4.3,G7
+E0514,Trần Thị Dũng,Genesis Fund & Innovation,Technology,IT,IT Specialist,Specialist,1,E0198,64.3,71.8,45,87,39.8,1.6,G4
+E0515,Hồ Đức Sơn,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0857,69.3,82.1,58,86,42.6,2.4,G9
+E0516,Hoàng Ngọc Long,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0928,88.8,88.1,71,56,30.4,0.9,G6
+E0517,Đỗ Thị Mai,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0753,95.3,70.2,30,61,27.7,0.9,G8
+E0518,Bùi Ngọc Mai,Genesis Fund & Innovation,Corporate,HR,HR Specialist,Specialist,1,E0062,87.8,83.3,75,55,40.3,2.8,G7
+E0519,Lê Ngọc Dũng,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0474,99.0,83.0,72,49,32.9,6.9,G10
+E0520,Phạm Đức An,Genesis Green Manufacturing,Commercial,Sales,Sales Specialist,Specialist,1,E0274,68.9,48.0,92,98,60.1,1.6,G7
+E0521,Bùi Thu Phúc,Genesis Social Responsibility Platform,Corporate,Finance,Finance Supervisor,Supervisor,1,CEO,77.1,67.4,58,65,46.8,5.7,G4
+E0522,Đỗ Gia Nam,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0863,75.0,67.1,40,65,41.4,4.5,G5
+E0523,Vũ Minh Chi,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0069,63.9,98.5,71,77,35.3,2.5,G6
+E0524,Nguyễn Văn Hải,Genesis Fund & Innovation,Manufacturing,Quality,Quality Specialist,Specialist,1,E0142,78.5,80.8,29,59,29.2,2.3,G5
+E0525,Đặng Minh Bình,Genesis Social Responsibility Platform,Corporate,HR,HR Senior Manager,Senior Manager,1,CEO,89.1,66.0,45,90,49.9,7.6,G2
+E0526,Trần Văn An,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0992,69.3,95.1,55,26,28.7,5.1,G6
+E0527,Phạm Ngọc Yến,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0909,68.8,79.0,48,51,37.9,1.9,G7
+E0528,Trần Thu Yến,Genesis Fund & Innovation,Commercial,Sales,Sales Manager,Manager,1,CEO,88.6,84.1,80,56,44.2,8.5,G10
+E0529,Vũ Ngọc Phúc,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0132,87.0,75.5,37,29,30.4,2.0,G8
+E0530,Lê Đức Trang,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0242,72.7,77.6,52,33,34.1,7.5,G10
+E0531,Hồ Ngọc Linh,Genesis Social Responsibility Platform,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,70.7,83.8,54,62,42.1,3.2,G3
+E0532,Hồ Minh Tâm,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0082,68.1,82.6,42,17,28.6,4.7,G3
+E0533,Trần Gia Thảo,Genesis Holding Office,Corporate,HR,HR Staff,Staff,1,E0848,57.4,70.6,22,51,27.1,6.4,G6
+E0534,Bùi Minh Việt,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0133,80.0,59.6,52,33,29.9,4.7,G6
+E0535,Phạm Thu Bình,Genesis Human Resources Services,Commercial,Sales,Sales Specialist,Specialist,1,E0556,76.0,85.5,88,95,53.5,2.9,G3
+E0536,Nguyễn Gia Nam,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0818,58.1,90.2,62,32,19.7,8.5,G3
+E0537,Vũ Đức An,Genesis Fund & Innovation,Technology,IT,IT Specialist,Specialist,1,E0939,63.6,51.9,84,94,54.7,1.1,G6
+E0538,Đặng Văn Sơn,Genesis Holding Office,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0521,75.0,71.0,78,66,42.4,4.8,G4
+E0539,Phạm Thu Tuấn,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0035,87.6,71.1,62,59,42.0,4.7,G5
+E0540,Vũ Thu Hà,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0488,99.0,40.9,51,64,55.9,5.2,G2
+E0541,Trần Minh Quân,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0670,68.0,82.5,62,41,29.1,3.9,G10
+E0542,Vũ Văn Hải,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0729,69.2,76.0,32,57,30.2,3.3,G8
+E0543,Đỗ Gia Dũng,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0528,67.3,76.6,95,30,45.9,5.7,G9
+E0544,Phạm Gia Nam,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0551,76.2,96.5,37,50,16.1,4.3,G5
+E0545,Vũ Thu Quân,Genesis Holding Office,Executive,CEO Office,CEO Office Staff,Staff,1,E0784,72.8,75.7,49,49,26.6,1.6,G6
+E0546,Hoàng Minh Long,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0482,81.4,77.4,36,89,31.9,1.9,G10
+E0547,Bùi Minh Hải,Genesis Human Resources Services,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0702,99.0,71.4,47,64,42.9,1.8,G7
+E0548,Trần Ngọc Trang,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0183,63.0,75.9,25,56,33.9,1.4,G7
+E0549,Vũ Ngọc Linh,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0235,53.5,64.4,65,87,53.3,2.3,G5
+E0550,Hồ Đức Trang,Genesis Fund & Innovation,Technology,IT,IT Staff,Staff,1,E0245,78.2,99.0,54,43,30.3,0.2,G4
+E0551,Lê Ngọc Nam,Genesis Green Manufacturing,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,75.3,82.6,27,90,26.9,3.7,G3
+E0552,Lê Thị Phúc,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0407,69.5,61.4,51,42,33.0,4.6,G7
+E0553,Đặng Thị Trang,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0281,63.2,87.4,35,15,13.5,16.6,G10
+E0554,Đỗ Ngọc Quân,Genesis Holding Office,Executive,Transformation Office,Transformation Office Specialist,Specialist,1,E0854,89.2,98.2,75,80,32.7,6.0,G3
+E0555,Lê Minh Yến,Genesis Fund & Innovation,Manufacturing,EHS,EHS Specialist,Specialist,1,E0280,90.3,89.7,74,77,42.1,3.2,G2
+E0556,Đặng Minh Dũng,Genesis Fund & Innovation,Commercial,Sales,Sales Manager,Manager,1,CEO,99.0,95.0,49,57,19.8,5.8,G3
+E0557,Hoàng Ngọc Việt,Genesis Green Manufacturing,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0695,84.0,63.8,57,74,42.3,7.0,G9
+E0558,Bùi Minh Tuấn,Genesis Fund & Innovation,Technology,IT,IT Staff,Staff,1,E0939,83.4,80.8,89,65,37.1,8.4,G10
+E0559,Đỗ Đức Bình,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0551,89.6,67.8,56,12,27.1,3.3,G2
+E0560,Vũ Ngọc Quân,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0661,65.2,83.1,57,79,34.8,5.0,G7
+E0561,Phạm Gia Nam,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0531,56.5,68.9,33,92,39.4,4.1,G4
+E0562,Hồ Minh Sơn,Genesis Social Responsibility Platform,Corporate,Finance,Finance Senior Manager,Senior Manager,1,CEO,81.0,78.6,81,82,45.3,2.0,G10
+E0563,Vũ Minh Tâm,Genesis Fund & Innovation,Executive,Strategy,Strategy Staff,Staff,1,E0826,73.8,79.3,63,23,22.2,3.8,G10
+E0564,Trần Đức Yến,Genesis Fund & Innovation,Commercial,Sales,Sales Specialist,Specialist,1,E0454,88.7,71.7,82,59,50.9,4.0,G7
+E0565,Hồ Minh Tâm,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0631,73.8,84.1,30,24,18.4,8.3,G9
+E0566,Hoàng Thu An,Genesis Fund & Innovation,Executive,Transformation Office,Transformation Office Specialist,Specialist,1,E0273,82.7,70.2,28,58,25.3,1.4,G3
+E0567,Hoàng Minh Việt,Genesis Green Manufacturing,Executive,Strategy,Strategy Staff,Staff,1,E0065,71.5,72.1,39,27,31.2,6.4,G7
+E0568,Lê Ngọc Thảo,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0248,60.2,78.1,21,62,27.9,16.2,G4
+E0569,Đặng Ngọc Trang,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0340,79.8,70.3,26,60,31.0,1.7,G2
+E0570,Bùi Minh Tuấn,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0702,72.4,95.6,91,67,37.7,3.1,G4
+E0571,Hồ Minh An,Genesis Holding Office,Corporate,HR,HR Senior Specialist,Senior Specialist,1,E0970,96.8,65.1,37,57,38.0,5.2,G4
+E0572,Đỗ Thị Long,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,78.4,82.5,20,10,14.0,1.0,G9
+E0573,Phạm Thu Linh,Genesis Social Responsibility Platform,Commercial,Sales,Sales Specialist,Specialist,1,E0488,99.0,89.2,54,85,31.5,4.1,G2
+E0574,Bùi Gia Tâm,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0132,78.3,87.5,58,77,42.2,2.3,G6
+E0575,Nguyễn Thị Sơn,Genesis Holding Office,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0270,84.0,87.2,89,98,50.2,12.2,G7
+E0576,Vũ Ngọc An,Genesis Fund & Innovation,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0873,82.8,76.9,63,73,44.2,4.3,G2
+E0577,Vũ Thị Yến,Genesis Holding Office,Executive,CEO Office,CEO Office Staff,Staff,1,E0784,78.0,95.7,71,30,32.8,4.8,G9
+E0578,Đỗ Đức Nam,Genesis Human Resources Services,Technology,IT,IT Specialist,Specialist,1,E0657,99.0,88.0,54,85,31.5,7.2,G5
+E0579,Nguyễn Gia Chi,Genesis Human Resources Services,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,99.0,95.3,37,48,17.8,10.9,G9
+E0580,Đặng Minh Mai,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0242,85.9,71.3,47,38,27.4,3.5,G9
+E0581,Đặng Đức Bình,Genesis Human Resources Services,Corporate,HR,HR Staff,Staff,1,E0974,70.3,71.1,20,14,18.0,5.0,G5
+E0582,Đỗ Minh Trang,Genesis Green Manufacturing,Commercial,Sales,Sales Staff,Staff,1,E0593,74.7,40.6,91,57,60.3,6.7,G9
+E0583,Vũ Văn Tâm,Genesis Fund & Innovation,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,61.3,99.0,36,38,14.1,1.5,G3
+E0584,Hồ Gia Tâm,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0962,90.6,49.6,53,95,53.4,6.8,G5
+E0585,Phạm Minh An,Genesis Fund & Innovation,Manufacturing,Quality,Quality Supervisor,Supervisor,1,CEO,82.1,76.8,66,56,32.5,1.9,G9
+E0586,Phạm Đức Việt,Genesis Fund & Innovation,CSR,Sustainability,Sustainability Senior Specialist,Senior Specialist,1,E0901,81.4,85.2,75,70,36.6,2.2,G9
+E0587,Trần Ngọc Bình,Genesis Social Responsibility Platform,Corporate,Legal,Legal Staff,Staff,1,E0941,75.6,88.5,50,57,27.5,5.8,G5
+E0588,Trần Minh Bình,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0753,56.2,84.3,51,70,33.0,5.5,G2
+E0589,Hoàng Minh Việt,Genesis Human Resources Services,Manufacturing,Quality,Quality Senior Manager,Senior Manager,1,CEO,94.6,80.9,44,73,34.9,3.0,G9
+E0590,Trần Gia Dũng,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0936,92.3,70.5,59,42,41.8,5.7,G6
+E0591,Bùi Thị Tâm,Genesis Holding Office,Commercial,Sales,Sales Manager,Manager,1,CEO,48.9,99.0,95,87,39.3,2.8,G5
+E0592,Trần Đức Trang,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0322,72.8,72.8,42,88,34.9,10.4,G6
+E0593,Lê Đức Chi,Genesis Fund & Innovation,Commercial,Sales,Sales Manager,Manager,1,CEO,78.7,83.3,56,77,46.1,12.0,G8
+E0594,Đặng Đức Dũng,Genesis Human Resources Services,Corporate,HR,HR Staff,Staff,1,E0917,85.2,73.3,69,41,38.9,9.2,G4
+E0595,Đặng Gia Linh,Genesis Fund & Innovation,Corporate,HR,HR Staff,Staff,1,E0848,92.6,88.9,66,65,42.8,13.6,G4
+E0596,Vũ Gia Long,Genesis Holding Office,Executive,Transformation Office,Transformation Office Specialist,Specialist,1,E0362,98.8,91.5,73,85,41.8,3.2,G9
+E0597,Vũ Văn Sơn,Genesis Fund & Innovation,Manufacturing,Quality,Quality Specialist,Specialist,1,E0718,68.6,91.4,34,96,32.1,11.2,G10
+E0598,Lê Văn Hà,Genesis Human Resources Services,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0873,84.0,67.8,31,93,50.1,5.3,G2
+E0599,Vũ Gia Việt,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0158,81.5,64.0,29,67,44.9,16.3,G3
+E0600,Phạm Văn Hải,Genesis Green Manufacturing,Manufacturing,Quality,Quality Staff,Staff,1,E0695,73.0,46.1,44,33,46.3,6.0,G8
+E0601,Nguyễn Ngọc Tâm,Genesis Social Responsibility Platform,Corporate,Finance,Finance Specialist,Specialist,1,E0244,88.1,71.2,62,63,45.0,5.1,G10
+E0602,Lê Gia Nam,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0184,84.1,63.7,88,11,39.0,1.6,G9
+E0603,Trần Thu Long,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Senior Specialist,Senior Specialist,1,E0158,68.0,75.9,66,76,51.0,1.4,G6
+E0604,Đỗ Đức Mai,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0271,84.8,74.2,66,60,41.3,3.8,G9
+E0605,Trần Gia Minh,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0494,63.8,79.1,29,54,23.5,2.9,G3
+E0606,Phạm Minh Nam,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0281,79.5,53.9,56,55,46.5,3.2,G7
+E0607,Bùi Thu Trang,Genesis Human Resources Services,Corporate,Procurement,Procurement Staff,Staff,1,E0933,66.9,75.5,64,29,28.1,2.2,G5
+E0608,Nguyễn Thu Tuấn,Genesis Holding Office,Corporate,HR,HR Specialist,Specialist,1,E0446,83.4,52.0,53,62,42.5,1.4,G3
+E0609,Trần Thị Tuấn,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0995,98.6,82.6,41,37,21.7,5.1,G8
+E0610,Trần Thu Bình,Genesis Social Responsibility Platform,Technology,IT,IT Specialist,Specialist,1,E0958,82.2,92.5,75,73,32.4,3.5,G6
+E0611,Trần Thu Minh,Genesis Social Responsibility Platform,Corporate,HR,HR Manager,Manager,1,CEO,74.8,81.1,49,75,33.5,1.5,G5
+E0612,Bùi Thu Dũng,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Manager,Manager,1,CEO,60.4,77.6,39,61,39.0,2.6,G10
+E0613,Đỗ Gia Hà,Genesis Human Resources Services,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0911,76.5,99.0,52,25,26.1,4.7,G2
+E0614,Đỗ Thị Việt,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0444,82.5,79.1,50,36,27.1,2.6,G4
+E0615,Đỗ Đức Mai,Genesis Holding Office,Executive,Strategy,Strategy Staff,Staff,1,E0221,64.3,69.2,68,21,31.9,2.4,G6
+E0616,Hồ Minh Linh,Genesis Human Resources Services,Manufacturing,Quality,Quality Staff,Staff,1,E0330,84.1,82.2,36,49,23.4,1.6,G6
+E0617,Vũ Gia Hải,Genesis Social Responsibility Platform,Corporate,HR,HR Supervisor,Supervisor,1,CEO,74.2,65.4,24,53,30.9,5.3,G10
+E0618,Bùi Thị Tuấn,Genesis Social Responsibility Platform,Corporate,Procurement,Procurement Staff,Staff,1,E0214,91.6,62.2,75,30,38.3,4.8,G5
+E0619,Đặng Văn Trang,Genesis Fund & Innovation,Corporate,Finance,Finance Manager,Manager,1,CEO,58.8,73.2,58,67,39.2,1.5,G6
+E0620,Đỗ Đức Tuấn,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0593,67.5,91.0,55,26,17.1,4.0,G6
+E0621,Trần Đức Hải,Genesis Holding Office,Corporate,Finance,Finance Staff,Staff,1,E0878,75.1,98.1,86,28,20.5,1.4,G5
+E0622,Hồ Minh Nam,Genesis Green Manufacturing,Manufacturing,Quality,Quality Supervisor,Supervisor,1,CEO,80.2,61.1,74,63,54.8,0.3,G5
+E0623,Hoàng Thị Yến,Genesis Holding Office,Technology,IT,IT Specialist,Specialist,1,E0738,73.4,61.1,92,79,58.0,10.6,G10
+E0624,Đặng Gia Nam,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0656,73.2,77.7,31,40,23.6,6.7,G7
+E0625,Hồ Gia Mai,Genesis Green Manufacturing,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0945,62.8,85.6,27,55,25.1,2.4,G3
+E0626,Đặng Thu Yến,Genesis Holding Office,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0358,87.6,99.0,83,62,39.6,0.6,G3
+E0627,Hoàng Ngọc Nam,Genesis Holding Office,Manufacturing,Quality,Quality Specialist,Specialist,1,E0708,95.2,75.9,64,83,38.4,8.2,G9
+E0628,Vũ Thu Minh,Genesis Human Resources Services,Commercial,Marketing,Marketing Specialist,Specialist,1,E0206,55.8,68.2,23,66,42.0,0.7,G6
+E0629,Hồ Minh Việt,Genesis Human Resources Services,Commercial,Sales,Sales Staff,Staff,1,E0243,71.3,63.4,45,20,23.2,3.3,G6
+E0630,Hồ Đức Hà,Genesis Social Responsibility Platform,Commercial,Marketing,Marketing Supervisor,Supervisor,1,CEO,87.9,67.1,54,64,36.6,0.8,G8
+E0631,Hoàng Thị Trang,Genesis Holding Office,Corporate,HR,HR Senior Manager,Senior Manager,1,CEO,87.5,87.2,24,95,32.9,0.7,G6
+E0632,Lê Thị Quân,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0474,71.7,72.4,32,51,25.3,0.9,G4
+E0633,Hoàng Ngọc Sơn,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0525,84.7,79.2,34,34,28.3,1.3,G4
+E0634,Vũ Đức Yến,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0589,87.9,90.2,38,88,29.9,6.4,G3
+E0635,Trần Văn Tuấn,Genesis Holding Office,Corporate,HR,HR Senior Specialist,Senior Specialist,1,E0974,81.0,99.0,50,61,23.0,4.0,G6
+E0636,Nguyễn Gia Dũng,Genesis Holding Office,Commercial,Marketing,Marketing Staff,Staff,1,E0919,69.9,97.3,55,47,26.9,4.8,G3
+E0637,Nguyễn Gia Phúc,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0340,84.7,78.7,30,50,24.6,3.6,G5
+E0638,Lê Thị An,Genesis Holding Office,Executive,Strategy,Strategy Staff,Staff,1,E0221,95.9,69.3,33,41,31.8,3.8,G8
+E0639,Hoàng Đức Nam,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0946,96.4,83.6,47,42,31.1,2.3,G8
+E0640,Đặng Minh Nam,Genesis Social Responsibility Platform,CSR,Sustainability,Sustainability Staff,Staff,1,E0050,76.7,66.0,74,43,34.8,3.0,G5
+E0641,Vũ Thu Dũng,Genesis Human Resources Services,Corporate,Finance,Finance Staff,Staff,1,E0291,73.8,67.6,87,36,48.0,7.1,G6
+E0642,Hoàng Thị Phúc,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0660,86.1,89.8,46,54,35.1,4.5,G3
+E0643,Đặng Đức Mai,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0183,78.0,77.3,49,72,36.1,3.4,G10
+E0644,Bùi Minh Thảo,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0829,78.3,71.7,53,30,27.9,3.4,G10
+E0645,Bùi Gia Yến,Genesis Fund & Innovation,Executive,CEO Office,CEO Office Supervisor,Supervisor,1,CEO,56.3,56.3,62,51,48.2,7.7,G4
+E0646,Đỗ Gia Nam,Genesis Fund & Innovation,Commercial,Marketing,Marketing Specialist,Specialist,1,E0210,82.7,70.2,24,65,35.6,8.2,G4
+E0647,Phạm Văn Việt,Genesis Human Resources Services,Commercial,Sales,Sales Staff,Staff,1,E0194,84.9,59.5,64,46,47.4,1.8,G6
+E0648,Hoàng Đức Việt,Genesis Fund & Innovation,Manufacturing,Production,Production Specialist,Specialist,1,E0863,73.1,78.8,62,93,47.1,3.1,G8
+E0649,Đặng Minh Tuấn,Genesis Social Responsibility Platform,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0829,55.2,60.6,95,62,50.6,3.8,G5
+E0650,Hoàng Đức Phúc,Genesis Human Resources Services,Executive,Transformation Office,Transformation Office Manager,Manager,1,CEO,77.0,42.6,74,89,60.9,3.1,G5
+E0651,Vũ Thu Hà,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0486,97.6,81.9,69,60,40.8,5.2,G6
+E0652,Hoàng Đức Linh,Genesis Fund & Innovation,Corporate,Procurement,Procurement Staff,Staff,1,E0214,52.0,74.4,31,30,30.1,2.4,G10
+E0653,Lê Gia An,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0813,81.5,75.6,33,50,24.5,1.1,G4
+E0654,Nguyễn Đức Hà,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0235,82.6,85.8,61,85,47.5,3.7,G8
+E0655,Hồ Gia Thảo,Genesis Fund & Innovation,Manufacturing,Quality,Quality Manager,Manager,1,CEO,99.0,66.5,34,72,32.2,1.4,G10
+E0656,Trần Thu Chi,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Manager,Manager,1,CEO,95.5,95.4,59,92,39.1,1.8,G9
+E0657,Lê Minh Tâm,Genesis Human Resources Services,Technology,IT,IT Supervisor,Supervisor,1,CEO,78.8,85.0,82,55,36.5,3.7,G4
+E0658,Đỗ Thị Linh,Genesis Human Resources Services,Executive,CEO Office,CEO Office Senior Specialist,Senior Specialist,1,E0645,71.4,60.5,72,70,46.8,0.3,G4
+E0659,Vũ Thị Trang,Genesis Human Resources Services,Investment,Research,Research Staff,Staff,1,E0381,73.6,82.8,30,49,30.3,6.4,G6
+E0660,Lê Thị Mai,Genesis Holding Office,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,73.9,69.4,62,29,41.7,9.7,G3
+E0661,Phạm Văn Quân,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Manager,Manager,1,CEO,77.8,80.4,20,94,37.0,0.8,G8
+E0662,Đặng Thị Trang,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0531,81.3,67.3,21,94,47.4,7.5,G3
+E0663,Đỗ Đức Linh,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0863,77.5,84.1,41,90,39.8,1.8,G4
+E0664,Lê Thu Minh,Genesis Human Resources Services,Manufacturing,Quality,Quality Staff,Staff,1,E0585,84.2,49.9,66,44,46.0,0.2,G3
+E0665,Hoàng Ngọc Dũng,Genesis Holding Office,Technology,IT,IT Supervisor,Supervisor,1,CEO,73.5,78.2,95,20,29.6,1.9,G9
+E0666,Hoàng Thị Yến,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0451,70.9,77.8,70,80,52.5,1.1,G5
+E0667,Trần Đức Yến,Genesis Holding Office,Technology,Data & AI,Data & AI Staff,Staff,1,E0754,94.4,77.3,67,30,27.5,3.3,G6
+E0668,Lê Văn Hà,Genesis Fund & Innovation,Manufacturing,Production,Production Manager,Manager,1,CEO,78.7,64.8,62,79,48.1,0.9,G10
+E0669,Nguyễn Gia Thảo,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0235,88.0,59.4,47,41,37.8,0.3,G8
+E0670,Bùi Thị Quân,Genesis Holding Office,Manufacturing,Production,Production Manager,Manager,1,CEO,75.2,71.4,33,89,39.4,2.5,G6
+E0671,Bùi Thị Trang,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0290,99.0,72.5,32,37,22.9,1.8,G10
+E0672,Đặng Thị Hải,Genesis Fund & Innovation,Manufacturing,Quality,Quality Specialist,Specialist,1,E0708,76.6,61.1,51,86,48.1,0.9,G9
+E0673,Phạm Thu Minh,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0531,86.2,57.9,53,40,34.4,3.4,G6
+E0674,Trần Gia An,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0668,78.4,68.8,25,16,26.7,7.1,G5
+E0675,Vũ Thu Mai,Genesis Social Responsibility Platform,Commercial,Sales,Sales Supervisor,Supervisor,1,CEO,99.0,40.4,45,53,48.9,3.4,G5
+E0676,Hồ Gia Việt,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0831,88.1,66.4,64,24,41.6,5.7,G2
+E0677,Đỗ Đức Thảo,Genesis Holding Office,Executive,Strategy,Strategy Senior Specialist,Senior Specialist,1,E0826,64.5,56.4,33,85,49.5,0.9,G7
+E0678,Hồ Thị Quân,Genesis Social Responsibility Platform,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0984,88.6,73.9,59,68,38.3,0.9,G9
+E0679,Hồ Thị Yến,Genesis Human Resources Services,Commercial,Sales,Sales Specialist,Specialist,1,E0488,80.6,67.7,91,61,41.8,6.3,G5
+E0680,Hồ Đức Bình,Genesis Fund & Innovation,Commercial,Sales,Sales Specialist,Specialist,1,E0528,98.8,46.5,47,76,50.2,1.7,G4
+E0681,Phạm Thu Tuấn,Genesis Fund & Innovation,Manufacturing,Quality,Quality Staff,Staff,1,E0266,83.5,66.6,48,42,32.8,1.7,G8
+E0682,Trần Gia Chi,Genesis Human Resources Services,Commercial,Marketing,Marketing Staff,Staff,1,E0210,69.3,62.7,50,51,45.2,6.3,G8
+E0683,Phạm Gia Việt,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0407,94.2,53.2,33,65,46.8,6.8,G5
+E0684,Hồ Văn Sơn,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0732,81.7,99.0,62,86,32.7,0.5,G5
+E0685,Lê Đức Minh,Genesis Human Resources Services,Technology,IT,IT Staff,Staff,1,E0074,82.8,71.5,73,56,49.9,2.2,G3
+E0686,Bùi Minh Minh,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0133,68.4,87.0,26,23,9.8,3.6,G10
+E0687,Trần Thu Dũng,Genesis Holding Office,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,73.9,88.1,38,16,24.3,6.4,G8
+E0688,Lê Minh Yến,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,87.4,64.3,50,98,47.1,5.3,G4
+E0689,Lê Văn Mai,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Supervisor,Supervisor,1,CEO,78.4,95.9,54,28,23.7,3.4,G10
+E0690,Nguyễn Thu Hà,Genesis Human Resources Services,Corporate,Finance,Finance Specialist,Specialist,1,E0271,78.9,89.6,77,64,34.8,7.2,G9
+E0691,Hoàng Gia Linh,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0242,81.8,59.6,40,15,31.1,0.6,G2
+E0692,Đỗ Ngọc Phúc,Genesis Holding Office,Technology,Automation,Automation Senior Manager,Senior Manager,1,CEO,63.9,97.9,27,96,29.0,3.5,G2
+E0693,Phạm Đức Nam,Genesis Green Manufacturing,Technology,Automation,Automation Senior Specialist,Senior Specialist,1,E0692,98.6,63.3,43,82,48.1,2.8,G9
+E0694,Đặng Ngọc Thảo,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0705,80.8,78.4,24,18,18.3,7.1,G3
+E0695,Trần Thị Mai,Genesis Green Manufacturing,Manufacturing,Quality,Quality Senior Manager,Senior Manager,1,CEO,69.6,78.8,49,72,41.9,2.8,G4
+E0696,Nguyễn Minh Long,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0396,94.7,66.0,21,21,27.3,4.2,G6
+E0697,Bùi Đức Sơn,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0154,68.3,76.2,54,19,29.4,6.0,G7
+E0698,Bùi Gia Hải,Genesis Social Responsibility Platform,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,74.0,77.1,56,57,32.0,2.7,G7
+E0699,Lê Thu Mai,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0751,73.5,59.5,63,88,57.8,2.2,G9
+E0700,Đặng Đức Mai,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0107,65.5,79.4,51,49,34.7,4.4,G9
+E0701,Nguyễn Gia Phúc,Genesis Holding Office,Manufacturing,Quality,Quality Staff,Staff,1,E0718,67.6,62.3,52,28,27.8,7.3,G2
+E0702,Vũ Minh Nam,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Manager,Manager,1,CEO,93.4,61.9,93,58,55.1,8.6,G6
+E0703,Đặng Thị Hải,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0729,63.6,75.5,70,89,43.6,5.4,G8
+E0704,Hoàng Gia Dũng,Genesis Human Resources Services,Commercial,Marketing,Marketing Staff,Staff,1,E0228,72.3,82.1,75,25,30.6,2.6,G10
+E0705,Vũ Văn Minh,Genesis Holding Office,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,84.4,79.4,50,66,43.1,1.9,G10
+E0706,Phạm Đức Phúc,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0027,91.9,78.5,28,91,37.7,3.3,G7
+E0707,Hồ Thu Minh,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0612,67.8,69.3,52,60,45.4,1.4,G5
+E0708,Đặng Đức Yến,Genesis Green Manufacturing,Manufacturing,Quality,Quality Supervisor,Supervisor,1,CEO,69.7,85.4,49,13,27.2,3.5,G6
+E0709,Hồ Thu Mai,Genesis Human Resources Services,Corporate,Finance,Finance Staff,Staff,1,E0734,79.1,80.8,79,17,27.3,0.1,G9
+E0710,Hồ Văn An,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Senior Specialist,Senior Specialist,1,E0332,66.0,84.2,58,62,28.6,3.7,G10
+E0711,Đỗ Thị Yến,Genesis Green Manufacturing,Corporate,Finance,Finance Specialist,Specialist,1,E0291,81.7,73.7,70,73,38.6,1.8,G3
+E0712,Vũ Văn Tuấn,Genesis Social Responsibility Platform,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0562,96.2,79.2,89,64,52.0,1.3,G8
+E0713,Nguyễn Thị Tuấn,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0224,99.0,76.7,75,36,38.9,0.9,G6
+E0714,Đặng Văn An,Genesis Fund & Innovation,Manufacturing,EHS,EHS Manager,Manager,1,CEO,80.2,73.9,27,65,33.6,8.9,G10
+E0715,Hoàng Thị Bình,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0698,85.3,74.9,24,74,33.2,7.1,G10
+E0716,Phạm Đức An,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0797,91.0,89.7,78,69,34.4,1.1,G9
+E0717,Hoàng Thu Trang,Genesis Human Resources Services,Executive,Transformation Office,Transformation Office Supervisor,Supervisor,1,CEO,87.8,79.5,54,22,23.1,6.8,G2
+E0718,Vũ Thu Hà,Genesis Human Resources Services,Manufacturing,Quality,Quality Manager,Manager,1,CEO,98.8,77.0,60,78,47.2,2.7,G6
+E0719,Bùi Đức Trang,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0494,80.7,50.3,23,34,33.4,1.7,G7
+E0720,Hoàng Thị Việt,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0242,64.7,85.6,36,23,26.2,1.4,G4
+E0721,Vũ Minh Mai,Genesis Holding Office,Commercial,Sales,Sales Supervisor,Supervisor,1,CEO,92.7,97.8,93,30,24.8,0.9,G10
+E0722,Hồ Minh Tuấn,Genesis Social Responsibility Platform,Manufacturing,Maintenance,Maintenance Senior Specialist,Senior Specialist,1,E0818,92.6,88.6,66,73,43.8,1.9,G8
+E0723,Vũ Văn Trang,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0027,80.8,80.0,68,73,34.1,2.4,G2
+E0724,Trần Minh Yến,Genesis Social Responsibility Platform,Investment,Research,Research Staff,Staff,1,E0381,78.1,61.5,39,41,32.2,5.0,G5
+E0725,Hồ Đức Mai,Genesis Human Resources Services,Manufacturing,Quality,Quality Staff,Staff,1,E0940,79.7,87.5,46,63,30.3,2.6,G8
+E0726,Phạm Minh Dũng,Genesis Green Manufacturing,Commercial,Marketing,Marketing Staff,Staff,1,E0417,74.8,55.9,26,64,41.1,7.7,G7
+E0727,Hoàng Gia Bình,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,66.6,60.8,73,61,45.5,1.9,G6
+E0728,Vũ Thu Tuấn,Genesis Green Manufacturing,Corporate,HR,HR Specialist,Specialist,1,E0444,91.4,92.9,37,98,40.9,4.6,G10
+E0729,Bùi Thu An,Genesis Human Resources Services,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,55.1,89.0,49,53,34.2,4.1,G6
+E0730,Lê Văn Tâm,Genesis Fund & Innovation,Manufacturing,Quality,Quality Specialist,Specialist,1,E0772,79.5,84.0,27,84,40.0,9.0,G5
+E0731,Hoàng Văn Tuấn,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,67.3,75.7,20,59,31.0,6.3,G9
+E0732,Lê Thị Quân,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Senior Manager,Senior Manager,1,CEO,64.0,78.5,66,65,40.7,4.4,G9
+E0733,Lê Gia Sơn,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0248,35.0,78.9,52,73,32.5,2.7,G3
+E0734,Phạm Ngọc Hải,Genesis Social Responsibility Platform,Corporate,Finance,Finance Supervisor,Supervisor,1,CEO,67.1,66.9,80,58,53.8,2.2,G3
+E0735,Đặng Thị Quân,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0688,74.8,99.0,42,41,17.3,3.0,G4
+E0736,Bùi Thu Việt,Genesis Fund & Innovation,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0068,99.0,79.5,53,86,35.3,0.2,G2
+E0737,Đỗ Thị Yến,Genesis Green Manufacturing,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0911,61.9,77.6,20,12,14.5,1.3,G7
+E0738,Lê Gia Tâm,Genesis Social Responsibility Platform,Technology,IT,IT Manager,Manager,1,CEO,80.7,76.4,82,74,51.1,2.0,G8
+E0739,Bùi Ngọc Trang,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0732,57.0,58.6,21,57,38.5,3.1,G7
+E0740,Trần Ngọc An,Genesis Human Resources Services,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0330,98.5,95.3,31,65,17.3,3.8,G4
+E0741,Nguyễn Văn Quân,Genesis Holding Office,Corporate,HR,HR Senior Specialist,Senior Specialist,1,E0970,83.8,99.0,20,81,17.5,2.5,G5
+E0742,Đặng Văn Chi,Genesis Human Resources Services,Corporate,HR,HR Specialist,Specialist,1,E0233,83.2,80.5,26,91,42.8,11.7,G10
+E0743,Trần Gia Hà,Genesis Human Resources Services,Corporate,Finance,Finance Specialist,Specialist,1,E0734,77.3,51.7,71,93,63.8,2.2,G8
+E0744,Phạm Đức Nam,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0583,99.0,79.0,45,29,30.5,2.8,G4
+E0745,Phạm Gia Mai,Genesis Green Manufacturing,Manufacturing,Quality,Quality Manager,Manager,1,CEO,54.5,69.4,33,95,49.2,4.4,G8
+E0746,Nguyễn Văn Tuấn,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0051,78.4,74.1,54,84,46.9,7.3,G3
+E0747,Vũ Thu Phúc,Genesis Holding Office,Corporate,Finance,Finance Specialist,Specialist,1,E0173,83.1,66.6,74,84,47.8,2.6,G10
+E0748,Trần Văn Long,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0857,97.7,78.5,57,92,51.8,7.3,G3
+E0749,Vũ Ngọc Bình,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0036,81.4,92.0,42,58,19.9,4.1,G5
+E0750,Hồ Văn Quân,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0107,79.8,78.7,60,42,36.7,7.4,G9
+E0751,Nguyễn Ngọc Nam,Genesis Human Resources Services,Manufacturing,Production,Production Manager,Manager,1,CEO,64.8,61.1,48,66,46.6,0.4,G2
+E0752,Bùi Thu Sơn,Genesis Human Resources Services,Technology,Data & AI,Data & AI Staff,Staff,1,E0754,80.6,72.2,48,11,27.1,3.2,G2
+E0753,Trần Ngọc Dũng,Genesis Holding Office,Manufacturing,Production,Production Manager,Manager,1,CEO,75.2,58.4,23,91,45.8,2.7,G9
+E0754,Phạm Đức Minh,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Supervisor,Supervisor,1,CEO,99.0,69.4,80,55,41.5,6.4,G5
+E0755,Lê Văn Nam,Genesis Fund & Innovation,Executive,Transformation Office,Transformation Office Specialist,Specialist,1,E0854,56.4,63.2,51,82,48.9,2.3,G3
+E0756,Vũ Minh Phúc,Genesis Social Responsibility Platform,Corporate,Legal,Legal Staff,Staff,1,E0941,85.4,62.9,22,18,25.2,2.7,G6
+E0757,Hồ Minh Linh,Genesis Social Responsibility Platform,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0946,72.2,79.1,86,93,44.4,13.2,G5
+E0758,Trần Gia Trang,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,71.2,68.8,44,10,29.6,5.3,G5
+E0759,Lê Gia Dũng,Genesis Social Responsibility Platform,Manufacturing,EHS,EHS Supervisor,Supervisor,1,CEO,65.7,99.0,72,47,26.6,5.6,G6
+E0760,Vũ Thu Việt,Genesis Fund & Innovation,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0958,86.7,64.0,81,57,45.0,1.4,G7
+E0761,Trần Đức Quân,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0963,81.2,80.8,73,17,24.0,4.8,G2
+E0762,Trần Minh Hải,Genesis Social Responsibility Platform,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0837,62.7,66.9,58,66,39.5,2.1,G5
+E0763,Lê Thị Dũng,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0369,80.5,70.9,47,77,36.2,5.3,G8
+E0764,Đỗ Gia Linh,Genesis Social Responsibility Platform,Technology,IT,IT Specialist,Specialist,1,E0150,82.0,84.7,53,84,46.5,5.4,G3
+E0765,Hồ Gia Quân,Genesis Fund & Innovation,Executive,Transformation Office,Transformation Office Supervisor,Supervisor,1,CEO,67.0,89.3,44,32,21.8,1.2,G3
+E0766,Trần Thị Tâm,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0369,67.5,71.9,40,27,27.2,4.5,G5
+E0767,Trần Ngọc Sơn,Genesis Social Responsibility Platform,Corporate,Procurement,Procurement Staff,Staff,1,E0933,91.9,69.6,23,58,26.5,2.9,G4
+E0768,Phạm Gia Thảo,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Staff,Staff,1,E0455,90.7,84.4,73,33,34.8,2.4,G9
+E0769,Vũ Đức Chi,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0371,74.9,59.7,46,14,31.3,18.0,G6
+E0770,Lê Thu Sơn,Genesis Social Responsibility Platform,Commercial,Marketing,Marketing Specialist,Specialist,1,E0630,85.6,73.2,22,55,25.4,6.4,G10
+E0771,Đặng Thu Linh,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Supervisor,Supervisor,1,CEO,81.2,72.0,93,39,38.4,2.8,G3
+E0772,Trần Gia Nam,Genesis Human Resources Services,Manufacturing,Quality,Quality Manager,Manager,1,CEO,98.7,75.7,73,69,44.9,8.9,G8
+E0773,Hoàng Minh Long,Genesis Holding Office,Technology,IT,IT Staff,Staff,1,E0193,86.7,87.2,67,62,40.7,4.6,G4
+E0774,Trần Đức Minh,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0857,86.5,94.9,37,46,27.6,1.2,G4
+E0775,Nguyễn Minh Minh,Genesis Human Resources Services,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0901,76.6,58.3,58,87,48.0,3.1,G7
+E0776,Nguyễn Gia Thảo,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0995,68.6,96.9,70,37,22.1,4.4,G4
+E0777,Đặng Minh Quân,Genesis Fund & Innovation,Executive,Strategy,Strategy Specialist,Specialist,1,E0826,72.8,85.4,54,83,34.0,6.8,G9
+E0778,Bùi Minh Bình,Genesis Human Resources Services,Commercial,Sales,Sales Staff,Staff,1,E0263,80.2,38.5,48,46,55.7,1.2,G7
+E0779,Đỗ Văn Tuấn,Genesis Social Responsibility Platform,Corporate,Finance,Finance Specialist,Specialist,1,E0291,75.1,72.6,63,78,48.6,3.9,G4
+E0780,Đỗ Minh Phúc,Genesis Green Manufacturing,Manufacturing,Maintenance,Maintenance Senior Manager,Senior Manager,1,CEO,76.0,67.8,28,56,33.1,3.3,G3
+E0781,Phạm Minh Hà,Genesis Green Manufacturing,Commercial,Marketing,Marketing Staff,Staff,1,E0919,64.8,86.9,66,24,22.1,3.0,G2
+E0782,Hoàng Văn Hà,Genesis Fund & Innovation,Commercial,Customer Success,Customer Success Specialist,Specialist,1,E0121,73.0,65.5,34,63,41.3,1.0,G6
+E0783,Đỗ Ngọc Thảo,Genesis Holding Office,Commercial,Customer Success,Customer Success Senior Specialist,Senior Specialist,1,E0121,94.1,87.5,43,68,34.5,1.3,G7
+E0784,Phạm Ngọc Phúc,Genesis Social Responsibility Platform,Executive,CEO Office,CEO Office Supervisor,Supervisor,1,CEO,71.5,61.5,40,47,42.1,1.1,G7
+E0785,Lê Đức Linh,Genesis Fund & Innovation,Corporate,Finance,Finance Specialist,Specialist,1,E0878,78.9,78.4,83,78,43.3,1.1,G6
+E0786,Hồ Thu Việt,Genesis Human Resources Services,Corporate,HR,HR Staff,Staff,1,E0233,73.3,86.3,53,43,25.3,3.4,G9
+E0787,Lê Ngọc Sơn,Genesis Fund & Innovation,Technology,Product,Product Manager,Manager,1,CEO,85.2,98.8,65,63,27.6,2.7,G10
+E0788,Đỗ Ngọc Bình,Genesis Social Responsibility Platform,Executive,Strategy,Strategy Staff,Staff,1,E0221,75.7,76.3,52,52,29.5,2.2,G7
+E0789,Lê Đức Linh,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Staff,Staff,1,E0419,77.4,40.9,54,58,55.6,3.8,G3
+E0790,Bùi Thu Hải,Genesis Human Resources Services,Investment,Investment,Investment Staff,Staff,1,E0860,58.2,76.7,22,23,18.2,2.6,G9
+E0791,Trần Thị Yến,Genesis Fund & Innovation,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0488,75.9,78.9,75,87,52.7,4.7,G2
+E0792,Lê Gia Bình,Genesis Fund & Innovation,Commercial,Marketing,Marketing Supervisor,Supervisor,1,CEO,88.4,50.5,55,18,40.1,1.5,G7
+E0793,Lê Thị Tuấn,Genesis Holding Office,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0911,78.2,83.9,72,14,28.3,0.7,G5
+E0794,Đỗ Đức Bình,Genesis Social Responsibility Platform,Manufacturing,Quality,Quality Staff,Staff,1,E0689,86.6,72.8,67,21,25.8,8.5,G7
+E0795,Nguyễn Gia Phúc,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Staff,Staff,1,E0270,67.0,61.8,74,63,46.2,2.9,G2
+E0796,Bùi Gia Linh,Genesis Green Manufacturing,Investment,Investment,Investment Staff,Staff,1,E0860,87.4,99.0,64,31,24.6,5.7,G6
+E0797,Đỗ Đức Quân,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Supervisor,Supervisor,1,CEO,77.6,82.1,69,21,28.5,5.0,G8
+E0798,Hoàng Thu Tuấn,Genesis Human Resources Services,Corporate,Finance,Finance Specialist,Specialist,1,E0910,73.4,89.8,67,97,50.3,1.7,G4
+E0799,Hồ Minh An,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0751,64.4,97.5,62,44,24.0,0.6,G9
+E0800,Phạm Thị An,Genesis Green Manufacturing,Technology,IT,IT Specialist,Specialist,1,E0939,76.7,49.3,84,67,54.6,4.1,G3
+E0801,Vũ Minh Quân,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0388,65.3,85.0,24,90,31.8,2.4,G4
+E0802,Bùi Gia Việt,Genesis Holding Office,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0291,69.1,83.3,79,70,45.1,1.5,G2
+E0803,Nguyễn Thị Tuấn,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0531,66.3,92.3,66,39,27.5,2.3,G5
+E0804,Lê Thị Minh,Genesis Social Responsibility Platform,Corporate,HR,HR Senior Specialist,Senior Specialist,1,E0525,77.1,64.9,64,72,40.6,0.8,G9
+E0805,Bùi Thu Sơn,Genesis Green Manufacturing,Executive,Strategy,Strategy Supervisor,Supervisor,1,CEO,64.7,61.6,55,16,32.3,1.9,G6
+E0806,Trần Đức Việt,Genesis Holding Office,Corporate,Finance,Finance Specialist,Specialist,1,E0619,63.9,51.4,64,98,51.3,6.3,G8
+E0807,Bùi Gia Quân,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0154,61.8,61.7,59,73,47.0,3.4,G6
+E0808,Lê Thu Hà,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0927,67.7,86.0,21,17,8.4,8.1,G7
+E0809,Trần Thị Tâm,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0036,68.4,63.9,34,66,31.4,8.5,G7
+E0810,Nguyễn Minh Việt,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0272,99.0,56.5,61,94,50.6,0.1,G6
+E0811,Lê Ngọc Hải,Genesis Human Resources Services,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0734,74.8,93.5,66,73,42.3,2.6,G10
+E0812,Đặng Ngọc Linh,Genesis Green Manufacturing,Commercial,Sales,Sales Specialist,Specialist,1,E0556,68.9,73.7,51,91,51.8,3.4,G3
+E0813,Nguyễn Ngọc Tuấn,Genesis Social Responsibility Platform,Manufacturing,Production,Production Manager,Manager,1,CEO,87.3,71.9,37,97,40.0,7.1,G9
+E0814,Đặng Gia Việt,Genesis Green Manufacturing,Technology,IT,IT Specialist,Specialist,1,E0150,63.9,69.9,71,63,46.4,6.2,G4
+E0815,Bùi Thị Long,Genesis Green Manufacturing,Manufacturing,Quality,Quality Senior Manager,Senior Manager,1,CEO,82.0,87.6,24,95,26.5,8.0,G2
+E0816,Đặng Thu Sơn,Genesis Human Resources Services,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0734,85.2,92.4,61,77,37.0,6.3,G3
+E0817,Nguyễn Ngọc Yến,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0837,90.1,70.6,61,94,43.5,7.2,G5
+E0818,Đặng Ngọc Hải,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,86.6,72.3,39,91,40.1,3.0,G2
+E0819,Phạm Ngọc Dũng,Genesis Fund & Innovation,Commercial,Sales,Sales Specialist,Specialist,1,E0721,64.0,92.6,84,70,41.8,0.5,G8
+E0820,Nguyễn Ngọc Tuấn,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,87.3,72.4,25,60,31.4,4.1,G7
+E0821,Lê Minh An,Genesis Green Manufacturing,Corporate,HR,HR Staff,Staff,1,E0525,80.9,99.0,56,13,15.8,5.0,G2
+E0822,Hoàng Gia Yến,Genesis Human Resources Services,Technology,Data & AI,Data & AI Manager,Manager,1,CEO,75.7,78.8,94,89,55.0,3.4,G2
+E0823,Lê Ngọc An,Genesis Holding Office,Corporate,Finance,Finance Staff,Staff,1,E0827,72.7,60.2,83,16,45.0,2.9,G6
+E0824,Phạm Văn Linh,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0451,64.1,89.2,43,58,35.1,2.3,G9
+E0825,Đặng Ngọc Long,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0593,84.7,80.8,73,59,35.8,2.2,G3
+E0826,Nguyễn Văn Việt,Genesis Human Resources Services,Executive,Strategy,Strategy Supervisor,Supervisor,1,CEO,89.3,55.4,44,61,51.2,2.1,G9
+E0827,Bùi Văn Dũng,Genesis Human Resources Services,Corporate,Finance,Finance Supervisor,Supervisor,1,CEO,86.3,56.0,95,21,40.3,4.5,G8
+E0828,Lê Ngọc Hà,Genesis Holding Office,Investment,Investment,Investment Staff,Staff,1,E0279,77.4,68.4,48,40,37.9,5.9,G8
+E0829,Nguyễn Văn Mai,Genesis Social Responsibility Platform,Corporate,Finance,Finance Supervisor,Supervisor,1,CEO,85.9,57.1,74,28,37.9,2.1,G3
+E0830,Phạm Thị Quân,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0727,90.0,93.1,36,77,30.3,1.6,G8
+E0831,Trần Gia Việt,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Senior Manager,Senior Manager,1,CEO,69.2,72.4,27,63,40.3,2.9,G10
+E0832,Bùi Văn Hà,Genesis Social Responsibility Platform,Manufacturing,Production,Production Specialist,Specialist,1,E0355,82.9,76.8,50,79,44.7,3.1,G9
+E0833,Hồ Thu Mai,Genesis Social Responsibility Platform,Corporate,Legal,Legal Specialist,Specialist,1,E0941,95.4,50.7,37,71,49.7,4.8,G8
+E0834,Bùi Minh Quân,Genesis Social Responsibility Platform,Commercial,Sales,Sales Specialist,Specialist,1,E0471,73.2,61.1,68,88,57.6,2.4,G7
+E0835,Vũ Minh Linh,Genesis Green Manufacturing,Executive,CEO Office,CEO Office Specialist,Specialist,1,E0432,84.3,84.6,72,82,48.7,2.9,G8
+E0836,Hoàng Văn Hà,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0837,89.4,69.8,70,24,35.3,3.8,G10
+E0837,Hoàng Ngọc Long,Genesis Green Manufacturing,Manufacturing,Production,Production Manager,Manager,1,CEO,84.9,68.5,35,63,39.0,5.3,G3
+E0838,Đỗ Minh Việt,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0831,64.2,85.4,40,74,34.9,2.5,G8
+E0839,Bùi Minh Thảo,Genesis Fund & Innovation,Commercial,Marketing,Marketing Staff,Staff,1,E0309,76.3,69.9,68,46,38.5,5.0,G9
+E0840,Hồ Văn Tâm,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0831,78.2,60.2,29,27,28.9,2.6,G6
+E0841,Trần Đức Chi,Genesis Social Responsibility Platform,Technology,Automation,Automation Specialist,Specialist,1,E0692,92.8,81.6,53,57,33.1,3.6,G8
+E0842,Vũ Văn Minh,Genesis Human Resources Services,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0235,96.0,73.0,72,85,54.4,2.8,G8
+E0843,Đặng Thị An,Genesis Human Resources Services,Corporate,HR,HR Specialist,Specialist,1,E0936,87.6,78.3,40,74,36.1,1.9,G8
+E0844,Hoàng Thị Tâm,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0134,99.0,73.8,61,48,30.1,2.3,G5
+E0845,Trần Thu Bình,Genesis Fund & Innovation,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0330,66.0,61.3,49,95,45.4,3.7,G6
+E0846,Trần Thị Minh,Genesis Human Resources Services,Manufacturing,Quality,Quality Staff,Staff,1,E0322,96.1,89.5,51,54,36.5,0.9,G7
+E0847,Hoàng Thị Dũng,Genesis Human Resources Services,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0073,78.4,59.3,50,89,44.5,2.5,G2
+E0848,Trần Gia Tuấn,Genesis Social Responsibility Platform,Corporate,HR,HR Senior Manager,Senior Manager,1,CEO,99.0,66.0,63,96,58.1,2.1,G5
+E0849,Hồ Gia Trang,Genesis Fund & Innovation,Technology,Product,Product Specialist,Specialist,1,E0787,64.0,57.1,26,75,35.0,5.0,G7
+E0850,Đặng Văn Dũng,Genesis Fund & Innovation,Corporate,Finance,Finance Specialist,Specialist,1,E0910,90.6,43.7,45,55,41.6,4.1,G6
+E0851,Nguyễn Đức Trang,Genesis Fund & Innovation,Corporate,Legal,Legal Specialist,Specialist,1,E0941,85.9,79.3,67,82,37.8,4.2,G9
+E0852,Nguyễn Minh Thảo,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Senior Specialist,Senior Specialist,1,E0758,59.6,84.3,67,78,39.2,4.8,G6
+E0853,Lê Thu Việt,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0248,59.6,64.1,24,63,34.5,3.4,G8
+E0854,Đỗ Ngọc Tuấn,Genesis Human Resources Services,Executive,Transformation Office,Transformation Office Senior Manager,Senior Manager,1,CEO,67.0,65.8,39,62,31.9,6.5,G7
+E0855,Hồ Đức Linh,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0410,99.0,62.8,50,63,46.7,1.3,G6
+E0856,Trần Gia An,Genesis Green Manufacturing,Manufacturing,Production,Production Specialist,Specialist,1,E0992,48.0,52.6,39,69,49.2,5.1,G5
+E0857,Nguyễn Văn Dũng,Genesis Green Manufacturing,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,89.2,78.3,57,75,39.6,4.3,G7
+E0858,Đỗ Ngọc Hà,Genesis Holding Office,Investment,Research,Research Specialist,Specialist,1,E1000,77.3,80.3,36,78,40.2,2.2,G5
+E0859,Bùi Minh Linh,Genesis Social Responsibility Platform,Technology,Data & AI,Data & AI Staff,Staff,1,E0797,94.3,53.0,53,65,44.1,4.4,G9
+E0860,Vũ Đức Hà,Genesis Social Responsibility Platform,Investment,Investment,Investment Manager,Manager,1,CEO,79.0,73.0,44,65,30.1,2.1,G10
+E0861,Hồ Minh Phúc,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0506,80.5,73.2,46,24,20.3,1.6,G8
+E0862,Trần Thu Trang,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0248,78.5,88.0,27,98,34.0,5.0,G8
+E0863,Bùi Gia Sơn,Genesis Fund & Innovation,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,66.3,88.1,56,26,25.8,9.2,G8
+E0864,Đỗ Thu Yến,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0857,94.1,79.3,52,20,20.1,5.6,G3
+E0865,Vũ Ngọc Quân,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0656,87.9,94.4,22,80,32.6,4.0,G2
+E0866,Trần Thị Linh,Genesis Holding Office,Corporate,Procurement,Procurement Staff,Staff,1,E0933,49.9,85.1,20,16,15.6,0.9,G4
+E0867,Bùi Minh Long,Genesis Human Resources Services,Corporate,Finance,Finance Specialist,Specialist,1,E0173,72.6,81.3,83,97,56.5,10.5,G5
+E0868,Hoàng Văn Nam,Genesis Fund & Innovation,Investment,Investment,Investment Senior Specialist,Senior Specialist,1,E0860,93.9,80.7,33,72,31.9,6.8,G9
+E0869,Lê Minh Yến,Genesis Green Manufacturing,Commercial,Marketing,Marketing Specialist,Specialist,1,E0309,90.2,74.3,65,62,42.2,4.5,G5
+E0870,Vũ Minh Bình,Genesis Fund & Innovation,Technology,IT,IT Staff,Staff,1,E0245,82.2,81.6,66,56,35.6,2.0,G8
+E0871,Bùi Minh Hải,Genesis Holding Office,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0022,76.6,51.3,49,62,50.3,2.5,G6
+E0872,Trần Ngọc Nam,Genesis Holding Office,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0340,67.2,81.3,35,62,36.1,2.1,G8
+E0873,Lê Ngọc Hà,Genesis Holding Office,CSR,Sustainability,Sustainability Manager,Manager,1,CEO,81.8,85.0,56,98,41.6,2.9,G7
+E0874,Nguyễn Đức Minh,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0486,74.7,67.8,34,21,34.1,8.2,G9
+E0875,Trần Thị Linh,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0758,74.7,68.5,53,40,34.3,2.4,G6
+E0876,Vũ Ngọc Nam,Genesis Social Responsibility Platform,Corporate,Finance,Finance Specialist,Specialist,1,E0878,93.6,80.4,91,67,46.0,4.1,G2
+E0877,Đặng Văn Nam,Genesis Fund & Innovation,Corporate,HR,HR Staff,Staff,1,E0371,73.8,60.6,61,19,43.3,9.8,G6
+E0878,Hồ Văn Tuấn,Genesis Fund & Innovation,Corporate,Finance,Finance Senior Manager,Senior Manager,1,CEO,97.9,80.9,85,98,47.8,7.6,G4
+E0879,Hồ Gia Nam,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0854,87.9,69.6,36,48,33.7,5.7,G6
+E0880,Hồ Thị Tuấn,Genesis Holding Office,Executive,Strategy,Strategy Staff,Staff,1,E0221,80.9,86.0,37,51,34.1,4.7,G2
+E0881,Vũ Văn Quân,Genesis Fund & Innovation,Manufacturing,Quality,Quality Specialist,Specialist,1,E0940,76.4,66.8,70,96,60.1,2.1,G2
+E0882,Hoàng Minh Long,Genesis Human Resources Services,Technology,Data & AI,Data & AI Senior Specialist,Senior Specialist,1,E0822,85.9,82.1,88,77,41.3,5.0,G9
+E0883,Trần Thị Minh,Genesis Holding Office,Manufacturing,Production,Production Staff,Staff,1,E0813,45.5,71.3,62,10,28.4,3.4,G9
+E0884,Nguyễn Thị Hải,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0410,67.1,76.6,25,52,30.1,3.3,G4
+E0885,Đỗ Gia Việt,Genesis Holding Office,CSR,Sustainability,Sustainability Staff,Staff,1,E0984,74.0,74.9,63,31,31.8,3.8,G5
+E0886,Phạm Minh Dũng,Genesis Green Manufacturing,Corporate,HR,HR Senior Specialist,Senior Specialist,1,E0922,89.9,57.3,71,90,48.2,3.1,G4
+E0887,Hoàng Ngọc Chi,Genesis Human Resources Services,Commercial,Marketing,Marketing Senior Specialist,Senior Specialist,1,E0115,77.4,71.9,29,92,33.1,7.8,G3
+E0888,Vũ Thị Hà,Genesis Green Manufacturing,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0945,77.5,90.3,51,76,39.6,2.7,G7
+E0889,Bùi Ngọc Mai,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0194,92.8,80.5,72,57,41.6,5.0,G4
+E0890,Vũ Văn Tâm,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0525,82.4,62.1,64,34,33.4,1.9,G5
+E0891,Đặng Thị Bình,Genesis Fund & Innovation,Commercial,Marketing,Marketing Senior Specialist,Senior Specialist,1,E0309,76.4,67.4,57,76,46.7,9.9,G5
+E0892,Hồ Thu Nam,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,61.0,58.9,58,37,35.4,6.3,G3
+E0893,Trần Thu Dũng,Genesis Social Responsibility Platform,Corporate,Finance,Finance Staff,Staff,1,E0271,85.3,66.7,54,62,33.8,4.0,G9
+E0894,Đỗ Gia Long,Genesis Fund & Innovation,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0484,79.7,82.0,27,32,13.8,1.5,G3
+E0895,Hoàng Thị An,Genesis Holding Office,Technology,Data & AI,Data & AI Staff,Staff,1,E0822,92.7,74.5,61,17,35.2,1.5,G6
+E0896,Lê Thị Việt,Genesis Social Responsibility Platform,Manufacturing,Supply Chain,Supply Chain Staff,Staff,1,E0572,52.0,71.6,36,35,21.7,2.3,G9
+E0897,Đỗ Thu Bình,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0831,74.8,74.3,20,96,36.0,2.3,G7
+E0898,Hồ Đức Việt,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0837,85.2,80.6,35,84,39.3,3.6,G10
+E0899,Đặng Thu Trang,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Manager,Manager,1,CEO,78.1,41.7,58,70,54.3,6.4,G8
+E0900,Đặng Ngọc Chi,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0444,82.6,68.6,74,26,29.9,3.5,G4
+E0901,Đặng Minh Tuấn,Genesis Fund & Innovation,CSR,Sustainability,Sustainability Manager,Manager,1,CEO,89.4,78.0,59,63,36.0,4.7,G8
+E0902,Bùi Gia Hà,Genesis Human Resources Services,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0771,69.3,50.7,89,62,64.4,0.7,G4
+E0903,Hoàng Gia Nam,Genesis Holding Office,Executive,CEO Office,CEO Office Staff,Staff,1,E0784,66.2,77.0,69,22,38.0,3.0,G4
+E0904,Hoàng Ngọc Hải,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0837,59.8,82.7,53,93,47.4,1.4,G5
+E0905,Nguyễn Gia Yến,Genesis Fund & Innovation,Corporate,Finance,Finance Staff,Staff,1,E0910,89.4,59.0,92,21,44.1,3.7,G8
+E0906,Bùi Thu Dũng,Genesis Fund & Innovation,Manufacturing,Production,Production Manager,Manager,1,CEO,59.7,68.9,50,72,42.2,4.6,G3
+E0907,Lê Thị Chi,Genesis Green Manufacturing,Manufacturing,Production,Production Manager,Manager,1,CEO,68.8,76.2,72,95,52.7,2.5,G9
+E0908,Bùi Ngọc Nam,Genesis Green Manufacturing,Commercial,Marketing,Marketing Senior Manager,Senior Manager,1,CEO,77.5,88.4,57,92,37.5,1.0,G10
+E0909,Lê Gia Phúc,Genesis Holding Office,Manufacturing,Production,Production Manager,Manager,1,CEO,80.4,83.0,39,89,35.2,8.7,G2
+E0910,Vũ Đức Việt,Genesis Holding Office,Corporate,Finance,Finance Manager,Manager,1,CEO,76.4,88.1,83,85,43.2,1.0,G9
+E0911,Phạm Gia Hà,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Supervisor,Supervisor,1,CEO,74.4,73.1,29,14,21.7,6.6,G7
+E0912,Hoàng Thị Linh,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Specialist,Specialist,1,E0158,98.9,91.3,40,61,24.2,1.4,G5
+E0913,Đặng Gia Linh,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0995,72.7,76.5,43,58,31.9,3.0,G2
+E0914,Hoàng Ngọc Quân,Genesis Fund & Innovation,Corporate,HR,HR Staff,Staff,1,E0086,86.1,76.7,49,52,33.9,0.9,G7
+E0915,Lê Văn Minh,Genesis Holding Office,Technology,IT,IT Staff,Staff,1,E0225,89.1,61.1,56,48,38.4,4.1,G6
+E0916,Bùi Minh Bình,Genesis Human Resources Services,Corporate,Finance,Finance Specialist,Specialist,1,E0350,73.8,70.2,77,88,49.9,9.0,G2
+E0917,Đỗ Ngọc Yến,Genesis Social Responsibility Platform,Corporate,HR,HR Manager,Manager,1,CEO,73.4,85.3,29,55,19.2,5.3,G4
+E0918,Hoàng Ngọc Nam,Genesis Fund & Innovation,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0299,52.8,57.9,42,81,48.4,2.6,G3
+E0919,Đỗ Gia Hải,Genesis Human Resources Services,Commercial,Marketing,Marketing Manager,Manager,1,CEO,82.7,78.6,47,55,27.1,3.1,G3
+E0920,Vũ Thị Minh,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0472,72.5,61.7,30,64,34.7,5.5,G6
+E0921,Phạm Minh Sơn,Genesis Fund & Innovation,Executive,Strategy,Strategy Staff,Staff,1,E0065,79.0,65.9,39,47,27.7,7.3,G5
+E0922,Đỗ Thị Bình,Genesis Human Resources Services,Corporate,HR,HR Senior Manager,Senior Manager,1,CEO,81.8,74.8,73,72,40.4,3.6,G2
+E0923,Lê Thị Sơn,Genesis Social Responsibility Platform,Corporate,Legal,Legal Staff,Staff,1,E0941,69.2,88.2,42,52,32.9,4.0,G8
+E0924,Nguyễn Gia Hà,Genesis Fund & Innovation,Commercial,Customer Success,Customer Success Senior Specialist,Senior Specialist,1,E0121,82.4,73.7,20,93,32.0,1.0,G5
+E0925,Hồ Văn Linh,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0350,80.7,77.8,61,40,38.9,1.0,G9
+E0926,Đặng Văn Mai,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0069,75.4,94.4,74,62,37.3,6.9,G6
+E0927,Nguyễn Ngọc Linh,Genesis Fund & Innovation,Manufacturing,Production,Production Supervisor,Supervisor,1,CEO,92.0,61.5,75,39,50.6,3.1,G7
+E0928,Đỗ Minh Yến,Genesis Green Manufacturing,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,72.8,86.5,26,78,35.4,3.1,G7
+E0929,Hồ Gia Long,Genesis Fund & Innovation,Technology,Data & AI,Data & AI Specialist,Specialist,1,E0754,85.8,62.4,65,75,43.5,3.4,G10
+E0930,Nguyễn Thị Yến,Genesis Holding Office,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0093,84.1,93.9,51,95,38.2,7.1,G8
+E0931,Hoàng Đức Nam,Genesis Social Responsibility Platform,Executive,Transformation Office,Transformation Office Staff,Staff,1,E0273,85.6,80.5,31,18,13.4,1.8,G8
+E0932,Hồ Thị Phúc,Genesis Social Responsibility Platform,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0248,71.2,87.2,25,72,27.2,4.1,G6
+E0933,Hồ Văn Trang,Genesis Holding Office,Corporate,Procurement,Procurement Manager,Manager,1,CEO,87.3,73.3,20,62,26.5,4.7,G4
+E0934,Vũ Minh Yến,Genesis Human Resources Services,Manufacturing,Production,Production Staff,Staff,1,E0995,61.8,83.0,66,53,39.8,6.3,G6
+E0935,Bùi Gia Dũng,Genesis Green Manufacturing,Corporate,Finance,Finance Senior Specialist,Senior Specialist,1,E0291,74.1,71.4,48,96,47.9,1.8,G2
+E0936,Hồ Gia Phúc,Genesis Fund & Innovation,Corporate,HR,HR Supervisor,Supervisor,1,CEO,89.8,54.6,42,56,49.5,4.1,G8
+E0937,Nguyễn Văn Quân,Genesis Holding Office,Manufacturing,Production,Production Specialist,Specialist,1,E0464,76.2,99.0,58,92,36.8,3.7,G2
+E0938,Phạm Ngọc Tâm,Genesis Green Manufacturing,Technology,Data & AI,Data & AI Supervisor,Supervisor,1,CEO,73.1,93.8,49,28,13.7,8.5,G7
+E0939,Trần Ngọc Dũng,Genesis Fund & Innovation,Technology,IT,IT Manager,Manager,1,CEO,78.7,80.2,69,71,47.4,3.1,G9
+E0940,Hồ Văn Hà,Genesis Green Manufacturing,Manufacturing,Quality,Quality Manager,Manager,1,CEO,78.3,69.3,35,72,36.7,8.5,G6
+E0941,Vũ Đức Bình,Genesis Green Manufacturing,Corporate,Legal,Legal Staff,Staff,1,CEO,63.4,50.2,66,35,38.9,7.1,G3
+E0942,Đỗ Văn Thảo,Genesis Holding Office,Executive,Strategy,Strategy Staff,Staff,1,E0065,73.1,73.5,46,23,29.4,4.3,G6
+E0943,Đỗ Văn Quân,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Senior Specialist,Senior Specialist,1,E0035,70.6,93.0,34,68,31.0,3.3,G7
+E0944,Bùi Gia Thảo,Genesis Fund & Innovation,Commercial,Customer Success,Customer Success Staff,Staff,1,E0121,85.6,79.9,58,41,39.2,4.2,G2
+E0945,Bùi Thị Hà,Genesis Holding Office,Manufacturing,Maintenance,Maintenance Manager,Manager,1,CEO,93.3,85.6,53,56,32.9,3.7,G4
+E0946,Vũ Minh Mai,Genesis Holding Office,Commercial,Sales,Sales Supervisor,Supervisor,1,CEO,83.7,67.2,66,45,34.0,6.4,G7
+E0947,Đỗ Thu Linh,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0780,99.0,72.7,49,51,36.7,7.3,G5
+E0948,Hồ Đức Thảo,Genesis Holding Office,Commercial,Marketing,Marketing Staff,Staff,1,E0309,85.9,82.8,69,51,30.5,2.9,G4
+E0949,Vũ Thu Trang,Genesis Green Manufacturing,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0612,64.5,68.7,54,69,49.8,1.5,G10
+E0950,Đặng Ngọc Tâm,Genesis Social Responsibility Platform,Corporate,Finance,Finance Specialist,Specialist,1,E0878,66.4,90.7,53,88,30.8,6.2,G3
+E0951,Trần Văn Nam,Genesis Human Resources Services,Corporate,Finance,Finance Staff,Staff,1,E0271,78.9,56.0,46,17,26.2,4.2,G7
+E0952,Vũ Đức Mai,Genesis Social Responsibility Platform,Corporate,HR,HR Staff,Staff,1,E0936,67.1,67.0,31,28,27.5,1.5,G5
+E0953,Vũ Ngọc Linh,Genesis Fund & Innovation,Manufacturing,Maintenance,Maintenance Staff,Staff,1,E0010,96.4,96.6,41,31,13.2,8.0,G2
+E0954,Hoàng Ngọc Dũng,Genesis Fund & Innovation,Commercial,Marketing,Marketing Staff,Staff,1,E0417,79.1,80.9,49,35,28.2,2.4,G3
+E0955,Vũ Văn Thảo,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0154,75.8,97.1,50,30,24.9,2.2,G10
+E0956,Vũ Minh Yến,Genesis Social Responsibility Platform,Commercial,Sales,Sales Senior Specialist,Senior Specialist,1,E0593,84.4,99.0,80,64,35.4,2.3,G2
+E0957,Phạm Ngọc Phúc,Genesis Social Responsibility Platform,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0906,76.5,68.4,68,68,45.8,5.3,G4
+E0958,Hoàng Đức Quân,Genesis Holding Office,Technology,IT,IT Supervisor,Supervisor,1,CEO,99.0,70.6,84,20,42.9,5.0,G4
+E0959,Vũ Minh Phúc,Genesis Holding Office,CSR,Sustainability,Sustainability Staff,Staff,1,E0050,89.1,75.5,69,48,35.3,1.2,G8
+E0960,Nguyễn Văn Sơn,Genesis Fund & Innovation,Technology,IT,IT Specialist,Specialist,1,E0150,86.8,68.6,95,81,48.6,0.7,G4
+E0961,Lê Thị Bình,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0369,82.4,89.1,73,33,35.9,2.0,G6
+E0962,Đỗ Ngọc Long,Genesis Human Resources Services,Manufacturing,Supply Chain,Supply Chain Supervisor,Supervisor,1,CEO,79.4,68.1,69,19,32.5,3.0,G2
+E0963,Hoàng Thị Nam,Genesis Human Resources Services,Manufacturing,Maintenance,Maintenance Supervisor,Supervisor,1,CEO,71.1,81.4,64,19,29.9,6.9,G6
+E0964,Đỗ Ngọc Thảo,Genesis Human Resources Services,Manufacturing,Quality,Quality Senior Specialist,Senior Specialist,1,E0330,90.7,75.7,26,64,30.6,1.5,G5
+E0965,Bùi Minh Tuấn,Genesis Social Responsibility Platform,Manufacturing,Production,Production Staff,Staff,1,E0315,69.9,70.3,35,10,29.4,5.6,G4
+E0966,Bùi Thu Việt,Genesis Fund & Innovation,Manufacturing,Quality,Quality Staff,Staff,1,E0330,81.5,55.4,20,52,39.3,3.5,G2
+E0967,Nguyễn Thị Minh,Genesis Fund & Innovation,Technology,IT,IT Specialist,Specialist,1,E0074,52.7,87.7,54,85,33.0,6.4,G9
+E0968,Hoàng Thu Bình,Genesis Holding Office,Technology,IT,IT Senior Specialist,Senior Specialist,1,E0738,93.4,60.5,52,72,43.1,3.9,G6
+E0969,Lê Thu Bình,Genesis Fund & Innovation,Commercial,Sales,Sales Staff,Staff,1,E0556,89.2,79.4,93,33,33.4,6.3,G8
+E0970,Phạm Thu Linh,Genesis Social Responsibility Platform,Corporate,HR,HR Supervisor,Supervisor,1,CEO,76.1,93.6,33,19,21.2,6.4,G3
+E0971,Đặng Ngọc Chi,Genesis Holding Office,Commercial,Sales,Sales Staff,Staff,1,E0946,94.5,55.4,69,16,33.8,3.5,G6
+E0972,Đặng Văn Hải,Genesis Green Manufacturing,Manufacturing,Production,Production Senior Specialist,Senior Specialist,1,E0482,68.0,36.5,69,81,69.0,2.5,G5
+E0973,Lê Ngọc Quân,Genesis Fund & Innovation,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0458,73.2,73.0,53,58,39.2,1.0,G8
+E0974,Vũ Thu Hải,Genesis Holding Office,Corporate,HR,HR Supervisor,Supervisor,1,CEO,65.2,78.3,73,49,42.1,0.5,G7
+E0975,Đỗ Gia Mai,Genesis Green Manufacturing,Manufacturing,Production,Production Staff,Staff,1,E0315,78.1,88.6,47,36,18.5,1.9,G2
+E0976,Lê Gia Hà,Genesis Holding Office,Manufacturing,Supply Chain,Supply Chain Specialist,Specialist,1,E0434,60.1,63.4,65,67,48.1,1.4,G9
+E0977,Trần Minh Chi,Genesis Social Responsibility Platform,Commercial,Sales,Sales Specialist,Specialist,1,E0089,69.6,70.9,54,96,39.9,2.2,G4
+E0978,Lê Minh Trang,Genesis Green Manufacturing,Corporate,Procurement,Procurement Staff,Staff,1,E0214,81.4,67.0,46,18,28.7,7.0,G5
+E0979,Đỗ Ngọc Tuấn,Genesis Holding Office,Technology,Automation,Automation Staff,Staff,1,E0034,89.8,87.2,69,54,27.3,1.1,G4
+E0980,Trần Ngọc Chi,Genesis Green Manufacturing,Executive,CEO Office,CEO Office Staff,Staff,1,E0432,88.8,84.2,66,16,32.7,1.4,G3
+E0981,Phạm Đức Minh,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0813,82.6,91.8,36,39,23.4,1.1,G6
+E0982,Đỗ Văn Hà,Genesis Fund & Innovation,Manufacturing,EHS,EHS Specialist,Specialist,1,E0280,81.5,52.7,55,55,51.1,6.4,G6
+E0983,Phạm Thị Minh,Genesis Social Responsibility Platform,Investment,Investment,Investment Staff,Staff,1,E0860,90.1,69.0,66,47,38.8,7.4,G8
+E0984,Lê Minh Mai,Genesis Green Manufacturing,CSR,Sustainability,Sustainability Supervisor,Supervisor,1,CEO,74.4,71.7,72,37,45.8,1.6,G6
+E0985,Trần Văn Yến,Genesis Green Manufacturing,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0984,67.4,78.7,42,98,37.7,2.2,G10
+E0986,Hoàng Gia Mai,Genesis Fund & Innovation,Manufacturing,Production,Production Staff,Staff,1,E0506,70.3,96.2,40,56,22.0,5.6,G7
+E0987,Nguyễn Đức Tâm,Genesis Human Resources Services,Commercial,Marketing,Marketing Staff,Staff,1,E0115,80.3,99.0,40,57,28.5,6.2,G8
+E0988,Bùi Minh Việt,Genesis Holding Office,Executive,Strategy,Strategy Staff,Staff,1,E0221,84.8,80.8,66,34,27.7,2.7,G2
+E0989,Vũ Thị Tâm,Genesis Holding Office,Technology,IT,IT Staff,Staff,1,E0665,57.7,66.7,92,62,53.0,3.6,G7
+E0990,Hoàng Gia Nam,Genesis Social Responsibility Platform,Executive,CEO Office,CEO Office Staff,Staff,1,E0432,67.1,71.5,51,26,32.3,4.5,G7
+E0991,Đỗ Gia Quân,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0472,91.2,80.5,69,79,43.7,1.4,G6
+E0992,Vũ Gia An,Genesis Holding Office,Manufacturing,Production,Production Senior Manager,Senior Manager,1,CEO,81.7,82.5,52,66,34.4,3.9,G2
+E0993,Hồ Ngọc Tuấn,Genesis Green Manufacturing,Corporate,Finance,Finance Staff,Staff,1,E0244,70.4,80.6,53,62,40.1,1.2,G6
+E0994,Trần Thu Phúc,Genesis Human Resources Services,Manufacturing,Production,Production Specialist,Specialist,1,E0928,74.2,61.5,55,75,46.4,1.9,G7
+E0995,Bùi Văn Trang,Genesis Holding Office,Manufacturing,Production,Production Manager,Manager,1,CEO,56.1,70.1,64,86,47.4,5.2,G3
+E0996,Vũ Thu Nam,Genesis Holding Office,Technology,IT,IT Specialist,Specialist,1,E0358,77.6,85.8,79,90,45.6,1.0,G7
+E0997,Nguyễn Thu Quân,Genesis Green Manufacturing,Commercial,Sales,Sales Specialist,Specialist,1,E0675,76.2,92.5,59,78,36.6,3.4,G7
+E0998,Nguyễn Minh Hải,Genesis Green Manufacturing,CSR,Sustainability,Sustainability Specialist,Specialist,1,E0043,76.3,70.4,49,83,46.2,5.4,G10
+E0999,Nguyễn Thu Việt,Genesis Human Resources Services,Commercial,Sales,Sales Specialist,Specialist,1,E0488,66.8,74.4,45,71,33.7,1.9,G10
+E1000,Lê Thu Việt,Genesis Social Responsibility Platform,Investment,Research,Research Supervisor,Supervisor,1,CEO,72.0,64.8,42,46,41.6,1.4,G4

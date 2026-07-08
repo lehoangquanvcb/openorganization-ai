@@ -1,0 +1,659 @@
+employee_id,employee,domain,skill,experience_years,project
+E0545,544,OD,Leadership Coaching,10.5,Organization Health Assessment
+E0545,544,Digital,AI Dashboard,2.4,Learning Academy
+E0545,544,OD,Change Management,1.9,AI Dashboard Roadmap
+E0516,515,Digital,AI Dashboard,6.0,Process Standardization
+E0194,193,Management,Financial Modeling,5.8,AI Dashboard Roadmap
+E0194,193,Management,KPI Cascade,1.5,Green Culture Program
+E0012,11,Management,KPI Cascade,3.7,ONA Pilot
+E0012,11,OD,Change Management,2.0,Green Culture Program
+E0280,279,OD,Succession Planning,4.7,KPI Cascade Program
+E0654,653,OD,Organization Design,10.9,AI Dashboard Roadmap
+E0654,653,OD,Succession Planning,1.7,Process Mining
+E0654,653,Digital,AI Dashboard,2.6,Organization Health Assessment
+E0644,643,Digital,AI Dashboard,1.2,Workforce Planning
+E0644,643,Management,KPI Cascade,1.9,Decision Center
+E0764,763,Digital,Python,2.1,AI Dashboard Roadmap
+E0199,198,Management,Performance Management,1.5,AI Dashboard Roadmap
+E0199,198,Digital,AI Dashboard,3.3,Data Governance
+E0722,721,OD,Succession Planning,0.5,AI Dashboard Roadmap
+E0722,721,OD,Organization Design,3.6,Process Mining
+E0237,236,Digital,Document Intelligence,2.2,Process Standardization
+E0237,236,Management,KPI Cascade,1.4,AI Dashboard Roadmap
+E0501,500,Digital,AI Dashboard,3.5,Learning Academy
+E0501,500,OD,Change Management,8.3,Multi-Agent Pilot
+E0501,500,Digital,Power BI,2.9,Green Culture Program
+E0568,567,Digital,Power BI,1.7,Workforce Planning
+E0980,979,Management,KPI Cascade,0.7,Leadership Pipeline
+E0980,979,Management,Financial Modeling,1.3,Organization Memory
+E0980,979,OD,Leadership Coaching,1.5,Workforce Planning
+E0970,969,OD,Succession Planning,2.6,KPI Cascade Program
+E0907,906,Management,Risk Management,4.6,Learning Academy
+E0061,60,Management,KPI Cascade,6.8,Green Culture Program
+E0061,60,Digital,Python,1.9,ONA Pilot
+E0061,60,Digital,Process Mining,3.1,Data Governance
+E0354,353,Management,KPI Cascade,1.6,Learning Academy
+E0354,353,Digital,AI Dashboard,6.8,Learning Academy
+E0354,353,OD,Change Management,8.8,Workforce Planning
+E0930,929,Digital,Document Intelligence,3.6,Process Standardization
+E0337,336,Digital,Python,2.2,Green Culture Program
+E0818,817,Digital,Process Mining,1.8,Data Governance
+E0284,283,OD,Succession Planning,3.1,Leadership Pipeline
+E0284,283,Management,Financial Modeling,1.8,Green Culture Program
+E0284,283,Digital,AI Dashboard,5.3,Learning Academy
+E0949,948,Digital,Python,0.7,Learning Academy
+E0949,948,Management,Financial Modeling,0.2,KPI Cascade Program
+E0596,595,Management,KPI Cascade,2.7,Organization Health Assessment
+E0738,737,Digital,Power BI,1.7,Workforce Planning
+E0738,737,Management,Risk Management,2.4,Workforce Planning
+E0948,947,Management,Risk Management,0.8,Data Governance
+E0948,947,Management,Financial Modeling,4.7,Organization Memory
+E0004,3,OD,Leadership Coaching,4.9,Process Mining
+E0004,3,Digital,AI Dashboard,3.1,Data Governance
+E0757,756,Digital,Power BI,2.5,Leadership Pipeline
+E0757,756,Management,KPI Cascade,2.9,Organization Health Assessment
+E0574,573,OD,Succession Planning,1.8,AI Dashboard Roadmap
+E0574,573,Digital,AI Dashboard,6.9,Organization Health Assessment
+E0945,944,OD,Change Management,3.0,Workforce Planning
+E0945,944,Management,Financial Modeling,6.1,Process Standardization
+E0945,944,Digital,Document Intelligence,6.2,KPI Cascade Program
+E0753,752,Management,Lean Process,0.5,Multi-Agent Pilot
+E0289,288,OD,Organization Design,0.4,KPI Cascade Program
+E0289,288,Management,KPI Cascade,3.7,Decision Center
+E0289,288,Management,Financial Modeling,1.3,Data Governance
+E0160,159,Digital,Power BI,2.7,Workforce Planning
+E0160,159,Management,Lean Process,5.9,Leadership Pipeline
+E0612,611,Digital,Process Mining,0.8,Organization Memory
+E0348,347,Management,KPI Cascade,3.3,Workforce Planning
+E0348,347,OD,Organization Design,1.9,Decision Center
+E0848,847,Management,KPI Cascade,6.7,Leadership Pipeline
+E0848,847,OD,Succession Planning,5.5,Leadership Pipeline
+E0502,501,OD,Leadership Coaching,5.7,Process Standardization
+E0502,501,Digital,Python,2.7,Process Mining
+E0332,331,Digital,Power BI,4.5,Document Intelligence
+E0820,819,OD,Organization Design,2.3,Document Intelligence
+E0820,819,Management,KPI Cascade,2.3,Document Intelligence
+E0820,819,Digital,Power BI,2.3,Leadership Pipeline
+E0362,361,Digital,Power BI,0.6,Data Governance
+E0362,361,Management,Lean Process,6.1,AI Dashboard Roadmap
+E0471,470,Management,Lean Process,1.1,ONA Pilot
+E0471,470,Management,Financial Modeling,1.2,Learning Academy
+E0471,470,Digital,AI Dashboard,0.2,AI Dashboard Roadmap
+E0425,424,OD,Change Management,4.3,Process Mining
+E0425,424,Digital,Document Intelligence,2.6,Decision Center
+E0865,864,OD,Organization Design,2.1,Data Governance
+E0865,864,OD,Succession Planning,0.6,Multi-Agent Pilot
+E0865,864,Management,KPI Cascade,4.0,Document Intelligence
+E0683,682,Management,Lean Process,3.7,Multi-Agent Pilot
+E0683,682,Management,Performance Management,3.6,ONA Pilot
+E0683,682,OD,Change Management,4.5,Organization Memory
+E0910,909,OD,Leadership Coaching,4.5,Process Mining
+E0910,909,Management,Risk Management,1.0,Workforce Planning
+E0910,909,Management,Lean Process,4.5,Process Mining
+E0073,72,OD,Leadership Coaching,1.3,Learning Academy
+E0073,72,Management,Financial Modeling,1.3,Leadership Pipeline
+E0073,72,OD,Organization Design,1.0,Data Governance
+E0814,813,Digital,AI Dashboard,4.2,Learning Academy
+E0962,961,Management,Performance Management,0.8,Process Standardization
+E0962,961,Management,Financial Modeling,2.0,Data Governance
+E0630,629,Management,Performance Management,4.6,Multi-Agent Pilot
+E0317,316,OD,Leadership Coaching,1.4,ONA Pilot
+E0317,316,OD,Succession Planning,2.4,Organization Health Assessment
+E0317,316,Digital,AI Dashboard,7.1,Learning Academy
+E0024,23,Digital,Power BI,2.2,Learning Academy
+E0795,794,Management,KPI Cascade,1.5,Workforce Planning
+E0795,794,Digital,AI Dashboard,5.5,Workforce Planning
+E0287,286,OD,Leadership Coaching,7.1,Green Culture Program
+E0287,286,Digital,AI Dashboard,5.6,Document Intelligence
+E0213,212,Digital,AI Dashboard,2.6,Workforce Planning
+E0760,759,Management,KPI Cascade,5.0,Multi-Agent Pilot
+E0760,759,Management,Risk Management,7.2,Green Culture Program
+E0760,759,Management,Financial Modeling,8.4,ONA Pilot
+E0834,833,Management,Lean Process,3.6,Data Governance
+E0853,852,Digital,AI Dashboard,4.8,KPI Cascade Program
+E0853,852,OD,Leadership Coaching,0.6,ONA Pilot
+E0531,530,Management,Risk Management,3.9,Process Mining
+E0531,530,Digital,AI Dashboard,0.5,Process Standardization
+E0566,565,Management,Lean Process,4.3,ONA Pilot
+E0566,565,OD,Leadership Coaching,2.2,Process Mining
+E0566,565,Management,Performance Management,5.7,Leadership Pipeline
+E0890,889,Management,Risk Management,0.9,Multi-Agent Pilot
+E0034,33,Digital,Power BI,4.5,Process Standardization
+E0448,447,Digital,Process Mining,7.1,Document Intelligence
+E0448,447,Management,Financial Modeling,0.8,Learning Academy
+E0556,555,Management,KPI Cascade,4.6,Decision Center
+E0556,555,OD,Organization Design,4.7,Process Mining
+E0665,664,Management,Risk Management,1.2,AI Dashboard Roadmap
+E0665,664,Management,KPI Cascade,1.0,Green Culture Program
+E0665,664,Digital,AI Dashboard,3.0,ONA Pilot
+E0804,803,Management,Performance Management,1.6,Document Intelligence
+E0804,803,Management,Risk Management,2.5,Workforce Planning
+E0804,803,OD,Change Management,0.4,Multi-Agent Pilot
+E0209,208,OD,Change Management,5.6,ONA Pilot
+E0209,208,Management,Lean Process,2.4,Data Governance
+E0648,647,Management,Performance Management,0.3,Multi-Agent Pilot
+E0132,131,OD,Succession Planning,2.3,Data Governance
+E0132,131,OD,Change Management,1.0,KPI Cascade Program
+E0132,131,Digital,AI Dashboard,2.4,Document Intelligence
+E0527,526,Management,Risk Management,1.9,Learning Academy
+E0527,526,Management,KPI Cascade,3.1,Decision Center
+E0842,841,Digital,Process Mining,1.4,Data Governance
+E0445,444,OD,Change Management,3.9,Data Governance
+E0445,444,Digital,Document Intelligence,2.2,Process Mining
+E0815,814,Digital,Process Mining,2.4,Process Mining
+E0594,593,OD,Leadership Coaching,3.0,Decision Center
+E0594,593,Management,Risk Management,7.9,Multi-Agent Pilot
+E0594,593,Management,Financial Modeling,4.5,Learning Academy
+E0439,438,Management,Lean Process,0.8,Leadership Pipeline
+E0439,438,OD,Leadership Coaching,4.9,Green Culture Program
+E0439,438,Management,Performance Management,4.3,Green Culture Program
+E0623,622,OD,Organization Design,4.6,Organization Memory
+E0973,972,Management,Financial Modeling,7.6,Multi-Agent Pilot
+E0029,28,Digital,Power BI,5.9,AI Dashboard Roadmap
+E0029,28,Management,Financial Modeling,1.6,Document Intelligence
+E0029,28,OD,Leadership Coaching,1.7,Data Governance
+E0446,445,Digital,Process Mining,4.9,Learning Academy
+E0446,445,Management,Lean Process,8.0,Organization Health Assessment
+E0863,862,Digital,Power BI,2.6,Process Mining
+E0863,862,Management,KPI Cascade,3.9,Process Standardization
+E0259,258,Management,KPI Cascade,2.5,Process Standardization
+E0259,258,Management,Lean Process,2.1,Decision Center
+E0167,166,OD,Leadership Coaching,0.7,Data Governance
+E0831,830,Digital,AI Dashboard,4.5,Decision Center
+E0831,830,Digital,Power BI,0.6,Organization Memory
+E0994,993,OD,Organization Design,1.6,Data Governance
+E0994,993,Management,Performance Management,2.4,Document Intelligence
+E0592,591,Management,Financial Modeling,1.5,ONA Pilot
+E0592,591,OD,Organization Design,3.5,Green Culture Program
+E0542,541,Digital,Document Intelligence,7.0,KPI Cascade Program
+E0542,541,Digital,Python,4.4,Decision Center
+E0542,541,Management,Risk Management,6.4,Organization Health Assessment
+E0393,392,OD,Organization Design,0.5,AI Dashboard Roadmap
+E0393,392,Digital,Python,7.8,Multi-Agent Pilot
+E0393,392,Management,KPI Cascade,4.9,KPI Cascade Program
+E0554,553,OD,Leadership Coaching,3.3,Organization Health Assessment
+E0013,12,Management,KPI Cascade,6.4,Organization Health Assessment
+E0711,710,OD,Organization Design,3.1,Data Governance
+E0939,938,Digital,Document Intelligence,1.2,Green Culture Program
+E0939,938,Digital,Power BI,0.8,ONA Pilot
+E0939,938,Management,KPI Cascade,11.0,Decision Center
+E0801,800,OD,Succession Planning,4.5,Workforce Planning
+E0801,800,Digital,AI Dashboard,3.5,Learning Academy
+E0196,195,Management,KPI Cascade,6.0,Organization Memory
+E0196,195,OD,Leadership Coaching,2.0,KPI Cascade Program
+E0196,195,Management,Lean Process,4.4,ONA Pilot
+E0313,312,Digital,Power BI,1.3,Organization Health Assessment
+E0313,312,OD,Organization Design,1.9,Multi-Agent Pilot
+E0313,312,Management,Risk Management,3.3,Organization Memory
+E0589,588,Management,Lean Process,1.2,Leadership Pipeline
+E0589,588,OD,Succession Planning,1.6,Workforce Planning
+E0134,133,Digital,Power BI,3.6,Data Governance
+E0965,964,Management,Financial Modeling,7.1,Leadership Pipeline
+E0965,964,Management,KPI Cascade,2.7,Data Governance
+E0965,964,Management,Lean Process,2.3,Multi-Agent Pilot
+E0903,902,Management,Financial Modeling,1.6,Document Intelligence
+E0903,902,OD,Succession Planning,2.2,Document Intelligence
+E0578,577,OD,Change Management,1.8,Leadership Pipeline
+E0578,577,Digital,Process Mining,1.1,Multi-Agent Pilot
+E0578,577,OD,Succession Planning,4.5,Decision Center
+E0177,176,Digital,Document Intelligence,0.7,Leadership Pipeline
+E0177,176,Management,KPI Cascade,0.7,ONA Pilot
+E0177,176,Digital,AI Dashboard,1.2,Process Standardization
+E0442,441,OD,Change Management,3.2,Document Intelligence
+E0442,441,Digital,Power BI,4.9,ONA Pilot
+E0442,441,Management,Lean Process,1.1,ONA Pilot
+E0107,106,OD,Succession Planning,3.1,Learning Academy
+E0107,106,Digital,Document Intelligence,4.1,ONA Pilot
+E0107,106,Management,Lean Process,2.1,Decision Center
+E0538,537,Digital,AI Dashboard,2.3,Learning Academy
+E0538,537,OD,Change Management,0.6,Decision Center
+E0538,537,OD,Organization Design,5.1,Workforce Planning
+E0202,201,Digital,AI Dashboard,5.5,Multi-Agent Pilot
+E0202,201,OD,Organization Design,2.0,Green Culture Program
+E0699,698,OD,Organization Design,2.7,Organization Memory
+E0699,698,OD,Leadership Coaching,3.4,Data Governance
+E0699,698,Management,Performance Management,4.7,Organization Health Assessment
+E0371,370,Management,Financial Modeling,3.7,Green Culture Program
+E0371,370,Digital,Process Mining,1.5,Multi-Agent Pilot
+E0371,370,Digital,AI Dashboard,3.8,Organization Health Assessment
+E0601,600,Digital,Power BI,0.7,Data Governance
+E0601,600,Digital,Python,4.8,Organization Memory
+E0405,404,Digital,AI Dashboard,2.1,Data Governance
+E0208,207,Management,Lean Process,3.0,Workforce Planning
+E0208,207,Digital,Power BI,2.4,ONA Pilot
+E0149,148,Management,Performance Management,5.1,Workforce Planning
+E0367,366,Digital,Process Mining,1.4,Workforce Planning
+E0367,366,Digital,Power BI,1.6,Organization Health Assessment
+E0367,366,OD,Change Management,1.2,ONA Pilot
+E0310,309,Digital,Power BI,1.4,AI Dashboard Roadmap
+E0310,309,OD,Succession Planning,8.5,AI Dashboard Roadmap
+E0310,309,OD,Change Management,1.0,Decision Center
+E0514,513,OD,Organization Design,3.4,Leadership Pipeline
+E0514,513,Digital,Document Intelligence,0.6,Workforce Planning
+E0386,385,Digital,AI Dashboard,1.8,Organization Health Assessment
+E0386,385,Management,Risk Management,8.7,Multi-Agent Pilot
+E0427,426,Digital,AI Dashboard,0.6,Workforce Planning
+E0427,426,OD,Change Management,2.1,Process Standardization
+E0972,971,Digital,AI Dashboard,0.6,AI Dashboard Roadmap
+E0357,356,Management,Risk Management,5.6,Process Standardization
+E0357,356,OD,Leadership Coaching,1.4,Organization Health Assessment
+E0036,35,OD,Leadership Coaching,2.7,Data Governance
+E0615,614,Digital,Python,1.9,Organization Health Assessment
+E0421,420,OD,Leadership Coaching,7.9,Leadership Pipeline
+E0421,420,Management,Risk Management,3.1,KPI Cascade Program
+E0122,121,Management,Lean Process,0.8,Organization Health Assessment
+E0122,121,Management,KPI Cascade,1.8,Decision Center
+E0558,557,Management,Lean Process,5.5,KPI Cascade Program
+E0558,557,OD,Leadership Coaching,1.0,Organization Health Assessment
+E0361,360,Digital,AI Dashboard,5.2,Green Culture Program
+E0361,360,Management,Performance Management,0.5,Data Governance
+E0361,360,Digital,Power BI,0.5,Organization Memory
+E0353,352,Digital,Document Intelligence,3.7,Organization Memory
+E0993,992,Management,KPI Cascade,0.6,KPI Cascade Program
+E0350,349,Management,Lean Process,7.1,Organization Memory
+E0300,299,Management,Performance Management,3.8,Document Intelligence
+E0300,299,OD,Change Management,0.7,Decision Center
+E0300,299,Digital,AI Dashboard,1.7,Workforce Planning
+E0270,269,OD,Succession Planning,0.9,Decision Center
+E0270,269,Management,Lean Process,8.7,Organization Memory
+E0270,269,Digital,AI Dashboard,1.6,Learning Academy
+E0726,725,Management,Financial Modeling,1.3,Data Governance
+E0726,725,Digital,Document Intelligence,6.4,Process Standardization
+E0726,725,OD,Succession Planning,3.7,AI Dashboard Roadmap
+E0060,59,Management,Lean Process,4.1,AI Dashboard Roadmap
+E0424,423,OD,Leadership Coaching,8.8,Workforce Planning
+E0424,423,Digital,AI Dashboard,3.3,Organization Health Assessment
+E0251,250,OD,Succession Planning,1.7,KPI Cascade Program
+E0251,250,OD,Change Management,2.3,Organization Memory
+E0251,250,Management,Financial Modeling,2.0,Organization Health Assessment
+E0486,485,Management,KPI Cascade,3.6,Process Mining
+E0486,485,Digital,Process Mining,1.2,Document Intelligence
+E0486,485,Management,Performance Management,3.2,Leadership Pipeline
+E0541,540,OD,Succession Planning,0.5,Document Intelligence
+E0541,540,Digital,AI Dashboard,1.7,Organization Health Assessment
+E0676,675,Management,Lean Process,1.3,Data Governance
+E0676,675,Digital,Power BI,1.3,Organization Health Assessment
+E0676,675,OD,Leadership Coaching,2.4,Learning Academy
+E0718,717,Digital,Process Mining,5.7,AI Dashboard Roadmap
+E0718,717,Management,Financial Modeling,2.3,Process Mining
+E0204,203,Digital,Power BI,1.6,KPI Cascade Program
+E0204,203,OD,Succession Planning,3.4,Process Mining
+E0440,439,Management,Performance Management,6.8,Decision Center
+E0969,968,Digital,Python,1.7,Workforce Planning
+E0969,968,OD,Organization Design,1.8,AI Dashboard Roadmap
+E0969,968,Digital,Power BI,4.6,Process Mining
+E0870,869,Management,Financial Modeling,5.7,Multi-Agent Pilot
+E0870,869,Digital,AI Dashboard,0.4,Multi-Agent Pilot
+E0098,97,OD,Organization Design,4.9,Organization Health Assessment
+E0098,97,Digital,Power BI,0.8,Multi-Agent Pilot
+E0929,928,Management,KPI Cascade,4.7,Leadership Pipeline
+E0396,395,Management,Lean Process,2.4,Green Culture Program
+E0396,395,Management,Risk Management,1.2,AI Dashboard Roadmap
+E0396,395,OD,Succession Planning,3.0,AI Dashboard Roadmap
+E0579,578,Management,Performance Management,3.8,Leadership Pipeline
+E0247,246,Management,Lean Process,2.8,Learning Academy
+E0636,635,OD,Leadership Coaching,2.5,AI Dashboard Roadmap
+E0636,635,OD,Organization Design,0.7,Green Culture Program
+E0473,472,OD,Organization Design,1.7,AI Dashboard Roadmap
+E0620,619,Management,Risk Management,1.5,Green Culture Program
+E0620,619,Management,KPI Cascade,1.3,Workforce Planning
+E0620,619,Digital,AI Dashboard,1.0,KPI Cascade Program
+E0235,234,Digital,Document Intelligence,0.6,Green Culture Program
+E0717,716,OD,Leadership Coaching,1.5,Process Mining
+E0565,564,Digital,Process Mining,3.8,Workforce Planning
+E0565,564,Digital,Document Intelligence,1.3,Process Standardization
+E0565,564,OD,Organization Design,10.0,Workforce Planning
+E0952,951,Digital,Document Intelligence,4.4,Leadership Pipeline
+E0437,436,OD,Organization Design,3.8,Data Governance
+E0437,436,Management,KPI Cascade,3.5,Green Culture Program
+E0437,436,Digital,Python,3.8,Process Mining
+E0581,580,OD,Change Management,1.6,Green Culture Program
+E0581,580,OD,Organization Design,2.0,Workforce Planning
+E0581,580,Management,KPI Cascade,4.7,Multi-Agent Pilot
+E0483,482,Digital,Power BI,3.8,AI Dashboard Roadmap
+E0483,482,Management,Risk Management,3.8,Document Intelligence
+E0105,104,Digital,Python,2.1,Data Governance
+E0105,104,Digital,Process Mining,1.8,Workforce Planning
+E0864,863,Digital,Python,2.0,Organization Health Assessment
+E0560,559,Digital,Process Mining,1.5,Workforce Planning
+E0560,559,OD,Succession Planning,4.3,Learning Academy
+E0560,559,Digital,Python,1.7,Leadership Pipeline
+E0127,126,OD,Organization Design,1.7,Organization Health Assessment
+E0127,126,Digital,Document Intelligence,2.0,AI Dashboard Roadmap
+E0127,126,Digital,AI Dashboard,4.0,Workforce Planning
+E0832,831,Management,KPI Cascade,4.0,Workforce Planning
+E0513,512,Management,Risk Management,5.3,Document Intelligence
+E0513,512,Management,Financial Modeling,6.1,Organization Health Assessment
+E0513,512,OD,Change Management,1.8,Decision Center
+E0600,599,Digital,Document Intelligence,0.5,Workforce Planning
+E0058,57,Management,Lean Process,2.9,KPI Cascade Program
+E0058,57,Management,Performance Management,2.3,Data Governance
+E0806,805,OD,Organization Design,4.1,Workforce Planning
+E0806,805,Digital,Document Intelligence,1.2,Organization Health Assessment
+E0966,965,Digital,Process Mining,5.5,Learning Academy
+E0754,753,OD,Leadership Coaching,1.6,Organization Memory
+E0344,343,Digital,Power BI,6.4,Organization Health Assessment
+E0344,343,Management,Lean Process,1.4,Multi-Agent Pilot
+E0344,343,Management,Risk Management,2.4,Process Mining
+E0932,931,OD,Change Management,9.7,KPI Cascade Program
+E0787,786,Digital,Document Intelligence,2.5,AI Dashboard Roadmap
+E0268,267,Management,Performance Management,0.2,Leadership Pipeline
+E0268,267,Management,Financial Modeling,1.4,Organization Memory
+E0268,267,OD,Change Management,0.6,Organization Memory
+E0506,505,Management,Lean Process,4.2,Process Standardization
+E0506,505,Management,Risk Management,3.3,Data Governance
+E0506,505,OD,Change Management,4.4,AI Dashboard Roadmap
+E0301,300,OD,Organization Design,5.0,Data Governance
+E0301,300,Management,KPI Cascade,2.3,Data Governance
+E0301,300,OD,Leadership Coaching,1.0,KPI Cascade Program
+E0231,230,Management,Financial Modeling,1.3,KPI Cascade Program
+E0724,723,Management,Performance Management,2.4,Document Intelligence
+E0724,723,Management,KPI Cascade,5.0,Process Mining
+E0696,695,OD,Change Management,2.8,Workforce Planning
+E0603,602,OD,Organization Design,1.4,Data Governance
+E0603,602,Management,Financial Modeling,0.5,AI Dashboard Roadmap
+E0794,793,OD,Leadership Coaching,2.5,Document Intelligence
+E0794,793,Management,KPI Cascade,1.0,KPI Cascade Program
+E0139,138,OD,Organization Design,3.6,Green Culture Program
+E0950,949,OD,Leadership Coaching,3.0,ONA Pilot
+E0950,949,Management,Financial Modeling,0.9,Learning Academy
+E0950,949,Management,KPI Cascade,1.5,Multi-Agent Pilot
+E0940,939,OD,Succession Planning,1.8,Workforce Planning
+E0940,939,Management,Financial Modeling,0.5,ONA Pilot
+E0940,939,OD,Leadership Coaching,5.1,Process Standardization
+E0525,524,Digital,Document Intelligence,3.0,Process Mining
+E0525,524,Digital,Power BI,13.6,ONA Pilot
+E0768,767,Management,Risk Management,3.2,Multi-Agent Pilot
+E0768,767,Digital,Document Intelligence,3.3,Learning Academy
+E0768,767,Digital,Process Mining,1.8,Multi-Agent Pilot
+E0694,693,OD,Succession Planning,1.9,ONA Pilot
+E0694,693,Digital,Python,2.1,KPI Cascade Program
+E0694,693,Management,KPI Cascade,0.7,Workforce Planning
+E0366,365,Management,KPI Cascade,2.1,Multi-Agent Pilot
+E0366,365,Digital,Process Mining,0.9,KPI Cascade Program
+E0880,879,Digital,AI Dashboard,2.9,Document Intelligence
+E0229,228,Management,Risk Management,2.9,Decision Center
+E0470,469,Management,Risk Management,3.3,Organization Health Assessment
+E0470,469,OD,Leadership Coaching,8.8,Document Intelligence
+E0470,469,Management,KPI Cascade,4.0,ONA Pilot
+E0245,244,Management,Performance Management,2.7,ONA Pilot
+E0245,244,OD,Change Management,7.0,Process Mining
+E0245,244,Management,Risk Management,3.7,Process Mining
+E0621,620,Digital,Document Intelligence,5.7,KPI Cascade Program
+E0276,275,Digital,Process Mining,0.7,Data Governance
+E0276,275,Digital,AI Dashboard,0.5,AI Dashboard Roadmap
+E0667,666,Digital,AI Dashboard,1.9,KPI Cascade Program
+E0667,666,OD,Change Management,4.8,AI Dashboard Roadmap
+E0667,666,OD,Organization Design,2.9,Process Mining
+E0118,117,Management,Performance Management,0.7,Decision Center
+E0118,117,Management,Financial Modeling,3.2,Decision Center
+E0118,117,Management,Risk Management,1.2,AI Dashboard Roadmap
+E0248,247,Management,Risk Management,2.5,Data Governance
+E0248,247,Digital,AI Dashboard,3.6,Process Standardization
+E0323,322,OD,Organization Design,3.9,ONA Pilot
+E0459,458,OD,Organization Design,0.7,Organization Memory
+E0459,458,OD,Leadership Coaching,4.5,AI Dashboard Roadmap
+E0490,489,OD,Leadership Coaching,5.9,Learning Academy
+E0861,860,Digital,Process Mining,2.4,Process Standardization
+E0380,379,Digital,Process Mining,0.7,Decision Center
+E0380,379,OD,Succession Planning,2.3,Organization Health Assessment
+E0897,896,Management,Risk Management,2.4,Data Governance
+E0810,809,OD,Leadership Coaching,3.1,KPI Cascade Program
+E0166,165,Management,Lean Process,4.2,Leadership Pipeline
+E0041,40,Digital,Power BI,2.1,Multi-Agent Pilot
+E0041,40,Digital,Python,1.3,Organization Health Assessment
+E0978,977,Digital,Process Mining,2.2,Data Governance
+E0978,977,Digital,AI Dashboard,2.7,KPI Cascade Program
+E0830,829,Digital,Process Mining,1.6,Leadership Pipeline
+E0830,829,OD,Change Management,5.0,Leadership Pipeline
+E0830,829,Digital,Python,3.4,KPI Cascade Program
+E0974,973,OD,Change Management,4.7,Workforce Planning
+E0875,874,OD,Leadership Coaching,4.8,ONA Pilot
+E0875,874,OD,Succession Planning,7.9,Multi-Agent Pilot
+E0476,475,Management,KPI Cascade,4.3,Organization Health Assessment
+E0476,475,Digital,Document Intelligence,10.5,Green Culture Program
+E0476,475,Management,Risk Management,2.3,KPI Cascade Program
+E0840,839,Digital,Document Intelligence,2.5,Workforce Planning
+E0840,839,Management,Risk Management,0.8,Leadership Pipeline
+E0840,839,Digital,Process Mining,5.2,AI Dashboard Roadmap
+E0666,665,OD,Leadership Coaching,1.4,Document Intelligence
+E0666,665,Management,Financial Modeling,6.5,Multi-Agent Pilot
+E0666,665,Management,Risk Management,2.0,Decision Center
+E0200,199,OD,Organization Design,1.2,KPI Cascade Program
+E0200,199,Management,Lean Process,11.0,Process Standardization
+E0200,199,Management,Financial Modeling,5.6,Workforce Planning
+E0197,196,OD,Change Management,0.5,Data Governance
+E0197,196,Management,Risk Management,5.1,Decision Center
+E0197,196,Management,KPI Cascade,1.7,Multi-Agent Pilot
+E0778,777,OD,Organization Design,1.6,Green Culture Program
+E0072,71,Management,KPI Cascade,3.1,Green Culture Program
+E0072,71,OD,Succession Planning,2.9,Learning Academy
+E0072,71,Digital,AI Dashboard,2.7,Leadership Pipeline
+E0163,162,Digital,AI Dashboard,11.6,Decision Center
+E0163,162,Management,Lean Process,5.0,Learning Academy
+E0154,153,Management,Lean Process,1.4,Organization Health Assessment
+E0154,153,OD,Organization Design,5.1,Learning Academy
+E0687,686,Digital,Document Intelligence,2.6,Multi-Agent Pilot
+E0495,494,Digital,Document Intelligence,5.0,Learning Academy
+E0495,494,OD,Organization Design,7.7,Learning Academy
+E0885,884,OD,Organization Design,0.7,Document Intelligence
+E0885,884,Management,Financial Modeling,5.4,Decision Center
+E0885,884,OD,Leadership Coaching,2.7,Organization Memory
+E0733,732,OD,Organization Design,5.0,KPI Cascade Program
+E0733,732,Management,Risk Management,0.8,Learning Academy
+E0733,732,Digital,Process Mining,2.1,Leadership Pipeline
+E0782,781,Digital,AI Dashboard,0.9,Process Mining
+E0782,781,OD,Organization Design,2.4,Leadership Pipeline
+E0782,781,Digital,Document Intelligence,4.1,Organization Memory
+E0335,334,OD,Leadership Coaching,9.3,Leadership Pipeline
+E0335,334,OD,Succession Planning,2.2,Learning Academy
+E0335,334,Management,Lean Process,5.4,Organization Health Assessment
+E0038,37,Digital,Power BI,2.5,Organization Health Assessment
+E0685,684,Digital,Document Intelligence,7.1,Green Culture Program
+E0685,684,Management,Lean Process,2.0,Process Standardization
+E0457,456,OD,Change Management,1.6,Green Culture Program
+E0457,456,Management,Risk Management,1.9,KPI Cascade Program
+E0457,456,OD,Succession Planning,5.3,Green Culture Program
+E0152,151,Digital,Python,0.6,Leadership Pipeline
+E0294,293,OD,Leadership Coaching,0.6,Multi-Agent Pilot
+E0294,293,Management,Lean Process,3.7,Multi-Agent Pilot
+E0294,293,Digital,AI Dashboard,11.9,ONA Pilot
+E0085,84,OD,Organization Design,3.0,Decision Center
+E0085,84,Digital,AI Dashboard,7.4,Process Mining
+E0878,877,Digital,Power BI,0.7,KPI Cascade Program
+E0878,877,Management,Lean Process,3.2,ONA Pilot
+E0878,877,Digital,Document Intelligence,2.1,KPI Cascade Program
+E0669,668,Management,Financial Modeling,1.5,Process Standardization
+E0669,668,Digital,Python,0.9,KPI Cascade Program
+E0669,668,Management,Lean Process,3.0,KPI Cascade Program
+E0624,623,OD,Succession Planning,1.2,Green Culture Program
+E0624,623,Management,KPI Cascade,7.6,Organization Health Assessment
+E0628,627,Digital,AI Dashboard,4.8,Data Governance
+E0628,627,Management,Risk Management,1.5,Process Mining
+E0124,123,OD,Leadership Coaching,2.2,Process Mining
+E0124,123,Management,Financial Modeling,0.3,Learning Academy
+E0749,748,Digital,Process Mining,0.2,AI Dashboard Roadmap
+E0906,905,Management,KPI Cascade,2.2,AI Dashboard Roadmap
+E0356,355,Management,Risk Management,2.8,Organization Memory
+E0109,108,OD,Succession Planning,1.9,Leadership Pipeline
+E0109,108,Digital,Process Mining,1.1,Decision Center
+E0400,399,Management,Risk Management,2.2,ONA Pilot
+E0298,297,OD,Succession Planning,6.6,Multi-Agent Pilot
+E0298,297,Management,Risk Management,1.2,Organization Health Assessment
+E0298,297,Digital,Python,0.8,Organization Memory
+E0342,341,Digital,Power BI,4.0,Learning Academy
+E0342,341,Digital,Process Mining,3.6,Learning Academy
+E0342,341,OD,Leadership Coaching,2.9,Document Intelligence
+E0595,594,OD,Organization Design,1.6,Workforce Planning
+E0595,594,Digital,Document Intelligence,0.4,Organization Memory
+E0595,594,OD,Leadership Coaching,2.7,Process Standardization
+E0719,718,Digital,Process Mining,1.5,Organization Health Assessment
+E0719,718,Management,Performance Management,1.9,Multi-Agent Pilot
+E0955,954,Digital,Power BI,2.2,Organization Memory
+E0407,406,Digital,AI Dashboard,5.5,KPI Cascade Program
+E0576,575,OD,Organization Design,5.2,Process Mining
+E0576,575,Digital,Process Mining,2.6,Data Governance
+E0576,575,Management,Risk Management,6.8,KPI Cascade Program
+E0735,734,Management,Financial Modeling,1.5,Decision Center
+E0735,734,OD,Change Management,4.1,Process Mining
+E0915,914,Digital,Document Intelligence,1.5,Data Governance
+E0736,735,Digital,Process Mining,3.0,Data Governance
+E0736,735,Digital,Document Intelligence,7.8,KPI Cascade Program
+E0736,735,Management,Performance Management,1.8,Organization Health Assessment
+E0417,416,Digital,Power BI,3.3,Learning Academy
+E0417,416,Digital,Python,5.8,Leadership Pipeline
+E0602,601,OD,Change Management,2.3,Multi-Agent Pilot
+E0602,601,Management,Financial Modeling,0.4,Green Culture Program
+E0602,601,OD,Organization Design,11.5,Document Intelligence
+E0296,295,OD,Organization Design,2.1,Document Intelligence
+E0296,295,Digital,AI Dashboard,0.4,Data Governance
+E0296,295,Digital,Power BI,5.7,Leadership Pipeline
+E0468,467,Management,Financial Modeling,0.8,Leadership Pipeline
+E0689,688,Digital,AI Dashboard,5.5,Document Intelligence
+E0689,688,OD,Organization Design,3.1,Workforce Planning
+E0179,178,Digital,Power BI,1.1,ONA Pilot
+E0179,178,Management,Lean Process,2.6,Learning Academy
+E0179,178,OD,Leadership Coaching,4.8,Organization Memory
+E0499,498,OD,Succession Planning,2.7,Learning Academy
+E0990,989,Management,KPI Cascade,5.3,Decision Center
+E0990,989,Digital,AI Dashboard,2.0,Leadership Pipeline
+E0649,648,Digital,AI Dashboard,4.7,Organization Health Assessment
+E0946,945,OD,Change Management,1.7,AI Dashboard Roadmap
+E0282,281,OD,Leadership Coaching,0.8,Organization Health Assessment
+E0282,281,OD,Succession Planning,2.2,AI Dashboard Roadmap
+E0790,789,Digital,Document Intelligence,0.8,Decision Center
+E0790,789,OD,Succession Planning,1.0,Process Mining
+E0140,139,Management,KPI Cascade,7.4,Process Mining
+E0140,139,OD,Succession Planning,0.3,Leadership Pipeline
+E0140,139,Digital,Document Intelligence,2.5,Learning Academy
+E0852,851,Management,Lean Process,1.7,Process Standardization
+E0852,851,Digital,Document Intelligence,1.7,Workforce Planning
+E0852,851,OD,Succession Planning,7.0,Learning Academy
+E0957,956,Management,Financial Modeling,3.4,Decision Center
+E0957,956,Management,KPI Cascade,6.7,Document Intelligence
+E0008,7,OD,Change Management,1.3,Organization Health Assessment
+E0008,7,OD,Leadership Coaching,3.2,Organization Health Assessment
+E0900,899,OD,Succession Planning,0.7,Document Intelligence
+E0900,899,OD,Change Management,4.1,Workforce Planning
+E0613,612,Management,Lean Process,1.8,Document Intelligence
+E0613,612,Digital,Process Mining,10.1,Organization Health Assessment
+E0613,612,Management,Performance Management,3.3,Process Mining
+E0826,825,Management,Risk Management,5.1,Decision Center
+E0826,825,Management,Performance Management,1.2,Document Intelligence
+E0662,661,Management,Performance Management,1.6,ONA Pilot
+E0662,661,OD,Change Management,5.0,KPI Cascade Program
+E0662,661,Management,Financial Modeling,2.7,KPI Cascade Program
+E0355,354,OD,Change Management,0.6,Data Governance
+E0355,354,OD,Leadership Coaching,1.5,Document Intelligence
+E0359,358,Management,Performance Management,4.5,Workforce Planning
+E0510,509,Management,Lean Process,6.9,KPI Cascade Program
+E0510,509,Digital,Power BI,5.9,KPI Cascade Program
+E0510,509,OD,Change Management,2.0,Organization Memory
+E0452,451,OD,Change Management,1.5,Data Governance
+E0435,434,Management,Lean Process,0.9,Process Mining
+E0435,434,Management,Financial Modeling,2.4,Document Intelligence
+E0435,434,OD,Organization Design,1.4,Learning Academy
+E0847,846,Management,Performance Management,1.4,Process Mining
+E0847,846,OD,Organization Design,4.5,Decision Center
+E0792,791,Digital,Document Intelligence,1.6,Decision Center
+E0792,791,Management,Financial Modeling,4.9,Green Culture Program
+E0792,791,OD,Succession Planning,2.8,Organization Memory
+E0180,179,Digital,Process Mining,0.5,KPI Cascade Program
+E0823,822,Management,KPI Cascade,1.2,Data Governance
+E0043,42,Management,KPI Cascade,1.1,Process Mining
+E0043,42,Digital,Power BI,2.8,Document Intelligence
+E0043,42,Management,Lean Process,4.9,Process Mining
+E0996,995,Digital,AI Dashboard,4.1,Multi-Agent Pilot
+E0996,995,Digital,Power BI,0.2,Data Governance
+E0996,995,Management,KPI Cascade,3.7,Workforce Planning
+E0533,532,Digital,Python,1.5,ONA Pilot
+E0997,996,OD,Leadership Coaching,2.0,KPI Cascade Program
+E0997,996,Digital,Power BI,2.4,Data Governance
+E0330,329,Digital,Python,1.9,Leadership Pipeline
+E0783,782,Digital,Power BI,3.2,Document Intelligence
+E0783,782,Management,Lean Process,3.1,Organization Memory
+E0783,782,OD,Organization Design,0.5,Leadership Pipeline
+E0463,462,OD,Organization Design,5.6,Data Governance
+E0463,462,Digital,Document Intelligence,1.9,Decision Center
+E0463,462,Digital,Python,1.0,Leadership Pipeline
+E0135,134,Management,Lean Process,4.2,Leadership Pipeline
+E0053,52,Management,Lean Process,0.6,Process Standardization
+E0053,52,Digital,AI Dashboard,1.9,Learning Academy
+E0053,52,OD,Leadership Coaching,2.0,Organization Memory
+E0260,259,Digital,Document Intelligence,5.7,Green Culture Program
+E0260,259,OD,Leadership Coaching,3.7,Organization Memory
+E0345,344,OD,Change Management,6.6,Workforce Planning
+E0345,344,Management,Performance Management,1.6,Leadership Pipeline
+E0345,344,Management,KPI Cascade,1.0,Green Culture Program
+E0992,991,Digital,Document Intelligence,4.1,Multi-Agent Pilot
+E0992,991,Management,Financial Modeling,14.8,Document Intelligence
+E0748,747,OD,Succession Planning,1.9,Organization Memory
+E0748,747,Digital,Document Intelligence,2.3,Green Culture Program
+E0464,463,Management,KPI Cascade,8.4,AI Dashboard Roadmap
+E0464,463,OD,Succession Planning,2.7,Process Standardization
+E0464,463,Management,Lean Process,3.0,Workforce Planning
+E0130,129,OD,Succession Planning,1.3,AI Dashboard Roadmap
+E0130,129,Digital,Power BI,3.1,Decision Center
+E0130,129,Management,Performance Management,2.8,Learning Academy
+E0420,419,Management,Performance Management,0.3,Workforce Planning
+E0420,419,Digital,Python,1.7,ONA Pilot
+E0214,213,OD,Succession Planning,3.7,ONA Pilot
+E0487,486,Digital,AI Dashboard,0.1,Document Intelligence
+E0487,486,OD,Succession Planning,3.3,Workforce Planning
+E0487,486,Management,Lean Process,2.7,Multi-Agent Pilot
+E0597,596,OD,Change Management,3.6,KPI Cascade Program
+E0597,596,Digital,Python,1.5,Multi-Agent Pilot
+E0597,596,Digital,Document Intelligence,5.2,Document Intelligence
+E0858,857,Management,Performance Management,1.3,AI Dashboard Roadmap
+E0385,384,OD,Leadership Coaching,2.2,KPI Cascade Program
+E0385,384,OD,Organization Design,8.0,Organization Memory
+E0385,384,Management,Financial Modeling,3.5,Data Governance
+E0478,477,Management,Performance Management,0.6,Document Intelligence
+E0478,477,Digital,AI Dashboard,2.2,Organization Health Assessment
+E0563,562,Management,Risk Management,5.0,Learning Academy
+E0563,562,OD,Organization Design,9.1,Document Intelligence
+E0563,562,Digital,AI Dashboard,1.2,Process Standardization
+E0637,636,OD,Succession Planning,3.2,Multi-Agent Pilot
+E0637,636,Digital,Document Intelligence,0.4,Learning Academy
+E0637,636,Management,Performance Management,5.3,Document Intelligence
+E0511,510,Digital,Python,4.7,Process Mining
+E0511,510,OD,Organization Design,2.4,Document Intelligence
+E0511,510,Digital,AI Dashboard,6.3,Workforce Planning
+E0905,904,OD,Succession Planning,2.2,Workforce Planning
+E0133,132,Digital,AI Dashboard,3.6,Data Governance
+E0133,132,Management,KPI Cascade,2.6,KPI Cascade Program
+E0133,132,Digital,Document Intelligence,2.4,Green Culture Program
+E0943,942,OD,Succession Planning,1.3,Workforce Planning
+E0943,942,Digital,Power BI,4.8,Green Culture Program
+E0943,942,Digital,Process Mining,0.7,Workforce Planning
+E0785,784,Management,KPI Cascade,3.0,AI Dashboard Roadmap
+E0785,784,Management,Financial Modeling,3.9,Leadership Pipeline
+E0785,784,OD,Leadership Coaching,4.4,Data Governance
+E0682,681,Digital,Document Intelligence,6.5,Workforce Planning
+E0682,681,Management,KPI Cascade,6.0,KPI Cascade Program
+E0067,66,Digital,Process Mining,4.4,Process Standardization
+E0067,66,Digital,Document Intelligence,2.3,KPI Cascade Program
+E0150,149,Management,KPI Cascade,1.9,Leadership Pipeline
+E0369,368,Management,Lean Process,4.5,AI Dashboard Roadmap
+E0369,368,Digital,Python,1.4,Green Culture Program
+E0866,865,OD,Leadership Coaching,2.3,Process Mining
+E0522,521,OD,Leadership Coaching,2.5,Green Culture Program
+E0144,143,Digital,Process Mining,4.5,Green Culture Program
+E0704,703,Management,Performance Management,4.0,Decision Center
+E0704,703,Management,KPI Cascade,2.8,Document Intelligence
+E0704,703,Digital,AI Dashboard,1.0,Data Governance
+E0262,261,OD,Organization Design,3.5,AI Dashboard Roadmap
+E0262,261,Management,Risk Management,7.0,Organization Health Assessment
+E0631,630,OD,Succession Planning,1.3,Multi-Agent Pilot
+E0631,630,Management,Performance Management,1.2,KPI Cascade Program
+E0185,184,OD,Change Management,2.2,Decision Center
+E0185,184,Management,KPI Cascade,2.6,Learning Academy
+E0328,327,OD,Succession Planning,1.5,KPI Cascade Program
+E0936,935,Digital,AI Dashboard,4.8,Process Mining
+E0936,935,Management,Lean Process,2.9,Process Mining
+E0164,163,Digital,Process Mining,6.4,ONA Pilot
+E0164,163,Management,Lean Process,0.5,Organization Health Assessment
+E0164,163,OD,Organization Design,3.9,Data Governance
+E0986,985,Management,KPI Cascade,2.3,Organization Memory
+E0986,985,Digital,Power BI,4.7,Organization Memory
+E0046,45,Management,Risk Management,1.6,Multi-Agent Pilot

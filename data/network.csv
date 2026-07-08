@@ -1,0 +1,111 @@
+relationship,from_unit,to_unit,collaboration_score,dependency_score,interaction_volume,risk_level
+EHS-Supply Chain,EHS,Supply Chain,60,68,65,Medium
+Quality-Product,Quality,Product,44,56,163,Medium
+Procurement-Marketing,Procurement,Marketing,83,42,150,Low
+Maintenance-Procurement,Maintenance,Procurement,92,71,29,Low
+Automation-IT,Automation,IT,69,91,127,Medium
+Marketing-Strategy,Marketing,Strategy,49,69,161,Medium
+Product-Investment,Product,Investment,92,83,34,Low
+Customer Success-Production,Customer Success,Production,92,88,155,Low
+Automation-Sustainability,Automation,Sustainability,63,95,81,Medium
+Procurement-EHS,Procurement,EHS,70,62,49,Medium
+Strategy-Supply Chain,Strategy,Supply Chain,85,96,168,Low
+Quality-Strategy,Quality,Strategy,44,54,35,Medium
+Finance-Data & AI,Finance,Data & AI,54,64,45,Medium
+Customer Success-IT,Customer Success,IT,81,92,40,Low
+Maintenance-Procurement,Maintenance,Procurement,56,97,133,High
+Automation-Sales,Automation,Sales,75,70,25,Low
+Data & AI-Procurement,Data & AI,Procurement,80,97,62,Low
+Data & AI-CEO Office,Data & AI,CEO Office,69,72,109,Medium
+Transformation Office-Marketing,Transformation Office,Marketing,76,75,129,Low
+Supply Chain-IT,Supply Chain,IT,56,97,55,High
+Production-HR,Production,HR,78,68,47,Low
+HR-Data & AI,HR,Data & AI,94,78,137,Low
+Product-Product,Product,Product,80,79,14,Low
+Finance-Sales,Finance,Sales,52,67,162,Medium
+Product-Supply Chain,Product,Supply Chain,78,79,168,Low
+IT-EHS,IT,EHS,61,39,93,Medium
+Investment-EHS,Investment,EHS,79,63,53,Low
+Marketing-Sustainability,Marketing,Sustainability,91,58,133,Low
+Production-Maintenance,Production,Maintenance,49,63,127,Medium
+EHS-Data & AI,EHS,Data & AI,48,45,11,Medium
+CEO Office-EHS,CEO Office,EHS,48,74,115,High
+EHS-Procurement,EHS,Procurement,45,58,51,Medium
+Customer Success-Data & AI,Customer Success,Data & AI,75,86,127,Low
+Product-Transformation Office,Product,Transformation Office,81,80,74,Low
+Supply Chain-Customer Success,Supply Chain,Customer Success,74,94,140,Medium
+Procurement-Sustainability,Procurement,Sustainability,62,52,37,Medium
+HR-Customer Success,HR,Customer Success,49,76,28,High
+Sales-IT,Sales,IT,93,36,120,Low
+CEO Office-Procurement,CEO Office,Procurement,85,65,20,Low
+Quality-Research,Quality,Research,70,66,11,Medium
+Sustainability-Data & AI,Sustainability,Data & AI,42,90,134,High
+CEO Office-Customer Success,CEO Office,Customer Success,50,53,157,Medium
+Finance-Product,Finance,Product,48,87,100,High
+Production-Sustainability,Production,Sustainability,71,81,74,Medium
+Quality-Procurement,Quality,Procurement,42,42,127,Medium
+IT-Supply Chain,IT,Supply Chain,72,71,115,Medium
+Procurement-Legal,Procurement,Legal,73,86,129,Medium
+Transformation Office-IT,Transformation Office,IT,82,37,23,Low
+Strategy-Investment,Strategy,Investment,80,88,94,Low
+Investment-EHS,Investment,EHS,92,41,82,Low
+Automation-Customer Success,Automation,Customer Success,43,61,113,Medium
+Finance-Quality,Finance,Quality,73,89,75,Medium
+Automation-EHS,Automation,EHS,94,58,43,Low
+Production-Quality,Production,Quality,93,86,58,Low
+Marketing-Customer Success,Marketing,Customer Success,77,72,115,Low
+IT-Production,IT,Production,64,87,172,Medium
+CEO Office-Sales,CEO Office,Sales,44,78,127,High
+Research-Data & AI,Research,Data & AI,81,88,76,Low
+Customer Success-IT,Customer Success,IT,51,41,163,Medium
+Strategy-Quality,Strategy,Quality,51,83,23,High
+IT-Procurement,IT,Procurement,66,52,122,Medium
+Supply Chain-Investment,Supply Chain,Investment,44,53,93,Medium
+Data & AI-CEO Office,Data & AI,CEO Office,73,56,16,Medium
+Production-Sales,Production,Sales,55,49,125,Medium
+Research-Maintenance,Research,Maintenance,58,73,83,High
+Sales-Legal,Sales,Legal,78,39,124,Low
+CEO Office-Supply Chain,CEO Office,Supply Chain,52,58,72,Medium
+Research-Legal,Research,Legal,80,52,139,Low
+Sustainability-Sales,Sustainability,Sales,82,52,176,Low
+Marketing-Marketing,Marketing,Marketing,58,80,169,High
+IT-Maintenance,IT,Maintenance,89,78,109,Low
+Supply Chain-Procurement,Supply Chain,Procurement,66,77,66,Medium
+HR-Product,HR,Product,64,71,122,Medium
+Customer Success-Sustainability,Customer Success,Sustainability,50,67,48,Medium
+Maintenance-IT,Maintenance,IT,62,73,147,Medium
+Quality-Investment,Quality,Investment,88,88,170,Low
+Sales-Product,Sales,Product,49,75,168,High
+Product-Data & AI,Product,Data & AI,66,98,112,Medium
+Product-Finance,Product,Finance,83,50,174,Low
+Quality-IT,Quality,IT,75,41,73,Low
+Transformation Office-HR,Transformation Office,HR,57,97,95,High
+Supply Chain-Sales,Supply Chain,Sales,51,96,61,High
+EHS-Sustainability,EHS,Sustainability,95,53,18,Low
+Finance-Strategy,Finance,Strategy,44,78,101,High
+Supply Chain-Research,Supply Chain,Research,71,44,180,Medium
+Data & AI-Sustainability,Data & AI,Sustainability,70,49,29,Medium
+HR-Sustainability,HR,Sustainability,52,51,87,Medium
+Investment-Finance,Investment,Finance,76,98,64,Low
+Automation-Procurement,Automation,Procurement,59,94,142,High
+Legal-Data & AI,Legal,Data & AI,77,64,90,Low
+EHS-Research,EHS,Research,92,60,46,Low
+IT-Automation,IT,Automation,47,63,68,Medium
+Research-Marketing,Research,Marketing,46,51,131,Medium
+Customer Success-Supply Chain,Customer Success,Supply Chain,84,74,128,Low
+Data & AI-Supply Chain,Data & AI,Supply Chain,91,88,32,Low
+Product-Automation,Product,Automation,72,48,67,Medium
+Procurement-EHS,Procurement,EHS,73,84,33,Medium
+Sales-Production,Sales,Production,58,64,25,Medium
+Sustainability-Automation,Sustainability,Automation,91,53,89,Low
+Strategy-Automation,Strategy,Automation,77,45,42,Low
+Automation-Investment,Automation,Investment,79,69,127,Low
+Automation-Automation,Automation,Automation,46,42,93,Medium
+EHS-Legal,EHS,Legal,67,95,91,Medium
+Sales-Research,Sales,Research,72,64,71,Medium
+Sustainability-Marketing,Sustainability,Marketing,70,80,138,Medium
+Finance-Customer Success,Finance,Customer Success,71,40,93,Medium
+Production-EHS,Production,EHS,63,62,18,Medium
+Product-Research,Product,Research,44,44,87,Medium
+Strategy-Automation,Strategy,Automation,53,65,145,Medium
+Product-Transformation Office,Product,Transformation Office,62,97,111,Medium

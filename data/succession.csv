@@ -1,0 +1,36 @@
+critical_position,incumbent,department,successor,readiness_score,performance_score,potential_score,incumbent_attrition_risk,risk_level
+HR Manager,916,HR,935,84.1,89.8,98.8,19.2,Low
+Data & AI Manager,701,Data & AI,98,62.2,56.2,54.2,55.1,Medium
+Supply Chain Manager,660,Supply Chain,655,85.8,95.5,90.5,37.0,Low
+Investment Manager,278,Investment,827,67.9,77.4,83.4,52.0,Medium
+Sustainability Manager,42,Sustainability,467,77.0,70.4,65.4,42.8,Low
+Strategy Senior Manager,202,Strategy,787,80.1,75.7,70.7,30.2,Low
+Quality Manager,321,Quality,939,82.6,78.3,84.3,35.0,Low
+Production Senior Manager,856,Production,802,82.9,66.3,61.3,39.6,Low
+Maintenance Manager,34,Maintenance,952,81.5,96.4,99.0,26.3,Low
+Supply Chain Senior Manager,50,Supply Chain,731,68.4,64.0,63.0,50.3,Medium
+Production Manager,473,Production,862,81.9,66.3,81.3,27.4,Low
+Production Manager,836,Production,347,77.9,73.0,84.0,39.0,Low
+Sales Manager,590,Sales,824,80.3,84.7,99.0,39.3,Low
+Quality Manager,201,Quality,739,95.0,98.5,99.0,41.4,Low
+Quality Manager,654,Quality,621,76.4,80.2,93.2,32.2,Low
+Maintenance Senior Manager,364,Maintenance,9,72.5,72.8,86.8,44.6,Medium
+Production Manager,298,Production,75,65.3,68.7,71.7,50.3,Medium
+Maintenance Manager,127,Maintenance,962,64.3,71.1,82.1,42.3,Medium
+Transformation Office Manager,384,Transformation Office,792,79.2,78.2,77.2,33.7,Low
+Sales Manager,592,Sales,184,80.6,83.3,85.3,46.1,Low
+Data & AI Manager,821,Data & AI,174,84.4,99.0,99.0,55.0,Low
+Marketing Manager,918,Marketing,99,70.4,58.6,73.6,27.1,Medium
+Quality Manager,744,Quality,599,54.4,73.0,78.0,49.2,High
+Transformation Office Senior Manager,853,Transformation Office,930,78.6,85.6,99.0,31.9,Low
+Product Manager,786,Product,319,64.7,45.6,44.6,27.6,Medium
+Investment Manager,859,Investment,274,76.8,71.5,81.5,30.1,Low
+Marketing Manager,209,Marketing,890,71.2,76.4,83.4,31.7,Medium
+Finance Manager,290,Finance,742,62.7,77.3,75.3,57.1,Medium
+Production Senior Manager,927,Production,12,74.1,82.1,95.1,35.4,Medium
+HR Manager,610,HR,198,60.9,67.0,70.0,33.5,Medium
+HR Manager,443,HR,289,75.4,87.3,85.3,25.1,Low
+Production Senior Manager,132,Production,906,79.0,68.8,75.8,28.3,Low
+Production Manager,106,Production,115,75.8,77.0,72.0,36.9,Low
+HR Manager,232,HR,876,58.4,73.8,71.8,35.0,High
+Transformation Office Manager,21,Transformation Office,764,69.5,67.0,78.0,32.0,Medium
