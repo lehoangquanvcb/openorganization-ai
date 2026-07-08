@@ -10,7 +10,7 @@ from modules.data_loader import load_all
 from modules.analytics import *
 from modules.ai import *
 
-st.set_page_config(page_title="OpenOrganization AI v8", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="OpenOrganization AI - Author: Le Hoang Quan", page_icon="🧠", layout="wide")
 data = load_all(Path("data"))
 
 st.markdown("""
