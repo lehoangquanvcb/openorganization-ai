@@ -134,7 +134,6 @@ module = st.sidebar.radio("Chọn phân hệ", [
     "👥 Multi-Agent Boardroom",
     "📋 Executive Meeting AI",
     "⛏️ Process Mining",
-    "📄 Document Intelligence",
     "🎯 Executive Decision Center",
     "🧭 Scenario Planning",
     "🏢 Organization Digital Twin",
@@ -228,15 +227,6 @@ elif module == "⛏️ Process Mining":
         fig2 = px.box(df, x="step", y="duration_days", color="owner", title="Duration distribution")
         st.plotly_chart(fig2, use_container_width=True)
     st.dataframe(df.head(120), use_container_width=True)
-
-elif module == "📄 Document Intelligence":
-    st.title("Document Intelligence")
-    docs = data["documents"]
-    st.dataframe(docs, use_container_width=True)
-    selected = st.selectbox("Chọn tài liệu", docs["title"].tolist())
-    doc = docs[docs["title"] == selected].iloc[0].to_dict()
-    st.markdown(document_review(doc), unsafe_allow_html=True)
-
 elif module == "🎯 Executive Decision Center":
     st.title("Executive Decision Center")
     df = decision_center(data)

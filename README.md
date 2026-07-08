@@ -9,7 +9,7 @@ V8 upgrades the visual experience of V7.1.
 - Added Process Flow visualization with bottleneck highlight.
 - Improved Multi-Agent Boardroom into agent cards.
 - Improved Executive Meeting AI into Board Pack format.
-- Improved Decision Center and Document Intelligence layout.
+- Improved Decision Center layout.
 
 ## Files changed
 
@@ -23,3 +23,8 @@ V8 upgrades the visual experience of V7.1.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## v8.1 Update
+
+- Removed standalone **Document Intelligence** tab.
+- Document-related review can be handled through **Chat with Organization** and **Executive Meeting AI**.
