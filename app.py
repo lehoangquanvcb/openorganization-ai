@@ -125,7 +125,7 @@ def process_flow_figure(df):
     return fig
 
 st.sidebar.title("🧠 OpenOrganization AI")
-st.sidebar.markdown("**v8 Graph Pack**")
+st.sidebar.markdown("**Author: Le Hoang Quan**")
 st.sidebar.caption("Knowledge Graph • Process Flow • Board Pack")
 module = st.sidebar.radio("Chọn phân hệ", [
     "🏠 CEO Morning Brief",
